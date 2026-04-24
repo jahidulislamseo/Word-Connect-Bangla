@@ -5,7 +5,11 @@
       "destination": "/play/$1"
     },
     {
-      "source": "/(.*)",
+      "source": "/play",
+      "destination": "/play/index.html"
+    },
+    {
+      "source": "/((?!play).*)/",
       "destination": "/$1"
     }
   ]
