@@ -1,0 +1,8157 @@
+{
+  "apple": {
+    "bn": "আপেল",
+    "phonetic": "/ˈæp.əl/",
+    "audio": "apple",
+    "category": "fruit",
+    "difficulty": 1
+  },
+  "bird": {
+    "bn": "পাখি",
+    "phonetic": "/bɜːrd/",
+    "audio": "bird",
+    "category": "animal",
+    "difficulty": 1
+  },
+  "book": {
+    "bn": "বই",
+    "phonetic": "/bʊk/",
+    "audio": "book",
+    "category": "object",
+    "difficulty": 1
+  },
+  "cake": {
+    "bn": "কেক",
+    "phonetic": "/keɪk/",
+    "audio": "cake",
+    "category": "food",
+    "difficulty": 1
+  },
+  "door": {
+    "bn": "দরজা",
+    "phonetic": "/dɔːr/",
+    "audio": "door",
+    "category": "object",
+    "difficulty": 1
+  },
+  "fish": {
+    "bn": "মাছ",
+    "phonetic": "/fɪʃ/",
+    "audio": "fish",
+    "category": "animal",
+    "difficulty": 1
+  },
+  "gold": {
+    "bn": "সোনা",
+    "phonetic": "/ɡoʊld/",
+    "audio": "gold",
+    "category": "material",
+    "difficulty": 1
+  },
+  "hand": {
+    "bn": "হাত",
+    "phonetic": "/hænd/",
+    "audio": "hand",
+    "category": "body",
+    "difficulty": 1
+  },
+  "iron": {
+    "bn": "লোহা",
+    "phonetic": "/ˈaɪ.ərn/",
+    "audio": "iron",
+    "category": "material",
+    "difficulty": 1
+  },
+  "jump": {
+    "bn": "লাফ দেওয়া",
+    "phonetic": "/dʒʌmp/",
+    "audio": "jump",
+    "category": "action",
+    "difficulty": 1
+  },
+  "king": {
+    "bn": "রাজা",
+    "phonetic": "/kɪŋ/",
+    "audio": "king",
+    "category": "person",
+    "difficulty": 1
+  },
+  "lamp": {
+    "bn": "বাতি",
+    "phonetic": "/læmp/",
+    "audio": "lamp",
+    "category": "object",
+    "difficulty": 1
+  },
+  "milk": {
+    "bn": "দুধ",
+    "phonetic": "/mɪlk/",
+    "audio": "milk",
+    "category": "food",
+    "difficulty": 1
+  },
+  "nose": {
+    "bn": "নাক",
+    "phonetic": "/noʊz/",
+    "audio": "nose",
+    "category": "body",
+    "difficulty": 1
+  },
+  "open": {
+    "bn": "খোলা",
+    "phonetic": "/ˈoʊ.pən/",
+    "audio": "open",
+    "category": "action",
+    "difficulty": 1
+  },
+  "park": {
+    "bn": "উদ্যান",
+    "phonetic": "/pɑːrk/",
+    "audio": "park",
+    "category": "place",
+    "difficulty": 1
+  },
+  "rain": {
+    "bn": "বৃষ্টি",
+    "phonetic": "/reɪn/",
+    "audio": "rain",
+    "category": "weather",
+    "difficulty": 1
+  },
+  "road": {
+    "bn": "রাস্তা",
+    "phonetic": "/roʊd/",
+    "audio": "road",
+    "category": "place",
+    "difficulty": 1
+  },
+  "salt": {
+    "bn": "লবণ",
+    "phonetic": "/sɔːlt/",
+    "audio": "salt",
+    "category": "food",
+    "difficulty": 1
+  },
+  "tree": {
+    "bn": "গাছ",
+    "phonetic": "/triː/",
+    "audio": "tree",
+    "category": "nature",
+    "difficulty": 1
+  },
+  "abandon": {
+    "bn": "পরিত্যাগ করা",
+    "phonetic": "/əˈbændən/",
+    "audio": "abandon",
+    "category": "action",
+    "difficulty": 3
+  },
+  "ability": {
+    "bn": "ক্ষমতা",
+    "phonetic": "/əˈbɪlɪti/",
+    "audio": "ability",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "about": {
+    "bn": "সম্পর্কে",
+    "phonetic": "/əˈbaʊt/",
+    "audio": "about",
+    "category": "preposition",
+    "difficulty": 1
+  },
+  "above": {
+    "bn": "উপরে",
+    "phonetic": "/əˈbʌv/",
+    "audio": "above",
+    "category": "preposition",
+    "difficulty": 1
+  },
+  "accept": {
+    "bn": "গ্রহণ করা",
+    "phonetic": "/əkˈsept/",
+    "audio": "accept",
+    "category": "action",
+    "difficulty": 2
+  },
+  "account": {
+    "bn": "হিসাব",
+    "phonetic": "/əˈkaʊnt/",
+    "audio": "account",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "across": {
+    "bn": "পারাপার",
+    "phonetic": "/əˈkrɒs/",
+    "audio": "across",
+    "category": "preposition",
+    "difficulty": 2
+  },
+  "act": {
+    "bn": "কাজ করা",
+    "phonetic": "/ækt/",
+    "audio": "act",
+    "category": "action",
+    "difficulty": 1
+  },
+  "active": {
+    "bn": "সক্রিয়",
+    "phonetic": "/ˈæktɪv/",
+    "audio": "active",
+    "category": "adjective",
+    "difficulty": 2
+  },
+  "activity": {
+    "bn": "কার্যকলাপ",
+    "phonetic": "/ækˈtɪvɪti/",
+    "audio": "activity",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "actor": {
+    "bn": "অভিনেতা",
+    "phonetic": "/ˈæktər/",
+    "audio": "actor",
+    "category": "person",
+    "difficulty": 2
+  },
+  "add": {
+    "bn": "যোগ করা",
+    "phonetic": "/æd/",
+    "audio": "add",
+    "category": "action",
+    "difficulty": 1
+  },
+  "address": {
+    "bn": "ঠিকানা",
+    "phonetic": "/əˈdres/",
+    "audio": "address",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "adult": {
+    "bn": "প্রাপ্তবয়স্ক",
+    "phonetic": "/ˈædʌlt/",
+    "audio": "adult",
+    "category": "person",
+    "difficulty": 2
+  },
+  "advice": {
+    "bn": "উপদেশ",
+    "phonetic": "/ədˈvaɪs/",
+    "audio": "advice",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "afraid": {
+    "bn": "ভীত",
+    "phonetic": "/əˈfreɪd/",
+    "audio": "afraid",
+    "category": "adjective",
+    "difficulty": 1
+  },
+  "after": {
+    "bn": "পরে",
+    "phonetic": "/ˈɑːftər/",
+    "audio": "after",
+    "category": "preposition",
+    "difficulty": 1
+  },
+  "again": {
+    "bn": "আবার",
+    "phonetic": "/əˈɡen/",
+    "audio": "again",
+    "category": "adverb",
+    "difficulty": 1
+  },
+  "age": {
+    "bn": "বয়স",
+    "phonetic": "/eɪdʒ/",
+    "audio": "age",
+    "category": "abstract",
+    "difficulty": 1
+  },
+  "agree": {
+    "bn": "সম্মত হওয়া",
+    "phonetic": "/əˈɡriː/",
+    "audio": "agree",
+    "category": "action",
+    "difficulty": 2
+  },
+  "air": {
+    "bn": "বাতাস",
+    "phonetic": "/er/",
+    "audio": "air",
+    "category": "nature",
+    "difficulty": 1
+  },
+  "airport": {
+    "bn": "বিমানবন্দর",
+    "phonetic": "/ˈerpɔːrt/",
+    "audio": "airport",
+    "category": "place",
+    "difficulty": 2
+  },
+  "all": {
+    "bn": "সব",
+    "phonetic": "/ɔːl/",
+    "audio": "all",
+    "category": "determiner",
+    "difficulty": 1
+  },
+  "almost": {
+    "bn": "প্রায়",
+    "phonetic": "/ˈɔːlmoʊst/",
+    "audio": "almost",
+    "category": "adverb",
+    "difficulty": 2
+  },
+  "alone": {
+    "bn": "একা",
+    "phonetic": "/əˈloʊn/",
+    "audio": "alone",
+    "category": "adjective",
+    "difficulty": 1
+  },
+  "along": {
+    "bn": "বরাবর",
+    "phonetic": "/əˈlɔːŋ/",
+    "audio": "along",
+    "category": "preposition",
+    "difficulty": 2
+  },
+  "already": {
+    "bn": "ইতিমধ্যে",
+    "phonetic": "/ɔːlˈredi/",
+    "audio": "already",
+    "category": "adverb",
+    "difficulty": 2
+  },
+  "also": {
+    "bn": "আরও",
+    "phonetic": "/ˈɔːlsoʊ/",
+    "audio": "also",
+    "category": "adverb",
+    "difficulty": 1
+  },
+  "always": {
+    "bn": "সবসময়",
+    "phonetic": "/ˈɔːlweɪz/",
+    "audio": "always",
+    "category": "adverb",
+    "difficulty": 1
+  },
+  "amount": {
+    "bn": "পরিমাণ",
+    "phonetic": "/əˈmaʊnt/",
+    "audio": "amount",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "angry": {
+    "bn": "রাগান্বিত",
+    "phonetic": "/ˈæŋɡri/",
+    "audio": "angry",
+    "category": "adjective",
+    "difficulty": 1
+  },
+  "animal": {
+    "bn": "প্রাণী",
+    "phonetic": "/ˈænɪməl/",
+    "audio": "animal",
+    "category": "nature",
+    "difficulty": 1
+  },
+  "another": {
+    "bn": "অন্য একটি",
+    "phonetic": "/əˈnʌðər/",
+    "audio": "another",
+    "category": "determiner",
+    "difficulty": 2
+  },
+  "answer": {
+    "bn": "উত্তর",
+    "phonetic": "/ˈænsər/",
+    "audio": "answer",
+    "category": "abstract",
+    "difficulty": 1
+  },
+  "any": {
+    "bn": "যেকোনো",
+    "phonetic": "/ˈeni/",
+    "audio": "any",
+    "category": "determiner",
+    "difficulty": 1
+  },
+  "anyone": {
+    "bn": "যে কেউ",
+    "phonetic": "/ˈeniwʌn/",
+    "audio": "anyone",
+    "category": "pronoun",
+    "difficulty": 1
+  },
+  "anything": {
+    "bn": "যেকোনো কিছু",
+    "phonetic": "/ˈeniθɪŋ/",
+    "audio": "anything",
+    "category": "pronoun",
+    "difficulty": 1
+  },
+  "area": {
+    "bn": "এলাকা",
+    "phonetic": "/ˈeriə/",
+    "audio": "area",
+    "category": "place",
+    "difficulty": 2
+  },
+  "arm": {
+    "bn": "হাত",
+    "phonetic": "/ɑːrm/",
+    "audio": "arm",
+    "category": "body",
+    "difficulty": 1
+  },
+  "army": {
+    "bn": "সেনাবাহিনী",
+    "phonetic": "/ˈɑːrmi/",
+    "audio": "army",
+    "category": "group",
+    "difficulty": 2
+  },
+  "around": {
+    "bn": "চারপাশে",
+    "phonetic": "/əˈraʊnd/",
+    "audio": "around",
+    "category": "preposition",
+    "difficulty": 1
+  },
+  "arrive": {
+    "bn": "পৌঁছানো",
+    "phonetic": "/əˈraɪv/",
+    "audio": "arrive",
+    "category": "action",
+    "difficulty": 2
+  },
+  "art": {
+    "bn": "শিল্প",
+    "phonetic": "/ɑːrt/",
+    "audio": "art",
+    "category": "abstract",
+    "difficulty": 1
+  },
+  "article": {
+    "bn": "নিবন্ধ",
+    "phonetic": "/ˈɑːrtɪkl/",
+    "audio": "article",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "as": {
+    "bn": "হিসাবে",
+    "phonetic": "/æz/",
+    "audio": "as",
+    "category": "preposition",
+    "difficulty": 1
+  },
+  "ask": {
+    "bn": "জিজ্ঞাসা করা",
+    "phonetic": "/æsk/",
+    "audio": "ask",
+    "category": "action",
+    "difficulty": 1
+  },
+  "at": {
+    "bn": "এতে",
+    "phonetic": "/æt/",
+    "audio": "at",
+    "category": "preposition",
+    "difficulty": 1
+  },
+  "attack": {
+    "bn": "আক্রমণ",
+    "phonetic": "/əˈtæk/",
+    "audio": "attack",
+    "category": "action",
+    "difficulty": 2
+  },
+  "aunt": {
+    "bn": "চাচী",
+    "phonetic": "/ænt/",
+    "audio": "aunt",
+    "category": "person",
+    "difficulty": 1
+  },
+  "away": {
+    "bn": "দূরে",
+    "phonetic": "/əˈweɪ/",
+    "audio": "away",
+    "category": "adverb",
+    "difficulty": 1
+  },
+  "back": {
+    "bn": "পিছনে",
+    "phonetic": "/bæk/",
+    "audio": "back",
+    "category": "abstract",
+    "difficulty": 1
+  },
+  "bad": {
+    "bn": "খারাপ",
+    "phonetic": "/bæd/",
+    "audio": "bad",
+    "category": "adjective",
+    "difficulty": 1
+  },
+  "bag": {
+    "bn": "ব্যাগ",
+    "phonetic": "/bæɡ/",
+    "audio": "bag",
+    "category": "object",
+    "difficulty": 1
+  },
+  "ball": {
+    "bn": "বল",
+    "phonetic": "/bɔːl/",
+    "audio": "ball",
+    "category": "object",
+    "difficulty": 1
+  },
+  "bank": {
+    "bn": "ব্যাংক",
+    "phonetic": "/bæŋk/",
+    "audio": "bank",
+    "category": "place",
+    "difficulty": 1
+  },
+  "base": {
+    "bn": "ভিত্তি",
+    "phonetic": "/beɪs/",
+    "audio": "base",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "basket": {
+    "bn": "ঝুড়ি",
+    "phonetic": "/ˈbæskɪt/",
+    "audio": "basket",
+    "category": "object",
+    "difficulty": 1
+  },
+  "bath": {
+    "bn": "স্নান",
+    "phonetic": "/bæθ/",
+    "audio": "bath",
+    "category": "action",
+    "difficulty": 1
+  },
+  "be": {
+    "bn": "হওয়া",
+    "phonetic": "/biː/",
+    "audio": "be",
+    "category": "action",
+    "difficulty": 1
+  },
+  "beach": {
+    "bn": "সৈকত",
+    "phonetic": "/biːtʃ/",
+    "audio": "beach",
+    "category": "place",
+    "difficulty": 2
+  },
+  "bear": {
+    "bn": "ভাল্লুক",
+    "phonetic": "/ber/",
+    "audio": "bear",
+    "category": "animal",
+    "difficulty": 2
+  },
+  "beat": {
+    "bn": "মারা",
+    "phonetic": "/biːt/",
+    "audio": "beat",
+    "category": "action",
+    "difficulty": 2
+  },
+  "beautiful": {
+    "bn": "সুন্দর",
+    "phonetic": "/ˈbjuːtɪfl/",
+    "audio": "beautiful",
+    "category": "adjective",
+    "difficulty": 1
+  },
+  "because": {
+    "bn": "কারণ",
+    "phonetic": "/bɪˈkəz/",
+    "audio": "because",
+    "category": "conjunction",
+    "difficulty": 1
+  },
+  "become": {
+    "bn": "হওয়া",
+    "phonetic": "/bɪˈkʌm/",
+    "audio": "become",
+    "category": "action",
+    "difficulty": 2
+  },
+  "bed": {
+    "bn": "বিছানা",
+    "phonetic": "/bed/",
+    "audio": "bed",
+    "category": "object",
+    "difficulty": 1
+  },
+  "before": {
+    "bn": "আগে",
+    "phonetic": "/bɪˈfɔːr/",
+    "audio": "before",
+    "category": "preposition",
+    "difficulty": 1
+  },
+  "begin": {
+    "bn": "শুরু করা",
+    "phonetic": "/bɪˈɡɪn/",
+    "audio": "begin",
+    "category": "action",
+    "difficulty": 1
+  },
+  "behind": {
+    "bn": "পিছনে",
+    "phonetic": "/bɪˈhaɪnd/",
+    "audio": "behind",
+    "category": "preposition",
+    "difficulty": 1
+  },
+  "believe": {
+    "bn": "বিশ্বাস করা",
+    "phonetic": "/bɪˈliːv/",
+    "audio": "believe",
+    "category": "action",
+    "difficulty": 2
+  },
+  "bell": {
+    "bn": "ঘণ্টা",
+    "phonetic": "/bel/",
+    "audio": "bell",
+    "category": "object",
+    "difficulty": 1
+  },
+  "below": {
+    "bn": "নিচে",
+    "phonetic": "/bɪˈloʊ/",
+    "audio": "below",
+    "category": "preposition",
+    "difficulty": 1
+  },
+  "best": {
+    "bn": "সেরা",
+    "phonetic": "/best/",
+    "audio": "best",
+    "category": "adjective",
+    "difficulty": 1
+  },
+  "better": {
+    "bn": "আরও ভালো",
+    "phonetic": "/ˈbetər/",
+    "audio": "better",
+    "category": "adjective",
+    "difficulty": 1
+  },
+  "between": {
+    "bn": "মধ্যে",
+    "phonetic": "/bɪˈtwiːn/",
+    "audio": "between",
+    "category": "preposition",
+    "difficulty": 1
+  },
+  "big": {
+    "bn": "বড়",
+    "phonetic": "/bɪɡ/",
+    "audio": "big",
+    "category": "adjective",
+    "difficulty": 1
+  },
+  "bike": {
+    "bn": "বাইক",
+    "phonetic": "/baɪk/",
+    "audio": "bike",
+    "category": "object",
+    "difficulty": 1
+  },
+  "bill": {
+    "bn": "বিল",
+    "phonetic": "/bɪl/",
+    "audio": "bill",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "birth": {
+    "bn": "জন্ম",
+    "phonetic": "/bɜːrθ/",
+    "audio": "birth",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "bit": {
+    "bn": "সামান্য",
+    "phonetic": "/bɪt/",
+    "audio": "bit",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "black": {
+    "bn": "কালো",
+    "phonetic": "/blæk/",
+    "audio": "black",
+    "category": "color",
+    "difficulty": 1
+  },
+  "blood": {
+    "bn": "রক্ত",
+    "phonetic": "/blʌd/",
+    "audio": "blood",
+    "category": "body",
+    "difficulty": 2
+  },
+  "blow": {
+    "bn": "ফুঁ দেওয়া",
+    "phonetic": "/bloʊ/",
+    "audio": "blow",
+    "category": "action",
+    "difficulty": 2
+  },
+  "blue": {
+    "bn": "নীল",
+    "phonetic": "/bluː/",
+    "audio": "blue",
+    "category": "color",
+    "difficulty": 1
+  },
+  "board": {
+    "bn": "বোর্ড",
+    "phonetic": "/bɔːrd/",
+    "audio": "board",
+    "category": "object",
+    "difficulty": 2
+  },
+  "boat": {
+    "bn": "নৌকা",
+    "phonetic": "/boʊt/",
+    "audio": "boat",
+    "category": "object",
+    "difficulty": 1
+  },
+  "body": {
+    "bn": "শরীর",
+    "phonetic": "/ˈbɑːdi/",
+    "audio": "body",
+    "category": "body",
+    "difficulty": 1
+  },
+  "bone": {
+    "bn": "হাড়",
+    "phonetic": "/boʊn/",
+    "audio": "bone",
+    "category": "body",
+    "difficulty": 2
+  },
+  "born": {
+    "bn": "জাত",
+    "phonetic": "/bɔːrn/",
+    "audio": "born",
+    "category": "action",
+    "difficulty": 2
+  },
+  "both": {
+    "bn": "উভয়",
+    "phonetic": "/boʊθ/",
+    "audio": "both",
+    "category": "determiner",
+    "difficulty": 2
+  },
+  "bottle": {
+    "bn": "বোতল",
+    "phonetic": "/ˈbɑːtl/",
+    "audio": "bottle",
+    "category": "object",
+    "difficulty": 1
+  },
+  "bottom": {
+    "bn": "তলদেশ",
+    "phonetic": "/ˈbɑːtəm/",
+    "audio": "bottom",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "box": {
+    "bn": "বাক্স",
+    "phonetic": "/bɑːks/",
+    "audio": "box",
+    "category": "object",
+    "difficulty": 1
+  },
+  "boy": {
+    "bn": "বালক",
+    "phonetic": "/bɔɪ/",
+    "audio": "boy",
+    "category": "person",
+    "difficulty": 1
+  },
+  "bread": {
+    "bn": "রুটি",
+    "phonetic": "/bred/",
+    "audio": "bread",
+    "category": "food",
+    "difficulty": 1
+  },
+  "break": {
+    "bn": "ভাঙ্গা",
+    "phonetic": "/breɪk/",
+    "audio": "break",
+    "category": "action",
+    "difficulty": 1
+  },
+  "breakfast": {
+    "bn": "প্রাতরাশ",
+    "phonetic": "/ˈbrekfəst/",
+    "audio": "breakfast",
+    "category": "food",
+    "difficulty": 1
+  },
+  "bring": {
+    "bn": "আনা",
+    "phonetic": "/brɪŋ/",
+    "audio": "bring",
+    "category": "action",
+    "difficulty": 2
+  },
+  "brother": {
+    "bn": "ভাই",
+    "phonetic": "/ˈbrʌðər/",
+    "audio": "brother",
+    "category": "person",
+    "difficulty": 1
+  },
+  "brown": {
+    "bn": "বাদামী",
+    "phonetic": "/braʊn/",
+    "audio": "brown",
+    "category": "color",
+    "difficulty": 1
+  },
+  "build": {
+    "bn": "নির্মাণ করা",
+    "phonetic": "/bɪld/",
+    "audio": "build",
+    "category": "action",
+    "difficulty": 2
+  },
+  "building": {
+    "bn": "দালান",
+    "phonetic": "/ˈbɪldɪŋ/",
+    "audio": "building",
+    "category": "place",
+    "difficulty": 2
+  },
+  "burn": {
+    "bn": "পোড়ানো",
+    "phonetic": "/bɜːrn/",
+    "audio": "burn",
+    "category": "action",
+    "difficulty": 2
+  },
+  "bus": {
+    "bn": "বাস",
+    "phonetic": "/bʌs/",
+    "audio": "bus",
+    "category": "object",
+    "difficulty": 1
+  },
+  "business": {
+    "bn": "ব্যবসা",
+    "phonetic": "/ˈbɪznəs/",
+    "audio": "business",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "busy": {
+    "bn": "ব্যস্ত",
+    "phonetic": "/ˈbɪzi/",
+    "audio": "busy",
+    "category": "adjective",
+    "difficulty": 1
+  },
+  "but": {
+    "bn": "কিন্তু",
+    "phonetic": "/bʌt/",
+    "audio": "but",
+    "category": "conjunction",
+    "difficulty": 1
+  },
+  "buy": {
+    "bn": "কেনা",
+    "phonetic": "/baɪ/",
+    "audio": "buy",
+    "category": "action",
+    "difficulty": 1
+  },
+  "by": {
+    "bn": "দ্বারা",
+    "phonetic": "/baɪ/",
+    "audio": "by",
+    "category": "preposition",
+    "difficulty": 1
+  },
+  "call": {
+    "bn": "ডাকা",
+    "phonetic": "/kɔːl/",
+    "audio": "call",
+    "category": "action",
+    "difficulty": 1
+  },
+  "camera": {
+    "bn": "ক্যামেরা",
+    "phonetic": "/ˈkæmrə/",
+    "audio": "camera",
+    "category": "object",
+    "difficulty": 2
+  },
+  "can": {
+    "bn": "পারা",
+    "phonetic": "/kæn/",
+    "audio": "can",
+    "category": "action",
+    "difficulty": 1
+  },
+  "car": {
+    "bn": "গাড়ি",
+    "phonetic": "/kɑːr/",
+    "audio": "car",
+    "category": "object",
+    "difficulty": 1
+  },
+  "card": {
+    "bn": "কার্ড",
+    "phonetic": "/kɑːrd/",
+    "audio": "card",
+    "category": "object",
+    "difficulty": 2
+  },
+  "care": {
+    "bn": "যত্ন",
+    "phonetic": "/ker/",
+    "audio": "care",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "carry": {
+    "bn": "বহন করা",
+    "phonetic": "/ˈkæri/",
+    "audio": "carry",
+    "category": "action",
+    "difficulty": 2
+  },
+  "case": {
+    "bn": "ঘটনা",
+    "phonetic": "/keɪs/",
+    "audio": "case",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "cat": {
+    "bn": "বিড়াল",
+    "phonetic": "/kæt/",
+    "audio": "cat",
+    "category": "animal",
+    "difficulty": 1
+  },
+  "catch": {
+    "bn": "ধরা",
+    "phonetic": "/kætʃ/",
+    "audio": "catch",
+    "category": "action",
+    "difficulty": 2
+  },
+  "cause": {
+    "bn": "কারণ",
+    "phonetic": "/kɔːz/",
+    "audio": "cause",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "center": {
+    "bn": "কেন্দ্র",
+    "phonetic": "/ˈsentər/",
+    "audio": "center",
+    "category": "place",
+    "difficulty": 2
+  },
+  "certain": {
+    "bn": "নিশ্চিত",
+    "phonetic": "/ˈsɜːrtn/",
+    "audio": "certain",
+    "category": "adjective",
+    "difficulty": 2
+  },
+  "chair": {
+    "bn": "চেয়ার",
+    "phonetic": "/tʃer/",
+    "audio": "chair",
+    "category": "object",
+    "difficulty": 1
+  },
+  "chance": {
+    "bn": "সুযোগ",
+    "phonetic": "/tʃæns/",
+    "audio": "chance",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "change": {
+    "bn": "পরিবর্তন",
+    "phonetic": "/tʃeɪndʒ/",
+    "audio": "change",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "character": {
+    "bn": "চরিত্র",
+    "phonetic": "/ˈkærəktər/",
+    "audio": "character",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "charge": {
+    "bn": "চার্জ",
+    "phonetic": "/tʃɑːrdʒ/",
+    "audio": "charge",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "check": {
+    "bn": "পরীক্ষা করা",
+    "phonetic": "/tʃek/",
+    "audio": "check",
+    "category": "action",
+    "difficulty": 2
+  },
+  "child": {
+    "bn": "শিশু",
+    "phonetic": "/tʃaɪld/",
+    "audio": "child",
+    "category": "person",
+    "difficulty": 1
+  },
+  "choice": {
+    "bn": "পছন্দ",
+    "phonetic": "/tʃɔɪs/",
+    "audio": "choice",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "choose": {
+    "bn": "বেছে নেওয়া",
+    "phonetic": "/tʃuːz/",
+    "audio": "choose",
+    "category": "action",
+    "difficulty": 2
+  },
+  "church": {
+    "bn": "গির্জা",
+    "phonetic": "/tʃɜːrtʃ/",
+    "audio": "church",
+    "category": "place",
+    "difficulty": 2
+  },
+  "city": {
+    "bn": "শহর",
+    "phonetic": "/ˈsɪti/",
+    "audio": "city",
+    "category": "place",
+    "difficulty": 1
+  },
+  "class": {
+    "bn": "শ্রেণী",
+    "phonetic": "/klæs/",
+    "audio": "class",
+    "category": "abstract",
+    "difficulty": 1
+  },
+  "clean": {
+    "bn": "পরিষ্কার",
+    "phonetic": "/kliːn/",
+    "audio": "clean",
+    "category": "adjective",
+    "difficulty": 1
+  },
+  "clear": {
+    "bn": "স্পষ্ট",
+    "phonetic": "/klɪr/",
+    "audio": "clear",
+    "category": "adjective",
+    "difficulty": 2
+  },
+  "clock": {
+    "bn": "ঘড়ি",
+    "phonetic": "/klɑːk/",
+    "audio": "clock",
+    "category": "object",
+    "difficulty": 1
+  },
+  "close": {
+    "bn": "বন্ধ করা",
+    "phonetic": "/kloʊz/",
+    "audio": "close",
+    "category": "action",
+    "difficulty": 1
+  },
+  "cloth": {
+    "bn": "কাপড়",
+    "phonetic": "/klɔːθ/",
+    "audio": "cloth",
+    "category": "object",
+    "difficulty": 2
+  },
+  "cloud": {
+    "bn": "মেঘ",
+    "phonetic": "/klaʊd/",
+    "audio": "cloud",
+    "category": "nature",
+    "difficulty": 1
+  },
+  "club": {
+    "bn": "ক্লাব",
+    "phonetic": "/klʌb/",
+    "audio": "club",
+    "category": "group",
+    "difficulty": 2
+  },
+  "coat": {
+    "bn": "কোট",
+    "phonetic": "/koʊt/",
+    "audio": "coat",
+    "category": "object",
+    "difficulty": 2
+  },
+  "coffee": {
+    "bn": "কফি",
+    "phonetic": "/ˈkɔːfi/",
+    "audio": "coffee",
+    "category": "food",
+    "difficulty": 1
+  },
+  "cold": {
+    "bn": "ঠান্ডা",
+    "phonetic": "/koʊld/",
+    "audio": "cold",
+    "category": "adjective",
+    "difficulty": 1
+  },
+  "color": {
+    "bn": "রঙ",
+    "phonetic": "/ˈkʌlər/",
+    "audio": "color",
+    "category": "abstract",
+    "difficulty": 1
+  },
+  "come": {
+    "bn": "আসা",
+    "phonetic": "/kʌm/",
+    "audio": "come",
+    "category": "action",
+    "difficulty": 1
+  },
+  "common": {
+    "bn": "সাধারণ",
+    "phonetic": "/ˈkɑːmən/",
+    "audio": "common",
+    "category": "adjective",
+    "difficulty": 2
+  },
+  "company": {
+    "bn": "প্রতিষ্ঠান",
+    "phonetic": "/ˈkʌmpəni/",
+    "audio": "company",
+    "category": "group",
+    "difficulty": 2
+  },
+  "compare": {
+    "bn": "তুলনা করা",
+    "phonetic": "/kəmˈper/",
+    "audio": "compare",
+    "category": "action",
+    "difficulty": 3
+  },
+  "complete": {
+    "bn": "সম্পূর্ণ",
+    "phonetic": "/kəmˈpliːt/",
+    "audio": "complete",
+    "category": "adjective",
+    "difficulty": 2
+  },
+  "condition": {
+    "bn": "অবস্থা",
+    "phonetic": "/kənˈdɪʃn/",
+    "audio": "condition",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "continue": {
+    "bn": "চালিয়ে যাওয়া",
+    "phonetic": "/kənˈtɪnjuː/",
+    "audio": "continue",
+    "category": "action",
+    "difficulty": 2
+  },
+  "control": {
+    "bn": "নিয়ন্ত্রণ",
+    "phonetic": "/kənˈtroʊl/",
+    "audio": "control",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "cook": {
+    "bn": "রান্না করা",
+    "phonetic": "/kʊk/",
+    "audio": "cook",
+    "category": "action",
+    "difficulty": 1
+  },
+  "cool": {
+    "bn": "শীতল",
+    "phonetic": "/kuːl/",
+    "audio": "cool",
+    "category": "adjective",
+    "difficulty": 2
+  },
+  "copy": {
+    "bn": "নকল",
+    "phonetic": "/ˈkɑːpi/",
+    "audio": "copy",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "corner": {
+    "bn": "কোণ",
+    "phonetic": "/ˈkɔːrnər/",
+    "audio": "corner",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "correct": {
+    "bn": "সঠিক",
+    "phonetic": "/kəˈrekt/",
+    "audio": "correct",
+    "category": "adjective",
+    "difficulty": 1
+  },
+  "cost": {
+    "bn": "খরচ",
+    "phonetic": "/kɔːst/",
+    "audio": "cost",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "cotton": {
+    "bn": "তুলা",
+    "phonetic": "/ˈkɑːtn/",
+    "audio": "cotton",
+    "category": "nature",
+    "difficulty": 2
+  },
+  "count": {
+    "bn": "গণনা করা",
+    "phonetic": "/kaʊnt/",
+    "audio": "count",
+    "category": "action",
+    "difficulty": 1
+  },
+  "country": {
+    "bn": "দেশ",
+    "phonetic": "/ˈkʌntri/",
+    "audio": "country",
+    "category": "place",
+    "difficulty": 1
+  },
+  "course": {
+    "bn": "কোর্স",
+    "phonetic": "/kɔːrs/",
+    "audio": "course",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "cover": {
+    "bn": "ঢাকনা",
+    "phonetic": "/ˈkʌvər/",
+    "audio": "cover",
+    "category": "object",
+    "difficulty": 2
+  },
+  "cow": {
+    "bn": "গরু",
+    "phonetic": "/kaʊ/",
+    "audio": "cow",
+    "category": "animal",
+    "difficulty": 1
+  },
+  "create": {
+    "bn": "তৈরি করা",
+    "phonetic": "/kriˈeɪt/",
+    "audio": "create",
+    "category": "action",
+    "difficulty": 2
+  },
+  "cross": {
+    "bn": "ক্রস",
+    "phonetic": "/krɔːs/",
+    "audio": "cross",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "cry": {
+    "bn": "কাঁদা",
+    "phonetic": "/kraɪ/",
+    "audio": "cry",
+    "category": "action",
+    "difficulty": 1
+  },
+  "cup": {
+    "bn": "কাপ",
+    "phonetic": "/kʌp/",
+    "audio": "cup",
+    "category": "object",
+    "difficulty": 1
+  },
+  "current": {
+    "bn": "বর্তমান",
+    "phonetic": "/ˈkɜːrənt/",
+    "audio": "current",
+    "category": "adjective",
+    "difficulty": 3
+  },
+  "cut": {
+    "bn": "কাটা",
+    "phonetic": "/kʌt/",
+    "audio": "cut",
+    "category": "action",
+    "difficulty": 1
+  },
+  "dance": {
+    "bn": "নাচ",
+    "phonetic": "/dæns/",
+    "audio": "dance",
+    "category": "action",
+    "difficulty": 1
+  },
+  "dark": {
+    "bn": "অন্ধকার",
+    "phonetic": "/dɑːrk/",
+    "audio": "dark",
+    "category": "adjective",
+    "difficulty": 1
+  },
+  "day": {
+    "bn": "দিন",
+    "phonetic": "/deɪ/",
+    "audio": "day",
+    "category": "abstract",
+    "difficulty": 1
+  },
+  "dead": {
+    "bn": "মৃত",
+    "phonetic": "/ded/",
+    "audio": "dead",
+    "category": "adjective",
+    "difficulty": 2
+  },
+  "dear": {
+    "bn": "প্রিয়",
+    "phonetic": "/dɪr/",
+    "audio": "dear",
+    "category": "adjective",
+    "difficulty": 1
+  },
+  "death": {
+    "bn": "মৃত্যু",
+    "phonetic": "/deθ/",
+    "audio": "death",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "decide": {
+    "bn": "সিদ্ধান্ত নেওয়া",
+    "phonetic": "/dɪˈsaɪd/",
+    "audio": "decide",
+    "category": "action",
+    "difficulty": 2
+  },
+  "deep": {
+    "bn": "গভীর",
+    "phonetic": "/diːp/",
+    "audio": "deep",
+    "category": "adjective",
+    "difficulty": 2
+  },
+  "degree": {
+    "bn": "ডিগ্রি",
+    "phonetic": "/dɪˈɡriː/",
+    "audio": "degree",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "depend": {
+    "bn": "নির্ভর করা",
+    "phonetic": "/dɪˈpend/",
+    "audio": "depend",
+    "category": "action",
+    "difficulty": 3
+  },
+  "design": {
+    "bn": "নকশা",
+    "phonetic": "/dɪˈzaɪn/",
+    "audio": "design",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "desk": {
+    "bn": "ডেস্ক",
+    "phonetic": "/desk/",
+    "audio": "desk",
+    "category": "object",
+    "difficulty": 1
+  },
+  "destroy": {
+    "bn": "ধ্বংস করা",
+    "phonetic": "/dɪˈstrɔɪ/",
+    "audio": "destroy",
+    "category": "action",
+    "difficulty": 3
+  },
+  "develop": {
+    "bn": "উন্নত করা",
+    "phonetic": "/dɪˈveləp/",
+    "audio": "develop",
+    "category": "action",
+    "difficulty": 3
+  },
+  "dictionary": {
+    "bn": "অভিধান",
+    "phonetic": "/ˈdɪkʃəneri/",
+    "audio": "dictionary",
+    "category": "object",
+    "difficulty": 2
+  },
+  "die": {
+    "bn": "মারা যাওয়া",
+    "phonetic": "/daɪ/",
+    "audio": "die",
+    "category": "action",
+    "difficulty": 2
+  },
+  "difference": {
+    "bn": "পার্থক্য",
+    "phonetic": "/ˈdɪfrəns/",
+    "audio": "difference",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "different": {
+    "bn": "আলাদা",
+    "phonetic": "/ˈdɪfrənt/",
+    "audio": "different",
+    "category": "adjective",
+    "difficulty": 1
+  },
+  "difficult": {
+    "bn": "কঠিন",
+    "phonetic": "/ˈdɪfɪkəlt/",
+    "audio": "difficult",
+    "category": "adjective",
+    "difficulty": 1
+  },
+  "direct": {
+    "bn": "সরাসরি",
+    "phonetic": "/dəˈrekt/",
+    "audio": "direct",
+    "category": "adjective",
+    "difficulty": 2
+  },
+  "direction": {
+    "bn": "দিক",
+    "phonetic": "/dəˈrekʃn/",
+    "audio": "direction",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "dirty": {
+    "bn": "নোংরা",
+    "phonetic": "/ˈdɜːrti/",
+    "audio": "dirty",
+    "category": "adjective",
+    "difficulty": 1
+  },
+  "discover": {
+    "bn": "আবিষ্কার করা",
+    "phonetic": "/dɪˈskʌvər/",
+    "audio": "discover",
+    "category": "action",
+    "difficulty": 3
+  },
+  "distance": {
+    "bn": "দূরত্ব",
+    "phonetic": "/ˈdɪstəns/",
+    "audio": "distance",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "do": {
+    "bn": "করা",
+    "phonetic": "/duː/",
+    "audio": "do",
+    "category": "action",
+    "difficulty": 1
+  },
+  "doctor": {
+    "bn": "ডাক্তার",
+    "phonetic": "/ˈdɑːktər/",
+    "audio": "doctor",
+    "category": "person",
+    "difficulty": 1
+  },
+  "dog": {
+    "bn": "কুকুর",
+    "phonetic": "/dɔːɡ/",
+    "audio": "dog",
+    "category": "animal",
+    "difficulty": 1
+  },
+  "double": {
+    "bn": "দ্বিগুণ",
+    "phonetic": "/ˈdʌbl/",
+    "audio": "double",
+    "category": "adjective",
+    "difficulty": 2
+  },
+  "down": {
+    "bn": "নিচে",
+    "phonetic": "/daʊn/",
+    "audio": "down",
+    "category": "preposition",
+    "difficulty": 1
+  },
+  "draw": {
+    "bn": "আঁকা",
+    "phonetic": "/drɔː/",
+    "audio": "draw",
+    "category": "action",
+    "difficulty": 1
+  },
+  "dream": {
+    "bn": "স্বপ্ন",
+    "phonetic": "/driːm/",
+    "audio": "dream",
+    "category": "abstract",
+    "difficulty": 1
+  },
+  "dress": {
+    "bn": "পোশাক",
+    "phonetic": "/dres/",
+    "audio": "dress",
+    "category": "object",
+    "difficulty": 1
+  },
+  "drink": {
+    "bn": "পান করা",
+    "phonetic": "/drɪŋk/",
+    "audio": "drink",
+    "category": "action",
+    "difficulty": 1
+  },
+  "drive": {
+    "bn": "চালানো",
+    "phonetic": "/draɪv/",
+    "audio": "drive",
+    "category": "action",
+    "difficulty": 1
+  },
+  "drop": {
+    "bn": "পতন",
+    "phonetic": "/drɑːp/",
+    "audio": "drop",
+    "category": "action",
+    "difficulty": 2
+  },
+  "dry": {
+    "bn": "শুষ্ক",
+    "phonetic": "/draɪ/",
+    "audio": "dry",
+    "category": "adjective",
+    "difficulty": 1
+  },
+  "during": {
+    "bn": "সময়",
+    "phonetic": "/ˈdʊrɪŋ/",
+    "audio": "during",
+    "category": "preposition",
+    "difficulty": 2
+  },
+  "each": {
+    "bn": "প্রতিটি",
+    "phonetic": "/iːtʃ/",
+    "audio": "each",
+    "category": "determiner",
+    "difficulty": 1
+  },
+  "ear": {
+    "bn": "কান",
+    "phonetic": "/ɪr/",
+    "audio": "ear",
+    "category": "body",
+    "difficulty": 1
+  },
+  "early": {
+    "bn": "তাড়াতাড়ি",
+    "phonetic": "/ˈɜːrli/",
+    "audio": "early",
+    "category": "adverb",
+    "difficulty": 1
+  },
+  "earth": {
+    "bn": "পৃথিবী",
+    "phonetic": "/ɜːrθ/",
+    "audio": "earth",
+    "category": "nature",
+    "difficulty": 1
+  },
+  "east": {
+    "bn": "পূর্ব",
+    "phonetic": "/iːst/",
+    "audio": "east",
+    "category": "nature",
+    "difficulty": 1
+  },
+  "easy": {
+    "bn": "সহজ",
+    "phonetic": "/ˈiːzi/",
+    "audio": "easy",
+    "category": "adjective",
+    "difficulty": 1
+  },
+  "eat": {
+    "bn": "খাওয়া",
+    "phonetic": "/iːt/",
+    "audio": "eat",
+    "category": "action",
+    "difficulty": 1
+  },
+  "edge": {
+    "bn": "প্রান্ত",
+    "phonetic": "/edʒ/",
+    "audio": "edge",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "education": {
+    "bn": "শিক্ষা",
+    "phonetic": "/ˌedʒuˈkeɪʃn/",
+    "audio": "education",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "egg": {
+    "bn": "ডিম",
+    "phonetic": "/eɡ/",
+    "audio": "egg",
+    "category": "food",
+    "difficulty": 1
+  },
+  "eight": {
+    "bn": "আট",
+    "phonetic": "/eɪt/",
+    "audio": "eight",
+    "category": "number",
+    "difficulty": 1
+  },
+  "either": {
+    "bn": "হয়",
+    "phonetic": "/ˈiːðər/",
+    "audio": "either",
+    "category": "conjunction",
+    "difficulty": 2
+  },
+  "electric": {
+    "bn": "বৈদ্যুতিক",
+    "phonetic": "/ɪˈlektrɪk/",
+    "audio": "electric",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "element": {
+    "bn": "উপাদান",
+    "phonetic": "/ˈelɪmənt/",
+    "audio": "element",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "else": {
+    "bn": "অন্য",
+    "phonetic": "/els/",
+    "audio": "else",
+    "category": "adverb",
+    "difficulty": 2
+  },
+  "end": {
+    "bn": "শেষ",
+    "phonetic": "/end/",
+    "audio": "end",
+    "category": "abstract",
+    "difficulty": 1
+  },
+  "enemy": {
+    "bn": "শত্রু",
+    "phonetic": "/ˈenəmi/",
+    "audio": "enemy",
+    "category": "person",
+    "difficulty": 2
+  },
+  "energy": {
+    "bn": "শক্তি",
+    "phonetic": "/ˈenərdʒi/",
+    "audio": "energy",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "engine": {
+    "bn": "ইঞ্জিন",
+    "phonetic": "/ˈendʒɪn/",
+    "audio": "engine",
+    "category": "object",
+    "difficulty": 2
+  },
+  "enough": {
+    "bn": "যথেষ্ট",
+    "phonetic": "/ɪˈnʌf/",
+    "audio": "enough",
+    "category": "adjective",
+    "difficulty": 1
+  },
+  "enter": {
+    "bn": "প্রবেশ করা",
+    "phonetic": "/ˈentər/",
+    "audio": "enter",
+    "category": "action",
+    "difficulty": 2
+  },
+  "equal": {
+    "bn": "সমান",
+    "phonetic": "/ˈiːkwəl/",
+    "audio": "equal",
+    "category": "adjective",
+    "difficulty": 2
+  },
+  "even": {
+    "bn": "এমনকি",
+    "phonetic": "/ˈiːvn/",
+    "audio": "even",
+    "category": "adverb",
+    "difficulty": 2
+  },
+  "evening": {
+    "bn": "সন্ধ্যা",
+    "phonetic": "/ˈiːvnɪŋ/",
+    "audio": "evening",
+    "category": "abstract",
+    "difficulty": 1
+  },
+  "ever": {
+    "bn": "কখনও",
+    "phonetic": "/ˈevər/",
+    "audio": "ever",
+    "category": "adverb",
+    "difficulty": 2
+  },
+  "every": {
+    "bn": "প্রতিটি",
+    "phonetic": "/ˈevri/",
+    "audio": "every",
+    "category": "determiner",
+    "difficulty": 1
+  },
+  "everyone": {
+    "bn": "সবাই",
+    "phonetic": "/ˈevriwʌn/",
+    "audio": "everyone",
+    "category": "pronoun",
+    "difficulty": 1
+  },
+  "everything": {
+    "bn": "সবকিছু",
+    "phonetic": "/ˈevriθɪŋ/",
+    "audio": "everything",
+    "category": "pronoun",
+    "difficulty": 1
+  },
+  "example": {
+    "bn": "উদাহরণ",
+    "phonetic": "/ɪɡˈzæmpl/",
+    "audio": "example",
+    "category": "abstract",
+    "difficulty": 1
+  },
+  "except": {
+    "bn": "ব্যতীত",
+    "phonetic": "/ɪkˈsept/",
+    "audio": "except",
+    "category": "preposition",
+    "difficulty": 2
+  },
+  "exciting": {
+    "bn": "উত্তেজনাপূর্ণ",
+    "phonetic": "/ɪkˈsaɪtɪŋ/",
+    "audio": "exciting",
+    "category": "adjective",
+    "difficulty": 2
+  },
+  "exercise": {
+    "bn": "ব্যায়াম",
+    "phonetic": "/ˈeksərsaɪz/",
+    "audio": "exercise",
+    "category": "action",
+    "difficulty": 2
+  },
+  "expect": {
+    "bn": "আশা করা",
+    "phonetic": "/ɪkˈspekt/",
+    "audio": "expect",
+    "category": "action",
+    "difficulty": 3
+  },
+  "experience": {
+    "bn": "অভিজ্ঞতা",
+    "phonetic": "/ɪkˈspɪriəns/",
+    "audio": "experience",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "experiment": {
+    "bn": "পরীক্ষা",
+    "phonetic": "/ɪkˈsperɪmənt/",
+    "audio": "experiment",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "explain": {
+    "bn": "ব্যাখ্যা করা",
+    "phonetic": "/ɪkˈspleɪn/",
+    "audio": "explain",
+    "category": "action",
+    "difficulty": 3
+  },
+  "eye": {
+    "bn": "চোখ",
+    "phonetic": "/aɪ/",
+    "audio": "eye",
+    "category": "body",
+    "difficulty": 1
+  },
+  "face": {
+    "bn": "মুখ",
+    "phonetic": "/feɪs/",
+    "audio": "face",
+    "category": "body",
+    "difficulty": 1
+  },
+  "fact": {
+    "bn": "তথ্য",
+    "phonetic": "/fækt/",
+    "audio": "fact",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "factory": {
+    "bn": "কারখানা",
+    "phonetic": "/ˈfæktri/",
+    "audio": "factory",
+    "category": "place",
+    "difficulty": 2
+  },
+  "fail": {
+    "bn": "ব্যর্থ হওয়া",
+    "phonetic": "/feɪl/",
+    "audio": "fail",
+    "category": "action",
+    "difficulty": 2
+  },
+  "fall": {
+    "bn": "পড়া",
+    "phonetic": "/fɔːl/",
+    "audio": "fall",
+    "category": "action",
+    "difficulty": 1
+  },
+  "family": {
+    "bn": "পরিবার",
+    "phonetic": "/ˈfæməli/",
+    "audio": "family",
+    "category": "group",
+    "difficulty": 1
+  },
+  "far": {
+    "bn": "দূরে",
+    "phonetic": "/fɑːr/",
+    "audio": "far",
+    "category": "adjective",
+    "difficulty": 1
+  },
+  "farm": {
+    "bn": "খামার",
+    "phonetic": "/fɑːrm/",
+    "audio": "farm",
+    "category": "place",
+    "difficulty": 2
+  },
+  "fast": {
+    "bn": "দ্রুত",
+    "phonetic": "/fæst/",
+    "audio": "fast",
+    "category": "adjective",
+    "difficulty": 1
+  },
+  "father": {
+    "bn": "বাবা",
+    "phonetic": "/ˈfɑːðər/",
+    "audio": "father",
+    "category": "person",
+    "difficulty": 1
+  },
+  "fear": {
+    "bn": "ভয়",
+    "phonetic": "/fɪr/",
+    "audio": "fear",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "feel": {
+    "bn": "অনুভব করা",
+    "phonetic": "/fiːl/",
+    "audio": "feel",
+    "category": "action",
+    "difficulty": 1
+  },
+  "feet": {
+    "bn": "পা",
+    "phonetic": "/fiːt/",
+    "audio": "feet",
+    "category": "body",
+    "difficulty": 1
+  },
+  "fell": {
+    "bn": "পড়েছিল",
+    "phonetic": "/fel/",
+    "audio": "fell",
+    "category": "action",
+    "difficulty": 2
+  },
+  "felt": {
+    "bn": "অনুভব করেছিল",
+    "phonetic": "/felt/",
+    "audio": "felt",
+    "category": "action",
+    "difficulty": 2
+  },
+  "few": {
+    "bn": "অল্প",
+    "phonetic": "/fjuː/",
+    "audio": "few",
+    "category": "adjective",
+    "difficulty": 1
+  },
+  "field": {
+    "bn": "মাঠ",
+    "phonetic": "/fiːld/",
+    "audio": "field",
+    "category": "place",
+    "difficulty": 1
+  },
+  "fight": {
+    "bn": "যুদ্ধ",
+    "phonetic": "/faɪt/",
+    "audio": "fight",
+    "category": "action",
+    "difficulty": 2
+  },
+  "figure": {
+    "bn": "চিত্র",
+    "phonetic": "/ˈfɪɡjər/",
+    "audio": "figure",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "fill": {
+    "bn": "পূরণ করা",
+    "phonetic": "/fɪl/",
+    "audio": "fill",
+    "category": "action",
+    "difficulty": 1
+  },
+  "final": {
+    "bn": "চূড়ান্ত",
+    "phonetic": "/ˈfaɪnl/",
+    "audio": "final",
+    "category": "adjective",
+    "difficulty": 2
+  },
+  "find": {
+    "bn": "খুঁজে পাওয়া",
+    "phonetic": "/faɪnd/",
+    "audio": "find",
+    "category": "action",
+    "difficulty": 1
+  },
+  "fine": {
+    "bn": "চমৎকার",
+    "phonetic": "/faɪn/",
+    "audio": "fine",
+    "category": "adjective",
+    "difficulty": 1
+  },
+  "finger": {
+    "bn": "আঙ্গুল",
+    "phonetic": "/ˈfɪŋɡər/",
+    "audio": "finger",
+    "category": "body",
+    "difficulty": 1
+  },
+  "finish": {
+    "bn": "শেষ করা",
+    "phonetic": "/ˈfɪnɪʃ/",
+    "audio": "finish",
+    "category": "action",
+    "difficulty": 1
+  },
+  "fire": {
+    "bn": "আগুন",
+    "phonetic": "/ˈfaɪər/",
+    "audio": "fire",
+    "category": "nature",
+    "difficulty": 1
+  },
+  "first": {
+    "bn": "প্রথম",
+    "phonetic": "/fɜːrst/",
+    "audio": "first",
+    "category": "adjective",
+    "difficulty": 1
+  },
+  "five": {
+    "bn": "পাঁচ",
+    "phonetic": "/faɪv/",
+    "audio": "five",
+    "category": "number",
+    "difficulty": 1
+  },
+  "flag": {
+    "bn": "পতাকা",
+    "phonetic": "/flæɡ/",
+    "audio": "flag",
+    "category": "object",
+    "difficulty": 2
+  },
+  "flat": {
+    "bn": "সমতল",
+    "phonetic": "/flæt/",
+    "audio": "flat",
+    "category": "adjective",
+    "difficulty": 2
+  },
+  "floor": {
+    "bn": "মেঝে",
+    "phonetic": "/flɔːr/",
+    "audio": "floor",
+    "category": "object",
+    "difficulty": 1
+  },
+  "flow": {
+    "bn": "প্রবাহ",
+    "phonetic": "/floʊ/",
+    "audio": "flow",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "flower": {
+    "bn": "ফুল",
+    "phonetic": "/ˈflaʊər/",
+    "audio": "flower",
+    "category": "nature",
+    "difficulty": 1
+  },
+  "fly": {
+    "bn": "ওড়া",
+    "phonetic": "/flaɪ/",
+    "audio": "fly",
+    "category": "action",
+    "difficulty": 1
+  },
+  "follow": {
+    "bn": "অনুসরণ করা",
+    "phonetic": "/ˈfɑːloʊ/",
+    "audio": "follow",
+    "category": "action",
+    "difficulty": 2
+  },
+  "food": {
+    "bn": "খাবার",
+    "phonetic": "/fuːd/",
+    "audio": "food",
+    "category": "food",
+    "difficulty": 1
+  },
+  "foot": {
+    "bn": "পা",
+    "phonetic": "/fʊt/",
+    "audio": "foot",
+    "category": "body",
+    "difficulty": 1
+  },
+  "for": {
+    "bn": "জন্য",
+    "phonetic": "/fɔːr/",
+    "audio": "for",
+    "category": "preposition",
+    "difficulty": 1
+  },
+  "force": {
+    "bn": "বল",
+    "phonetic": "/fɔːrs/",
+    "audio": "force",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "forest": {
+    "bn": "বন",
+    "phonetic": "/ˈfɔːrɪst/",
+    "audio": "forest",
+    "category": "place",
+    "difficulty": 2
+  },
+  "form": {
+    "bn": "আকৃতি",
+    "phonetic": "/fɔːrm/",
+    "audio": "form",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "forward": {
+    "bn": "সামনে",
+    "phonetic": "/ˈfɔːrwərd/",
+    "audio": "forward",
+    "category": "adverb",
+    "difficulty": 2
+  },
+  "found": {
+    "bn": "পাওয়া গেছে",
+    "phonetic": "/faʊnd/",
+    "audio": "found",
+    "category": "action",
+    "difficulty": 1
+  },
+  "four": {
+    "bn": "চার",
+    "phonetic": "/fɔːr/",
+    "audio": "four",
+    "category": "number",
+    "difficulty": 1
+  },
+  "fraction": {
+    "bn": "ভগ্নাংশ",
+    "phonetic": "/ˈfrækʃn/",
+    "audio": "fraction",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "free": {
+    "bn": "মুক্ত",
+    "phonetic": "/friː/",
+    "audio": "free",
+    "category": "adjective",
+    "difficulty": 1
+  },
+  "fresh": {
+    "bn": "তাজা",
+    "phonetic": "/freʃ/",
+    "audio": "fresh",
+    "category": "adjective",
+    "difficulty": 1
+  },
+  "friend": {
+    "bn": "বন্ধু",
+    "phonetic": "/frend/",
+    "audio": "friend",
+    "category": "person",
+    "difficulty": 1
+  },
+  "from": {
+    "bn": "থেকে",
+    "phonetic": "/frʌm/",
+    "audio": "from",
+    "category": "preposition",
+    "difficulty": 1
+  },
+  "front": {
+    "bn": "সামনে",
+    "phonetic": "/frʌnt/",
+    "audio": "front",
+    "category": "abstract",
+    "difficulty": 1
+  },
+  "fruit": {
+    "bn": "ফল",
+    "phonetic": "/fruːt/",
+    "audio": "fruit",
+    "category": "food",
+    "difficulty": 1
+  },
+  "full": {
+    "bn": "পূর্ণ",
+    "phonetic": "/fʊl/",
+    "audio": "full",
+    "category": "adjective",
+    "difficulty": 1
+  },
+  "fun": {
+    "bn": "মজা",
+    "phonetic": "/fʌn/",
+    "audio": "fun",
+    "category": "abstract",
+    "difficulty": 1
+  },
+  "game": {
+    "bn": "খেলা",
+    "phonetic": "/ɡeɪm/",
+    "audio": "game",
+    "category": "abstract",
+    "difficulty": 1
+  },
+  "garden": {
+    "bn": "বাগান",
+    "phonetic": "/ˈɡɑːrdn/",
+    "audio": "garden",
+    "category": "place",
+    "difficulty": 1
+  },
+  "gas": {
+    "bn": "গ্যাস",
+    "phonetic": "/ɡæs/",
+    "audio": "gas",
+    "category": "nature",
+    "difficulty": 3
+  },
+  "gate": {
+    "bn": "গেট",
+    "phonetic": "/ɡeɪt/",
+    "audio": "gate",
+    "category": "object",
+    "difficulty": 2
+  },
+  "gather": {
+    "bn": "জড়ো করা",
+    "phonetic": "/ˈɡæðər/",
+    "audio": "gather",
+    "category": "action",
+    "difficulty": 3
+  },
+  "general": {
+    "bn": "সাধারণ",
+    "phonetic": "/ˈdʒenrəl/",
+    "audio": "general",
+    "category": "adjective",
+    "difficulty": 2
+  },
+  "gentle": {
+    "bn": "নম্র",
+    "phonetic": "/ˈdʒentl/",
+    "audio": "gentle",
+    "category": "adjective",
+    "difficulty": 2
+  },
+  "get": {
+    "bn": "পাওয়া",
+    "phonetic": "/ɡet/",
+    "audio": "get",
+    "category": "action",
+    "difficulty": 1
+  },
+  "girl": {
+    "bn": "বালিকা",
+    "phonetic": "/ɡɜːrl/",
+    "audio": "girl",
+    "category": "person",
+    "difficulty": 1
+  },
+  "give": {
+    "bn": "দেওয়া",
+    "phonetic": "/ɡɪv/",
+    "audio": "give",
+    "category": "action",
+    "difficulty": 1
+  },
+  "glad": {
+    "bn": "খুশি",
+    "phonetic": "/ɡlæd/",
+    "audio": "glad",
+    "category": "adjective",
+    "difficulty": 1
+  },
+  "glass": {
+    "bn": "কাঁচ",
+    "phonetic": "/ɡlæs/",
+    "audio": "glass",
+    "category": "material",
+    "difficulty": 1
+  },
+  "go": {
+    "bn": "যাওয়া",
+    "phonetic": "/ɡoʊ/",
+    "audio": "go",
+    "category": "action",
+    "difficulty": 1
+  },
+  "god": {
+    "bn": "ঈশ্বর",
+    "phonetic": "/ɡɑːd/",
+    "audio": "god",
+    "category": "abstract",
+    "difficulty": 1
+  },
+  "good": {
+    "bn": "ভালো",
+    "phonetic": "/ɡʊd/",
+    "audio": "good",
+    "category": "adjective",
+    "difficulty": 1
+  },
+  "govern": {
+    "bn": "শাসন করা",
+    "phonetic": "/ˈɡʌvərn/",
+    "audio": "govern",
+    "category": "action",
+    "difficulty": 3
+  },
+  "grand": {
+    "bn": "মহৎ",
+    "phonetic": "/ɡrænd/",
+    "audio": "grand",
+    "category": "adjective",
+    "difficulty": 2
+  },
+  "grass": {
+    "bn": "ঘাস",
+    "phonetic": "/ɡræs/",
+    "audio": "grass",
+    "category": "nature",
+    "difficulty": 1
+  },
+  "gray": {
+    "bn": "ধূসর",
+    "phonetic": "/ɡreɪ/",
+    "audio": "gray",
+    "category": "color",
+    "difficulty": 1
+  },
+  "great": {
+    "bn": "মহান",
+    "phonetic": "/ɡreɪt/",
+    "audio": "great",
+    "category": "adjective",
+    "difficulty": 1
+  },
+  "green": {
+    "bn": "সবুজ",
+    "phonetic": "/ɡriːn/",
+    "audio": "green",
+    "category": "color",
+    "difficulty": 1
+  },
+  "grew": {
+    "bn": "বেড়েছে",
+    "phonetic": "/ɡruː/",
+    "audio": "grew",
+    "category": "action",
+    "difficulty": 2
+  },
+  "ground": {
+    "bn": "ভূমি",
+    "phonetic": "/ɡraʊnd/",
+    "audio": "ground",
+    "category": "place",
+    "difficulty": 1
+  },
+  "group": {
+    "bn": "দল",
+    "phonetic": "/ɡruːp/",
+    "audio": "group",
+    "category": "group",
+    "difficulty": 1
+  },
+  "grow": {
+    "bn": "জন্মানো",
+    "phonetic": "/ɡroʊ/",
+    "audio": "grow",
+    "category": "action",
+    "difficulty": 1
+  },
+  "guess": {
+    "bn": "অনুমান করা",
+    "phonetic": "/ɡes/",
+    "audio": "guess",
+    "category": "action",
+    "difficulty": 2
+  },
+  "guide": {
+    "bn": "গাইড",
+    "phonetic": "/ɡaɪd/",
+    "audio": "guide",
+    "category": "person",
+    "difficulty": 2
+  },
+  "gun": {
+    "bn": "বন্দুক",
+    "phonetic": "/ɡʌn/",
+    "audio": "gun",
+    "category": "object",
+    "difficulty": 2
+  },
+  "hair": {
+    "bn": "চুল",
+    "phonetic": "/her/",
+    "audio": "hair",
+    "category": "body",
+    "difficulty": 1
+  },
+  "half": {
+    "bn": "অর্ধেক",
+    "phonetic": "/hæf/",
+    "audio": "half",
+    "category": "abstract",
+    "difficulty": 1
+  },
+  "happen": {
+    "bn": "ঘটা",
+    "phonetic": "/ˈhæpən/",
+    "audio": "happen",
+    "category": "action",
+    "difficulty": 2
+  },
+  "happy": {
+    "bn": "সুখী",
+    "phonetic": "/ˈhæpi/",
+    "audio": "happy",
+    "category": "adjective",
+    "difficulty": 1
+  },
+  "hard": {
+    "bn": "কঠিন",
+    "phonetic": "/hɑːrd/",
+    "audio": "hard",
+    "category": "adjective",
+    "difficulty": 1
+  },
+  "has": {
+    "bn": "আছে",
+    "phonetic": "/hæz/",
+    "audio": "has",
+    "category": "action",
+    "difficulty": 1
+  },
+  "hat": {
+    "bn": "টুপি",
+    "phonetic": "/hæt/",
+    "audio": "hat",
+    "category": "object",
+    "difficulty": 1
+  },
+  "have": {
+    "bn": "থাকা",
+    "phonetic": "/hæv/",
+    "audio": "have",
+    "category": "action",
+    "difficulty": 1
+  },
+  "he": {
+    "bn": "সে",
+    "phonetic": "/hiː/",
+    "audio": "he",
+    "category": "pronoun",
+    "difficulty": 1
+  },
+  "head": {
+    "bn": "মাথা",
+    "phonetic": "/hed/",
+    "audio": "head",
+    "category": "body",
+    "difficulty": 1
+  },
+  "hear": {
+    "bn": "শোনা",
+    "phonetic": "/hɪr/",
+    "audio": "hear",
+    "category": "action",
+    "difficulty": 1
+  },
+  "heart": {
+    "bn": "হৃদয়",
+    "phonetic": "/hɑːrt/",
+    "audio": "heart",
+    "category": "body",
+    "difficulty": 1
+  },
+  "heat": {
+    "bn": "তাপ",
+    "phonetic": "/hiːt/",
+    "audio": "heat",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "heavy": {
+    "bn": "ভারী",
+    "phonetic": "/ˈhevi/",
+    "audio": "heavy",
+    "category": "adjective",
+    "difficulty": 1
+  },
+  "help": {
+    "bn": "সাহায্য করা",
+    "phonetic": "/help/",
+    "audio": "help",
+    "category": "action",
+    "difficulty": 1
+  },
+  "her": {
+    "bn": "তার",
+    "phonetic": "/hɜːr/",
+    "audio": "her",
+    "category": "pronoun",
+    "difficulty": 1
+  },
+  "here": {
+    "bn": "এখানে",
+    "phonetic": "/hɪr/",
+    "audio": "here",
+    "category": "adverb",
+    "difficulty": 1
+  },
+  "high": {
+    "bn": "উঁচু",
+    "phonetic": "/haɪ/",
+    "audio": "high",
+    "category": "adjective",
+    "difficulty": 1
+  },
+  "hill": {
+    "bn": "পাহাড়",
+    "phonetic": "/hɪl/",
+    "audio": "hill",
+    "category": "place",
+    "difficulty": 1
+  },
+  "him": {
+    "bn": "তাকে",
+    "phonetic": "/hɪm/",
+    "audio": "him",
+    "category": "pronoun",
+    "difficulty": 1
+  },
+  "his": {
+    "bn": "তার",
+    "phonetic": "/hɪz/",
+    "audio": "his",
+    "category": "pronoun",
+    "difficulty": 1
+  },
+  "history": {
+    "bn": "ইতিহাস",
+    "phonetic": "/ˈhɪstri/",
+    "audio": "history",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "hit": {
+    "bn": "আঘাত করা",
+    "phonetic": "/hɪt/",
+    "audio": "hit",
+    "category": "action",
+    "difficulty": 1
+  },
+  "hold": {
+    "bn": "ধরা",
+    "phonetic": "/hoʊld/",
+    "audio": "hold",
+    "category": "action",
+    "difficulty": 1
+  },
+  "hole": {
+    "bn": "গর্ত",
+    "phonetic": "/hoʊl/",
+    "audio": "hole",
+    "category": "place",
+    "difficulty": 2
+  },
+  "home": {
+    "bn": "বাড়ি",
+    "phonetic": "/hoʊm/",
+    "audio": "home",
+    "category": "place",
+    "difficulty": 1
+  },
+  "hope": {
+    "bn": "আশা",
+    "phonetic": "/hoʊp/",
+    "audio": "hope",
+    "category": "abstract",
+    "difficulty": 1
+  },
+  "horse": {
+    "bn": "ঘোড়া",
+    "phonetic": "/hɔːrs/",
+    "audio": "horse",
+    "category": "animal",
+    "difficulty": 1
+  },
+  "hot": {
+    "bn": "গরম",
+    "phonetic": "/hɑːt/",
+    "audio": "hot",
+    "category": "adjective",
+    "difficulty": 1
+  },
+  "hour": {
+    "bn": "ঘণ্টা",
+    "phonetic": "/ˈaʊər/",
+    "audio": "hour",
+    "category": "abstract",
+    "difficulty": 1
+  },
+  "house": {
+    "bn": "বাড়ি",
+    "phonetic": "/haʊs/",
+    "audio": "house",
+    "category": "place",
+    "difficulty": 1
+  },
+  "how": {
+    "bn": "কিভাবে",
+    "phonetic": "/haʊ/",
+    "audio": "how",
+    "category": "adverb",
+    "difficulty": 1
+  },
+  "huge": {
+    "bn": "বিশাল",
+    "phonetic": "/hjuːdʒ/",
+    "audio": "huge",
+    "category": "adjective",
+    "difficulty": 2
+  },
+  "human": {
+    "bn": "মানুষ",
+    "phonetic": "/ˈhjuːmən/",
+    "audio": "human",
+    "category": "nature",
+    "difficulty": 2
+  },
+  "hundred": {
+    "bn": "শত",
+    "phonetic": "/ˈhʌndrəd/",
+    "audio": "hundred",
+    "category": "number",
+    "difficulty": 1
+  },
+  "hurry": {
+    "bn": "তাড়াহুড়ো",
+    "phonetic": "/ˈhɜːri/",
+    "audio": "hurry",
+    "category": "action",
+    "difficulty": 2
+  },
+  "ice": {
+    "bn": "বরফ",
+    "phonetic": "/aɪs/",
+    "audio": "ice",
+    "category": "nature",
+    "difficulty": 1
+  },
+  "idea": {
+    "bn": "ধারণা",
+    "phonetic": "/aɪˈdiə/",
+    "audio": "idea",
+    "category": "abstract",
+    "difficulty": 1
+  },
+  "if": {
+    "bn": "যদি",
+    "phonetic": "/ɪf/",
+    "audio": "if",
+    "category": "conjunction",
+    "difficulty": 1
+  },
+  "important": {
+    "bn": "গুরুত্বপূর্ণ",
+    "phonetic": "/ɪmˈpɔːrtnt/",
+    "audio": "important",
+    "category": "adjective",
+    "difficulty": 1
+  },
+  "inch": {
+    "bn": "ইঞ্চি",
+    "phonetic": "/ɪntʃ/",
+    "audio": "inch",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "include": {
+    "bn": "অন্তর্ভুক্ত করা",
+    "phonetic": "/ɪnˈkluːd/",
+    "audio": "include",
+    "category": "action",
+    "difficulty": 2
+  },
+  "increase": {
+    "bn": "বৃদ্ধি করা",
+    "phonetic": "/ɪnˈkriːs/",
+    "audio": "increase",
+    "category": "action",
+    "difficulty": 3
+  },
+  "indicate": {
+    "bn": "ইঙ্গিত করা",
+    "phonetic": "/ˈɪndɪkeɪt/",
+    "audio": "indicate",
+    "category": "action",
+    "difficulty": 3
+  },
+  "industry": {
+    "bn": "শিল্প",
+    "phonetic": "/ˈɪndəstri/",
+    "audio": "industry",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "insect": {
+    "bn": "পতঙ্গ",
+    "phonetic": "/ˈɪnsekt/",
+    "audio": "insect",
+    "category": "nature",
+    "difficulty": 2
+  },
+  "inside": {
+    "bn": "ভিতরে",
+    "phonetic": "/ˌɪnˈsaɪd/",
+    "audio": "inside",
+    "category": "preposition",
+    "difficulty": 1
+  },
+  "instead": {
+    "bn": "পরিবর্তে",
+    "phonetic": "/ɪnˈsted/",
+    "audio": "instead",
+    "category": "adverb",
+    "difficulty": 2
+  },
+  "instrument": {
+    "bn": "যন্ত্র",
+    "phonetic": "/ˈɪnstrumənt/",
+    "audio": "instrument",
+    "category": "object",
+    "difficulty": 3
+  },
+  "interest": {
+    "bn": "সুদ",
+    "phonetic": "/ˈɪntrest/",
+    "audio": "interest",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "into": {
+    "bn": "মধ্যে",
+    "phonetic": "/ˈɪntu/",
+    "audio": "into",
+    "category": "preposition",
+    "difficulty": 1
+  },
+  "is": {
+    "bn": "হয়",
+    "phonetic": "/ɪz/",
+    "audio": "is",
+    "category": "action",
+    "difficulty": 1
+  },
+  "island": {
+    "bn": "দ্বীপ",
+    "phonetic": "/ˈaɪlənd/",
+    "audio": "island",
+    "category": "place",
+    "difficulty": 2
+  },
+  "it": {
+    "bn": "এটি",
+    "phonetic": "/ɪt/",
+    "audio": "it",
+    "category": "pronoun",
+    "difficulty": 1
+  },
+  "its": {
+    "bn": "এর",
+    "phonetic": "/ɪts/",
+    "audio": "its",
+    "category": "pronoun",
+    "difficulty": 1
+  },
+  "job": {
+    "bn": "চাকরি",
+    "phonetic": "/dʒɑːb/",
+    "audio": "job",
+    "category": "abstract",
+    "difficulty": 1
+  },
+  "join": {
+    "bn": "যোগদান করা",
+    "phonetic": "/dʒɔɪn/",
+    "audio": "join",
+    "category": "action",
+    "difficulty": 2
+  },
+  "joy": {
+    "bn": "আনন্দ",
+    "phonetic": "/dʒɔɪ/",
+    "audio": "joy",
+    "category": "abstract",
+    "difficulty": 1
+  },
+  "just": {
+    "bn": "শুধু",
+    "phonetic": "/dʒʌst/",
+    "audio": "just",
+    "category": "adverb",
+    "difficulty": 1
+  },
+  "keep": {
+    "bn": "রাখা",
+    "phonetic": "/kiːp/",
+    "audio": "keep",
+    "category": "action",
+    "difficulty": 1
+  },
+  "key": {
+    "bn": "চাবি",
+    "phonetic": "/kiː/",
+    "audio": "key",
+    "category": "object",
+    "difficulty": 1
+  },
+  "kill": {
+    "bn": "হত্যা করা",
+    "phonetic": "/kɪl/",
+    "audio": "kill",
+    "category": "action",
+    "difficulty": 2
+  },
+  "kind": {
+    "bn": "ধরনের",
+    "phonetic": "/kaɪnd/",
+    "audio": "kind",
+    "category": "abstract",
+    "difficulty": 1
+  },
+  "kitchen": {
+    "bn": "রান্নাঘর",
+    "phonetic": "/ˈkɪtʃɪn/",
+    "audio": "kitchen",
+    "category": "place",
+    "difficulty": 2
+  },
+  "knee": {
+    "bn": "হাঁটু",
+    "phonetic": "/niː/",
+    "audio": "knee",
+    "category": "body",
+    "difficulty": 2
+  },
+  "knife": {
+    "bn": "ছুরি",
+    "phonetic": "/naɪf/",
+    "audio": "knife",
+    "category": "object",
+    "difficulty": 2
+  },
+  "know": {
+    "bn": "জানা",
+    "phonetic": "/noʊ/",
+    "audio": "know",
+    "category": "action",
+    "difficulty": 1
+  },
+  "lady": {
+    "bn": "ভদ্রমহিলা",
+    "phonetic": "/ˈleɪdi/",
+    "audio": "lady",
+    "category": "person",
+    "difficulty": 1
+  },
+  "lake": {
+    "bn": "হ্রদ",
+    "phonetic": "/leɪk/",
+    "audio": "lake",
+    "category": "place",
+    "difficulty": 2
+  },
+  "land": {
+    "bn": "ভূমি",
+    "phonetic": "/lænd/",
+    "audio": "land",
+    "category": "place",
+    "difficulty": 1
+  },
+  "language": {
+    "bn": "ভাষা",
+    "phonetic": "/ˈlæŋɡwɪdʒ/",
+    "audio": "language",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "large": {
+    "bn": "বিশাল",
+    "phonetic": "/lɑːrdʒ/",
+    "audio": "large",
+    "category": "adjective",
+    "difficulty": 1
+  },
+  "last": {
+    "bn": "শেষ",
+    "phonetic": "/læst/",
+    "audio": "last",
+    "category": "adjective",
+    "difficulty": 1
+  },
+  "late": {
+    "bn": "দেরি",
+    "phonetic": "/leɪt/",
+    "audio": "late",
+    "category": "adjective",
+    "difficulty": 1
+  },
+  "laugh": {
+    "bn": "হাসা",
+    "phonetic": "/læf/",
+    "audio": "laugh",
+    "category": "action",
+    "difficulty": 1
+  },
+  "law": {
+    "bn": "আইন",
+    "phonetic": "/lɔː/",
+    "audio": "law",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "lay": {
+    "bn": "রাখা",
+    "phonetic": "/leɪ/",
+    "audio": "lay",
+    "category": "action",
+    "difficulty": 2
+  },
+  "lead": {
+    "bn": "নেতৃত্ব দেওয়া",
+    "phonetic": "/liːd/",
+    "audio": "lead",
+    "category": "action",
+    "difficulty": 2
+  },
+  "learn": {
+    "bn": "শেখা",
+    "phonetic": "/lɜːrn/",
+    "audio": "learn",
+    "category": "action",
+    "difficulty": 1
+  },
+  "least": {
+    "bn": "সবচেয়ে কম",
+    "phonetic": "/liːst/",
+    "audio": "least",
+    "category": "adjective",
+    "difficulty": 2
+  },
+  "leave": {
+    "bn": "ত্যাগ করা",
+    "phonetic": "/liːv/",
+    "audio": "leave",
+    "category": "action",
+    "difficulty": 1
+  },
+  "left": {
+    "bn": "বাম",
+    "phonetic": "/left/",
+    "audio": "left",
+    "category": "abstract",
+    "difficulty": 1
+  },
+  "leg": {
+    "bn": "পা",
+    "phonetic": "/leɡ/",
+    "audio": "leg",
+    "category": "body",
+    "difficulty": 1
+  },
+  "length": {
+    "bn": "দৈর্ঘ্য",
+    "phonetic": "/leŋθ/",
+    "audio": "length",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "less": {
+    "bn": "কম",
+    "phonetic": "/les/",
+    "audio": "less",
+    "category": "adjective",
+    "difficulty": 1
+  },
+  "let": {
+    "bn": "অনুমতি দেওয়া",
+    "phonetic": "/let/",
+    "audio": "let",
+    "category": "action",
+    "difficulty": 1
+  },
+  "letter": {
+    "bn": "চিঠি",
+    "phonetic": "/ˈletər/",
+    "audio": "letter",
+    "category": "object",
+    "difficulty": 1
+  },
+  "level": {
+    "bn": "স্তর",
+    "phonetic": "/ˈlevl/",
+    "audio": "level",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "lie": {
+    "bn": "মিথ্যা বলা",
+    "phonetic": "/laɪ/",
+    "audio": "lie",
+    "category": "action",
+    "difficulty": 1
+  },
+  "life": {
+    "bn": "জীবন",
+    "phonetic": "/laɪf/",
+    "audio": "life",
+    "category": "abstract",
+    "difficulty": 1
+  },
+  "lift": {
+    "bn": "উত্তোলন",
+    "phonetic": "/lɪft/",
+    "audio": "lift",
+    "category": "action",
+    "difficulty": 2
+  },
+  "light": {
+    "bn": "আলো",
+    "phonetic": "/laɪt/",
+    "audio": "light",
+    "category": "nature",
+    "difficulty": 1
+  },
+  "like": {
+    "bn": "পছন্দ করা",
+    "phonetic": "/laɪk/",
+    "audio": "like",
+    "category": "action",
+    "difficulty": 1
+  },
+  "line": {
+    "bn": "লাইন",
+    "phonetic": "/laɪn/",
+    "audio": "line",
+    "category": "abstract",
+    "difficulty": 1
+  },
+  "lion": {
+    "bn": "সিংহ",
+    "phonetic": "/ˈlaɪən/",
+    "audio": "lion",
+    "category": "animal",
+    "difficulty": 1
+  },
+  "lip": {
+    "bn": "ঠোঁট",
+    "phonetic": "/lɪp/",
+    "audio": "lip",
+    "category": "body",
+    "difficulty": 1
+  },
+  "liquid": {
+    "bn": "তরল",
+    "phonetic": "/ˈlɪkwɪd/",
+    "audio": "liquid",
+    "category": "nature",
+    "difficulty": 3
+  },
+  "list": {
+    "bn": "তালিকা",
+    "phonetic": "/lɪst/",
+    "audio": "list",
+    "category": "abstract",
+    "difficulty": 1
+  },
+  "listen": {
+    "bn": "শোনা",
+    "phonetic": "/ˈlɪsn/",
+    "audio": "listen",
+    "category": "action",
+    "difficulty": 1
+  },
+  "little": {
+    "bn": "ছোট",
+    "phonetic": "/ˈlɪtl/",
+    "audio": "little",
+    "category": "adjective",
+    "difficulty": 1
+  },
+  "live": {
+    "bn": "বাস করা",
+    "phonetic": "/lɪv/",
+    "audio": "live",
+    "category": "action",
+    "difficulty": 1
+  },
+  "locate": {
+    "bn": "অবস্থান",
+    "phonetic": "/loʊˈkeɪt/",
+    "audio": "locate",
+    "category": "action",
+    "difficulty": 3
+  },
+  "log": {
+    "bn": "লগ",
+    "phonetic": "/lɔːɡ/",
+    "audio": "log",
+    "category": "object",
+    "difficulty": 2
+  },
+  "lone": {
+    "bn": "নিঃসঙ্গ",
+    "phonetic": "/loʊn/",
+    "audio": "lone",
+    "category": "adjective",
+    "difficulty": 2
+  },
+  "long": {
+    "bn": "দীর্ঘ",
+    "phonetic": "/lɔːŋ/",
+    "audio": "long",
+    "category": "adjective",
+    "difficulty": 1
+  },
+  "look": {
+    "bn": "তাকানো",
+    "phonetic": "/lʊk/",
+    "audio": "look",
+    "category": "action",
+    "difficulty": 1
+  },
+  "lose": {
+    "bn": "হারানো",
+    "phonetic": "/luːz/",
+    "audio": "lose",
+    "category": "action",
+    "difficulty": 1
+  },
+  "lost": {
+    "bn": "হারিয়ে গেছে",
+    "phonetic": "/lɔːst/",
+    "audio": "lost",
+    "category": "action",
+    "difficulty": 1
+  },
+  "lot": {
+    "bn": "অনেক",
+    "phonetic": "/lɑːt/",
+    "audio": "lot",
+    "category": "determiner",
+    "difficulty": 1
+  },
+  "loud": {
+    "bn": "উচ্চ শব্দ",
+    "phonetic": "/laʊd/",
+    "audio": "loud",
+    "category": "adjective",
+    "difficulty": 1
+  },
+  "love": {
+    "bn": "ভালোবাসা",
+    "phonetic": "/lʌv/",
+    "audio": "love",
+    "category": "abstract",
+    "difficulty": 1
+  },
+  "low": {
+    "bn": "নিচু",
+    "phonetic": "/loʊ/",
+    "audio": "low",
+    "category": "adjective",
+    "difficulty": 1
+  },
+  "machine": {
+    "bn": "যন্ত্র",
+    "phonetic": "/məˈʃiːn/",
+    "audio": "machine",
+    "category": "object",
+    "difficulty": 2
+  },
+  "made": {
+    "bn": "তৈরি",
+    "phonetic": "/meɪd/",
+    "audio": "made",
+    "category": "action",
+    "difficulty": 1
+  },
+  "main": {
+    "bn": "প্রধান",
+    "phonetic": "/meɪn/",
+    "audio": "main",
+    "category": "adjective",
+    "difficulty": 2
+  },
+  "major": {
+    "bn": "প্রধান",
+    "phonetic": "/ˈmeɪdʒər/",
+    "audio": "major",
+    "category": "adjective",
+    "difficulty": 3
+  },
+  "make": {
+    "bn": "তৈরি করা",
+    "phonetic": "/meɪk/",
+    "audio": "make",
+    "category": "action",
+    "difficulty": 1
+  },
+  "man": {
+    "bn": "মানুষ",
+    "phonetic": "/mæn/",
+    "audio": "man",
+    "category": "person",
+    "difficulty": 1
+  },
+  "many": {
+    "bn": "অনেক",
+    "phonetic": "/ˈmeni/",
+    "audio": "many",
+    "category": "determiner",
+    "difficulty": 1
+  },
+  "map": {
+    "bn": "মানচিত্র",
+    "phonetic": "/mæp/",
+    "audio": "map",
+    "category": "object",
+    "difficulty": 2
+  },
+  "mark": {
+    "bn": "চিহ্ন",
+    "phonetic": "/mɑːrk/",
+    "audio": "mark",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "market": {
+    "bn": "বাজার",
+    "phonetic": "/ˈmɑːrkɪt/",
+    "audio": "market",
+    "category": "place",
+    "difficulty": 1
+  },
+  "master": {
+    "bn": "মাস্টার",
+    "phonetic": "/ˈmæstər/",
+    "audio": "master",
+    "category": "person",
+    "difficulty": 2
+  },
+  "match": {
+    "bn": "ম্যাচ",
+    "phonetic": "/mætʃ/",
+    "audio": "match",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "material": {
+    "bn": "উপাদান",
+    "phonetic": "/məˈtɪriəl/",
+    "audio": "material",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "matter": {
+    "bn": "ব্যাপার",
+    "phonetic": "/ˈmætər/",
+    "audio": "matter",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "may": {
+    "bn": "হতে পারে",
+    "phonetic": "/meɪ/",
+    "audio": "may",
+    "category": "action",
+    "difficulty": 1
+  },
+  "me": {
+    "bn": "আমাকে",
+    "phonetic": "/miː/",
+    "audio": "me",
+    "category": "pronoun",
+    "difficulty": 1
+  },
+  "mean": {
+    "bn": "অর্থ",
+    "phonetic": "/miːn/",
+    "audio": "mean",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "measure": {
+    "bn": "পরিমাপ",
+    "phonetic": "/ˈmeʒər/",
+    "audio": "measure",
+    "category": "action",
+    "difficulty": 3
+  },
+  "meat": {
+    "bn": "মাংস",
+    "phonetic": "/miːt/",
+    "audio": "meat",
+    "category": "food",
+    "difficulty": 1
+  },
+  "meet": {
+    "bn": "সাক্ষাৎ করা",
+    "phonetic": "/miːt/",
+    "audio": "meet",
+    "category": "action",
+    "difficulty": 1
+  },
+  "melody": {
+    "bn": "সুর",
+    "phonetic": "/ˈmelədi/",
+    "audio": "melody",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "member": {
+    "bn": "সদস্য",
+    "phonetic": "/ˈmembər/",
+    "audio": "member",
+    "category": "person",
+    "difficulty": 2
+  },
+  "memory": {
+    "bn": "স্মৃতি",
+    "phonetic": "/ˈmeməri/",
+    "audio": "memory",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "men": {
+    "bn": "পুরুষরা",
+    "phonetic": "/men/",
+    "audio": "men",
+    "category": "person",
+    "difficulty": 1
+  },
+  "mental": {
+    "bn": "মানসিক",
+    "phonetic": "/ˈmentl/",
+    "audio": "mental",
+    "category": "adjective",
+    "difficulty": 3
+  },
+  "merely": {
+    "bn": "নিছক",
+    "phonetic": "/ˈmɪrli/",
+    "audio": "merely",
+    "category": "adverb",
+    "difficulty": 3
+  },
+  "metal": {
+    "bn": "ধাতু",
+    "phonetic": "/ˈmetl/",
+    "audio": "metal",
+    "category": "material",
+    "difficulty": 2
+  },
+  "method": {
+    "bn": "পদ্ধতি",
+    "phonetic": "/ˈmeθəd/",
+    "audio": "method",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "middle": {
+    "bn": "মধ্যম",
+    "phonetic": "/ˈmɪdl/",
+    "audio": "middle",
+    "category": "abstract",
+    "difficulty": 1
+  },
+  "might": {
+    "bn": "হতে পারে",
+    "phonetic": "/maɪt/",
+    "audio": "might",
+    "category": "action",
+    "difficulty": 2
+  },
+  "mile": {
+    "bn": "মাইল",
+    "phonetic": "/maɪl/",
+    "audio": "mile",
+    "category": "abstract",
+    "difficulty": 1
+  },
+  "million": {
+    "bn": "মিলিয়ন",
+    "phonetic": "/ˈmɪljən/",
+    "audio": "million",
+    "category": "number",
+    "difficulty": 2
+  },
+  "mind": {
+    "bn": "মন",
+    "phonetic": "/maɪnd/",
+    "audio": "mind",
+    "category": "abstract",
+    "difficulty": 1
+  },
+  "mine": {
+    "bn": "আমার",
+    "phonetic": "/maɪn/",
+    "audio": "mine",
+    "category": "pronoun",
+    "difficulty": 1
+  },
+  "minute": {
+    "bn": "মিনিট",
+    "phonetic": "/ˈmɪnɪt/",
+    "audio": "minute",
+    "category": "abstract",
+    "difficulty": 1
+  },
+  "miss": {
+    "bn": "মিস",
+    "phonetic": "/mɪs/",
+    "audio": "miss",
+    "category": "action",
+    "difficulty": 1
+  },
+  "modern": {
+    "bn": "আধুনিক",
+    "phonetic": "/ˈmɑːdərn/",
+    "audio": "modern",
+    "category": "adjective",
+    "difficulty": 2
+  },
+  "molecule": {
+    "bn": "অণু",
+    "phonetic": "/ˈmɑːlɪkjuːl/",
+    "audio": "molecule",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "moment": {
+    "bn": "মুহূর্ত",
+    "phonetic": "/ˈmoʊmənt/",
+    "audio": "moment",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "money": {
+    "bn": "টাকা",
+    "phonetic": "/ˈmʌni/",
+    "audio": "money",
+    "category": "abstract",
+    "difficulty": 1
+  },
+  "month": {
+    "bn": "মাস",
+    "phonetic": "/mʌnθ/",
+    "audio": "month",
+    "category": "abstract",
+    "difficulty": 1
+  },
+  "moon": {
+    "bn": "চাঁদ",
+    "phonetic": "/muːn/",
+    "audio": "moon",
+    "category": "nature",
+    "difficulty": 1
+  },
+  "more": {
+    "bn": "আরও",
+    "phonetic": "/mɔːr/",
+    "audio": "more",
+    "category": "determiner",
+    "difficulty": 1
+  },
+  "morning": {
+    "bn": "সকাল",
+    "phonetic": "/ˈmɔːrnɪŋ/",
+    "audio": "morning",
+    "category": "abstract",
+    "difficulty": 1
+  },
+  "most": {
+    "bn": "সবচেয়ে বেশি",
+    "phonetic": "/moʊst/",
+    "audio": "most",
+    "category": "determiner",
+    "difficulty": 1
+  },
+  "mother": {
+    "bn": "মা",
+    "phonetic": "/ˈmʌðər/",
+    "audio": "mother",
+    "category": "person",
+    "difficulty": 1
+  },
+  "mountain": {
+    "bn": "পাহাড়",
+    "phonetic": "/ˈmaʊntn/",
+    "audio": "mountain",
+    "category": "place",
+    "difficulty": 1
+  },
+  "mouth": {
+    "bn": "মুখ",
+    "phonetic": "/maʊθ/",
+    "audio": "mouth",
+    "category": "body",
+    "difficulty": 1
+  },
+  "move": {
+    "bn": "সরানো",
+    "phonetic": "/muːv/",
+    "audio": "move",
+    "category": "action",
+    "difficulty": 1
+  },
+  "much": {
+    "bn": "অনেক",
+    "phonetic": "/mʌtʃ/",
+    "audio": "much",
+    "category": "determiner",
+    "difficulty": 1
+  },
+  "music": {
+    "bn": "সংগীত",
+    "phonetic": "/ˈmjuːzɪk/",
+    "audio": "music",
+    "category": "abstract",
+    "difficulty": 1
+  },
+  "must": {
+    "bn": "অবশ্যই",
+    "phonetic": "/mʌst/",
+    "audio": "must",
+    "category": "action",
+    "difficulty": 1
+  },
+  "my": {
+    "bn": "আমার",
+    "phonetic": "/maɪ/",
+    "audio": "my",
+    "category": "pronoun",
+    "difficulty": 1
+  },
+  "name": {
+    "bn": "নাম",
+    "phonetic": "/neɪm/",
+    "audio": "name",
+    "category": "abstract",
+    "difficulty": 1
+  },
+  "nation": {
+    "bn": "জাতি",
+    "phonetic": "/ˈneɪʃn/",
+    "audio": "nation",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "natural": {
+    "bn": "প্রাকৃতিক",
+    "phonetic": "/ˈnætʃrəl/",
+    "audio": "natural",
+    "category": "adjective",
+    "difficulty": 2
+  },
+  "nature": {
+    "bn": "প্রকৃতি",
+    "phonetic": "/ˈneɪtʃər/",
+    "audio": "nature",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "near": {
+    "bn": "কাছে",
+    "phonetic": "/nɪr/",
+    "audio": "near",
+    "category": "preposition",
+    "difficulty": 1
+  },
+  "necessary": {
+    "bn": "প্রয়োজনীয়",
+    "phonetic": "/ˈnesəseri/",
+    "audio": "necessary",
+    "category": "adjective",
+    "difficulty": 2
+  },
+  "neck": {
+    "bn": "ঘাড়",
+    "phonetic": "/nek/",
+    "audio": "neck",
+    "category": "body",
+    "difficulty": 1
+  },
+  "need": {
+    "bn": "প্রয়োজন",
+    "phonetic": "/niːd/",
+    "audio": "need",
+    "category": "abstract",
+    "difficulty": 1
+  },
+  "neighbor": {
+    "bn": "প্রতিবেশী",
+    "phonetic": "/ˈneɪbər/",
+    "audio": "neighbor",
+    "category": "person",
+    "difficulty": 2
+  },
+  "never": {
+    "bn": "কখনও না",
+    "phonetic": "/ˈnevər/",
+    "audio": "never",
+    "category": "adverb",
+    "difficulty": 1
+  },
+  "new": {
+    "bn": "নতুন",
+    "phonetic": "/nuː/",
+    "audio": "new",
+    "category": "adjective",
+    "difficulty": 1
+  },
+  "next": {
+    "bn": "পরবর্তী",
+    "phonetic": "/nekst/",
+    "audio": "next",
+    "category": "adjective",
+    "difficulty": 1
+  },
+  "night": {
+    "bn": "রাত",
+    "phonetic": "/naɪt/",
+    "audio": "night",
+    "category": "abstract",
+    "difficulty": 1
+  },
+  "nine": {
+    "bn": "নয়",
+    "phonetic": "/naɪn/",
+    "audio": "nine",
+    "category": "number",
+    "difficulty": 1
+  },
+  "no": {
+    "bn": "না",
+    "phonetic": "/noʊ/",
+    "audio": "no",
+    "category": "adverb",
+    "difficulty": 1
+  },
+  "noise": {
+    "bn": "শব্দ",
+    "phonetic": "/nɔɪz/",
+    "audio": "noise",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "none": {
+    "bn": "কেউ না",
+    "phonetic": "/nʌn/",
+    "audio": "none",
+    "category": "pronoun",
+    "difficulty": 1
+  },
+  "noon": {
+    "bn": "দুপুর",
+    "phonetic": "/nuːn/",
+    "audio": "noon",
+    "category": "abstract",
+    "difficulty": 1
+  },
+  "north": {
+    "bn": "উত্তর",
+    "phonetic": "/nɔːrθ/",
+    "audio": "north",
+    "category": "nature",
+    "difficulty": 1
+  },
+  "not": {
+    "bn": "না",
+    "phonetic": "/nɑːt/",
+    "audio": "not",
+    "category": "adverb",
+    "difficulty": 1
+  },
+  "note": {
+    "bn": "নোট",
+    "phonetic": "/noʊt/",
+    "audio": "note",
+    "category": "object",
+    "difficulty": 2
+  },
+  "nothing": {
+    "bn": "কিছু না",
+    "phonetic": "/ˈnʌθɪŋ/",
+    "audio": "nothing",
+    "category": "pronoun",
+    "difficulty": 1
+  },
+  "notice": {
+    "bn": "লক্ষ্য করা",
+    "phonetic": "/ˈnoʊtɪs/",
+    "audio": "notice",
+    "category": "action",
+    "difficulty": 2
+  },
+  "now": {
+    "bn": "এখন",
+    "phonetic": "/naʊ/",
+    "audio": "now",
+    "category": "adverb",
+    "difficulty": 1
+  },
+  "number": {
+    "bn": "সংখ্যা",
+    "phonetic": "/ˈnʌmbər/",
+    "audio": "number",
+    "category": "abstract",
+    "difficulty": 1
+  },
+  "object": {
+    "bn": "বস্তু",
+    "phonetic": "/ˈɑːbdʒekt/",
+    "audio": "object",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "observe": {
+    "bn": "পর্যবেক্ষণ করা",
+    "phonetic": "/əbˈzɜːrv/",
+    "audio": "observe",
+    "category": "action",
+    "difficulty": 3
+  },
+  "ocean": {
+    "bn": "মহাসাগর",
+    "phonetic": "/ˈoʊʃn/",
+    "audio": "ocean",
+    "category": "nature",
+    "difficulty": 1
+  },
+  "of": {
+    "bn": "এর",
+    "phonetic": "/əv/",
+    "audio": "of",
+    "category": "preposition",
+    "difficulty": 1
+  },
+  "off": {
+    "bn": "বন্ধ",
+    "phonetic": "/ɔːf/",
+    "audio": "off",
+    "category": "adverb",
+    "difficulty": 1
+  },
+  "offer": {
+    "bn": "প্রস্তাব",
+    "phonetic": "/ˈɔːfər/",
+    "audio": "offer",
+    "category": "action",
+    "difficulty": 2
+  },
+  "office": {
+    "bn": "অফিস",
+    "phonetic": "/ˈɑːfɪs/",
+    "audio": "office",
+    "category": "place",
+    "difficulty": 1
+  },
+  "often": {
+    "bn": "প্রায়ই",
+    "phonetic": "/ˈɔːfn/",
+    "audio": "often",
+    "category": "adverb",
+    "difficulty": 1
+  },
+  "oh": {
+    "bn": "ওহ",
+    "phonetic": "/oʊ/",
+    "audio": "oh",
+    "category": "interjection",
+    "difficulty": 1
+  },
+  "oil": {
+    "bn": "তেল",
+    "phonetic": "/ɔɪl/",
+    "audio": "oil",
+    "category": "food",
+    "difficulty": 1
+  },
+  "old": {
+    "bn": "পুরানো",
+    "phonetic": "/oʊld/",
+    "audio": "old",
+    "category": "adjective",
+    "difficulty": 1
+  },
+  "on": {
+    "bn": "উপরে",
+    "phonetic": "/ɔːn/",
+    "audio": "on",
+    "category": "preposition",
+    "difficulty": 1
+  },
+  "once": {
+    "bn": "একবার",
+    "phonetic": "/wʌns/",
+    "audio": "once",
+    "category": "adverb",
+    "difficulty": 1
+  },
+  "one": {
+    "bn": "এক",
+    "phonetic": "/wʌn/",
+    "audio": "one",
+    "category": "number",
+    "difficulty": 1
+  },
+  "only": {
+    "bn": "শুধুমাত্র",
+    "phonetic": "/ˈoʊnli/",
+    "audio": "only",
+    "category": "adverb",
+    "difficulty": 1
+  },
+  "operate": {
+    "bn": "চালনা করা",
+    "phonetic": "/ˈɑːpəreɪt/",
+    "audio": "operate",
+    "category": "action",
+    "difficulty": 3
+  },
+  "opportunity": {
+    "bn": "সুযোগ",
+    "phonetic": "/ˌɑːpərˈtuːnəti/",
+    "audio": "opportunity",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "opposite": {
+    "bn": "বিপরীত",
+    "phonetic": "/ˈɑːpəzɪt/",
+    "audio": "opposite",
+    "category": "adjective",
+    "difficulty": 2
+  },
+  "or": {
+    "bn": "অথবা",
+    "phonetic": "/ɔːr/",
+    "audio": "or",
+    "category": "conjunction",
+    "difficulty": 1
+  },
+  "orange": {
+    "bn": "কমলা",
+    "phonetic": "/ˈɔːrɪndʒ/",
+    "audio": "orange",
+    "category": "fruit",
+    "difficulty": 1
+  },
+  "order": {
+    "bn": "আদেশ",
+    "phonetic": "/ˈɔːrdər/",
+    "audio": "order",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "organ": {
+    "bn": "অঙ্গ",
+    "phonetic": "/ˈɔːrɡən/",
+    "audio": "organ",
+    "category": "body",
+    "difficulty": 3
+  },
+  "original": {
+    "bn": "আসল",
+    "phonetic": "/əˈrɪdʒənl/",
+    "audio": "original",
+    "category": "adjective",
+    "difficulty": 3
+  },
+  "other": {
+    "bn": "অন্য",
+    "phonetic": "/ˈʌðər/",
+    "audio": "other",
+    "category": "determiner",
+    "difficulty": 1
+  },
+  "our": {
+    "bn": "আমাদের",
+    "phonetic": "/ˈaʊər/",
+    "audio": "our",
+    "category": "pronoun",
+    "difficulty": 1
+  },
+  "out": {
+    "bn": "বাইরে",
+    "phonetic": "/aʊt/",
+    "audio": "out",
+    "category": "preposition",
+    "difficulty": 1
+  },
+  "outside": {
+    "bn": "বাইরে",
+    "phonetic": "/ˌaʊtˈsaɪd/",
+    "audio": "outside",
+    "category": "preposition",
+    "difficulty": 1
+  },
+  "over": {
+    "bn": "উপরে",
+    "phonetic": "/ˈoʊvər/",
+    "audio": "over",
+    "category": "preposition",
+    "difficulty": 1
+  },
+  "own": {
+    "bn": "নিজস্ব",
+    "phonetic": "/oʊn/",
+    "audio": "own",
+    "category": "adjective",
+    "difficulty": 1
+  },
+  "page": {
+    "bn": "পৃষ্ঠা",
+    "phonetic": "/peɪdʒ/",
+    "audio": "page",
+    "category": "object",
+    "difficulty": 1
+  },
+  "pain": {
+    "bn": "ব্যথা",
+    "phonetic": "/peɪn/",
+    "audio": "pain",
+    "category": "abstract",
+    "difficulty": 1
+  },
+  "paint": {
+    "bn": "রঙ করা",
+    "phonetic": "/peɪnt/",
+    "audio": "paint",
+    "category": "action",
+    "difficulty": 1
+  },
+  "pair": {
+    "bn": "জোড়া",
+    "phonetic": "/per/",
+    "audio": "pair",
+    "category": "abstract",
+    "difficulty": 1
+  },
+  "paper": {
+    "bn": "কাগজ",
+    "phonetic": "/ˈpeɪpər/",
+    "audio": "paper",
+    "category": "object",
+    "difficulty": 1
+  },
+  "paragraph": {
+    "bn": "অনুচ্ছেদ",
+    "phonetic": "/ˈpærəɡræf/",
+    "audio": "paragraph",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "parent": {
+    "bn": "অভিভাবক",
+    "phonetic": "/ˈperənt/",
+    "audio": "parent",
+    "category": "person",
+    "difficulty": 1
+  },
+  "part": {
+    "bn": "অংশ",
+    "phonetic": "/pɑːrt/",
+    "audio": "part",
+    "category": "abstract",
+    "difficulty": 1
+  },
+  "particular": {
+    "bn": "বিশেষ",
+    "phonetic": "/pərˈtɪkjələr/",
+    "audio": "particular",
+    "category": "adjective",
+    "difficulty": 3
+  },
+  "pass": {
+    "bn": "পাস করা",
+    "phonetic": "/pæs/",
+    "audio": "pass",
+    "category": "action",
+    "difficulty": 1
+  },
+  "past": {
+    "bn": "অতীত",
+    "phonetic": "/pæst/",
+    "audio": "past",
+    "category": "abstract",
+    "difficulty": 1
+  },
+  "path": {
+    "bn": "পথ",
+    "phonetic": "/pæθ/",
+    "audio": "path",
+    "category": "place",
+    "difficulty": 1
+  },
+  "pattern": {
+    "bn": "নকশা",
+    "phonetic": "/ˈpætərn/",
+    "audio": "pattern",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "pay": {
+    "bn": "পরিশোধ করা",
+    "phonetic": "/peɪ/",
+    "audio": "pay",
+    "category": "action",
+    "difficulty": 1
+  },
+  "peace": {
+    "bn": "শান্তি",
+    "phonetic": "/piːs/",
+    "audio": "peace",
+    "category": "abstract",
+    "difficulty": 1
+  },
+  "pencil": {
+    "bn": "পেন্সিল",
+    "phonetic": "/ˈpensl/",
+    "audio": "pencil",
+    "category": "object",
+    "difficulty": 1
+  },
+  "people": {
+    "bn": "মানুষ",
+    "phonetic": "/ˈpiːpl/",
+    "audio": "people",
+    "category": "group",
+    "difficulty": 1
+  },
+  "perfect": {
+    "bn": "নিখুঁত",
+    "phonetic": "/ˈpɜːrfɪkt/",
+    "audio": "perfect",
+    "category": "adjective",
+    "difficulty": 2
+  },
+  "perhaps": {
+    "bn": "হয়তো",
+    "phonetic": "/pərˈhæps/",
+    "audio": "perhaps",
+    "category": "adverb",
+    "difficulty": 2
+  },
+  "period": {
+    "bn": "কাল",
+    "phonetic": "/ˈpɪriəd/",
+    "audio": "period",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "person": {
+    "bn": "ব্যক্তি",
+    "phonetic": "/ˈpɜːrsn/",
+    "audio": "person",
+    "category": "person",
+    "difficulty": 1
+  },
+  "phrase": {
+    "bn": "বাক্যাংশ",
+    "phonetic": "/freɪz/",
+    "audio": "phrase",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "physical": {
+    "bn": "শারীরিক",
+    "phonetic": "/ˈfɪzɪkl/",
+    "audio": "physical",
+    "category": "adjective",
+    "difficulty": 3
+  },
+  "pick": {
+    "bn": "পছন্দ করা",
+    "phonetic": "/pɪk/",
+    "audio": "pick",
+    "category": "action",
+    "difficulty": 1
+  },
+  "picture": {
+    "bn": "ছবি",
+    "phonetic": "/ˈpɪktʃər/",
+    "audio": "picture",
+    "category": "object",
+    "difficulty": 1
+  },
+  "piece": {
+    "bn": "টুকরা",
+    "phonetic": "/piːs/",
+    "audio": "piece",
+    "category": "abstract",
+    "difficulty": 1
+  },
+  "place": {
+    "bn": "জায়গা",
+    "phonetic": "/pleɪs/",
+    "audio": "place",
+    "category": "place",
+    "difficulty": 1
+  },
+  "plain": {
+    "bn": "সাদা মাটা",
+    "phonetic": "/pleɪn/",
+    "audio": "plain",
+    "category": "adjective",
+    "difficulty": 2
+  },
+  "plan": {
+    "bn": "পরিকল্পনা",
+    "phonetic": "/plæn/",
+    "audio": "plan",
+    "category": "abstract",
+    "difficulty": 1
+  },
+  "plane": {
+    "bn": "বিমান",
+    "phonetic": "/pleɪn/",
+    "audio": "plane",
+    "category": "object",
+    "difficulty": 1
+  },
+  "plant": {
+    "bn": "গাছ",
+    "phonetic": "/plænt/",
+    "audio": "plant",
+    "category": "nature",
+    "difficulty": 1
+  },
+  "play": {
+    "bn": "খেলা করা",
+    "phonetic": "/pleɪ/",
+    "audio": "play",
+    "category": "action",
+    "difficulty": 1
+  },
+  "please": {
+    "bn": "দয়া করে",
+    "phonetic": "/pliːz/",
+    "audio": "please",
+    "category": "adverb",
+    "difficulty": 1
+  },
+  "plural": {
+    "bn": "বহুবচন",
+    "phonetic": "/ˈplʊrəl/",
+    "audio": "plural",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "poem": {
+    "bn": "কবিতা",
+    "phonetic": "/ˈpoʊəm/",
+    "audio": "poem",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "point": {
+    "bn": "বিন্দু",
+    "phonetic": "/pɔɪnt/",
+    "audio": "point",
+    "category": "abstract",
+    "difficulty": 1
+  },
+  "pole": {
+    "bn": "মেরু",
+    "phonetic": "/poʊl/",
+    "audio": "pole",
+    "category": "place",
+    "difficulty": 2
+  },
+  "poor": {
+    "bn": "দরিদ্র",
+    "phonetic": "/pʊr/",
+    "audio": "poor",
+    "category": "adjective",
+    "difficulty": 1
+  },
+  "position": {
+    "bn": "অবস্থান",
+    "phonetic": "/pəˈzɪʃn/",
+    "audio": "position",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "possible": {
+    "bn": "সম্ভব",
+    "phonetic": "/ˈpɑːsəbl/",
+    "audio": "possible",
+    "category": "adjective",
+    "difficulty": 2
+  },
+  "post": {
+    "bn": "পোস্ট",
+    "phonetic": "/poʊst/",
+    "audio": "post",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "pound": {
+    "bn": "পাউন্ড",
+    "phonetic": "/paʊnd/",
+    "audio": "pound",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "power": {
+    "bn": "ক্ষমতা",
+    "phonetic": "/ˈpaʊər/",
+    "audio": "power",
+    "category": "abstract",
+    "difficulty": 1
+  },
+  "practice": {
+    "bn": "অনুশীলন",
+    "phonetic": "/ˈpræktɪs/",
+    "audio": "practice",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "prepare": {
+    "bn": "প্রস্তুত করা",
+    "phonetic": "/prɪˈper/",
+    "audio": "prepare",
+    "category": "action",
+    "difficulty": 2
+  },
+  "present": {
+    "bn": "উপহার",
+    "phonetic": "/ˈpreznt/",
+    "audio": "present",
+    "category": "abstract",
+    "difficulty": 1
+  },
+  "press": {
+    "bn": "চাপ",
+    "phonetic": "/pres/",
+    "audio": "press",
+    "category": "action",
+    "difficulty": 2
+  },
+  "pretty": {
+    "bn": "সুন্দর",
+    "phonetic": "/ˈprɪti/",
+    "audio": "pretty",
+    "category": "adjective",
+    "difficulty": 1
+  },
+  "price": {
+    "bn": "মূল্য",
+    "phonetic": "/praɪs/",
+    "audio": "price",
+    "category": "abstract",
+    "difficulty": 1
+  },
+  "print": {
+    "bn": "ছাপা",
+    "phonetic": "/prɪnt/",
+    "audio": "print",
+    "category": "action",
+    "difficulty": 2
+  },
+  "problem": {
+    "bn": "সমস্যা",
+    "phonetic": "/ˈprɑːbləm/",
+    "audio": "problem",
+    "category": "abstract",
+    "difficulty": 1
+  },
+  "process": {
+    "bn": "প্রক্রিয়া",
+    "phonetic": "/ˈprɑːses/",
+    "audio": "process",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "produce": {
+    "bn": "উৎপাদন করা",
+    "phonetic": "/prəˈduːs/",
+    "audio": "produce",
+    "category": "action",
+    "difficulty": 3
+  },
+  "product": {
+    "bn": "পণ্য",
+    "phonetic": "/ˈprɑːdʌkt/",
+    "audio": "product",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "proper": {
+    "bn": "সঠিক",
+    "phonetic": "/ˈprɑːpər/",
+    "audio": "proper",
+    "category": "adjective",
+    "difficulty": 3
+  },
+  "property": {
+    "bn": "সম্পত্তি",
+    "phonetic": "/ˈprɑːpərti/",
+    "audio": "property",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "protect": {
+    "bn": "রক্ষা করা",
+    "phonetic": "/prəˈtekt/",
+    "audio": "protect",
+    "category": "action",
+    "difficulty": 3
+  },
+  "prove": {
+    "bn": "প্রমাণ করা",
+    "phonetic": "/pruːv/",
+    "audio": "prove",
+    "category": "action",
+    "difficulty": 3
+  },
+  "provide": {
+    "bn": "প্রদান করা",
+    "phonetic": "/prəˈvaɪd/",
+    "audio": "provide",
+    "category": "action",
+    "difficulty": 2
+  },
+  "pull": {
+    "bn": "টানা",
+    "phonetic": "/pʊl/",
+    "audio": "pull",
+    "category": "action",
+    "difficulty": 1
+  },
+  "push": {
+    "bn": "ধাক্কা দেওয়া",
+    "phonetic": "/pʊʃ/",
+    "audio": "push",
+    "category": "action",
+    "difficulty": 1
+  },
+  "put": {
+    "bn": "রাখা",
+    "phonetic": "/pʊt/",
+    "audio": "put",
+    "category": "action",
+    "difficulty": 1
+  },
+  "quality": {
+    "bn": "গুণমান",
+    "phonetic": "/ˈkwɑːləti/",
+    "audio": "quality",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "question": {
+    "bn": "প্রশ্ন",
+    "phonetic": "/ˈkwestʃən/",
+    "audio": "question",
+    "category": "abstract",
+    "difficulty": 1
+  },
+  "quick": {
+    "bn": "দ্রুত",
+    "phonetic": "/kwɪk/",
+    "audio": "quick",
+    "category": "adjective",
+    "difficulty": 1
+  },
+  "quiet": {
+    "bn": "শান্ত",
+    "phonetic": "/ˈkwaɪət/",
+    "audio": "quiet",
+    "category": "adjective",
+    "difficulty": 1
+  },
+  "quite": {
+    "bn": "বেশ",
+    "phonetic": "/kwaɪt/",
+    "audio": "quite",
+    "category": "adverb",
+    "difficulty": 1
+  },
+  "quotient": {
+    "bn": "ভাগফল",
+    "phonetic": "/ˈkwoʊʃnt/",
+    "audio": "quotient",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "race": {
+    "bn": "দৌড়",
+    "phonetic": "/reɪs/",
+    "audio": "race",
+    "category": "action",
+    "difficulty": 1
+  },
+  "radio": {
+    "bn": "রেডিও",
+    "phonetic": "/ˈreɪdioʊ/",
+    "audio": "radio",
+    "category": "object",
+    "difficulty": 2
+  },
+  "rail": {
+    "bn": "রেল",
+    "phonetic": "/reɪl/",
+    "audio": "rail",
+    "category": "object",
+    "difficulty": 2
+  },
+  "raise": {
+    "bn": "উত্থাপন",
+    "phonetic": "/reɪz/",
+    "audio": "raise",
+    "category": "action",
+    "difficulty": 2
+  },
+  "ran": {
+    "bn": "দৌড়েছিল",
+    "phonetic": "/ræn/",
+    "audio": "ran",
+    "category": "action",
+    "difficulty": 1
+  },
+  "range": {
+    "bn": "পরিসীমা",
+    "phonetic": "/reɪndʒ/",
+    "audio": "range",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "rather": {
+    "bn": "বরং",
+    "phonetic": "/ˈræðər/",
+    "audio": "rather",
+    "category": "adverb",
+    "difficulty": 2
+  },
+  "reach": {
+    "bn": "পৌঁছানো",
+    "phonetic": "/riːtʃ/",
+    "audio": "reach",
+    "category": "action",
+    "difficulty": 2
+  },
+  "read": {
+    "bn": "পড়া",
+    "phonetic": "/riːd/",
+    "audio": "read",
+    "category": "action",
+    "difficulty": 1
+  },
+  "ready": {
+    "bn": "প্রস্তুত",
+    "phonetic": "/ˈredi/",
+    "audio": "ready",
+    "category": "adjective",
+    "difficulty": 1
+  },
+  "real": {
+    "bn": "আসল",
+    "phonetic": "/rɪəl/",
+    "audio": "real",
+    "category": "adjective",
+    "difficulty": 1
+  },
+  "reason": {
+    "bn": "কারণ",
+    "phonetic": "/ˈriːzn/",
+    "audio": "reason",
+    "category": "abstract",
+    "difficulty": 1
+  },
+  "receive": {
+    "bn": "গ্রহণ করা",
+    "phonetic": "/rɪˈsiːv/",
+    "audio": "receive",
+    "category": "action",
+    "difficulty": 2
+  },
+  "record": {
+    "bn": "রেকর্ড",
+    "phonetic": "/ˈrekərd/",
+    "audio": "record",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "red": {
+    "bn": "লাল",
+    "phonetic": "/red/",
+    "audio": "red",
+    "category": "color",
+    "difficulty": 1
+  },
+  "region": {
+    "bn": "অঞ্চল",
+    "phonetic": "/ˈriːdʒən/",
+    "audio": "region",
+    "category": "place",
+    "difficulty": 3
+  },
+  "remain": {
+    "bn": "থাকা",
+    "phonetic": "/rɪˈmeɪn/",
+    "audio": "remain",
+    "category": "action",
+    "difficulty": 2
+  },
+  "remember": {
+    "bn": "মনে রাখা",
+    "phonetic": "/rɪˈmembər/",
+    "audio": "remember",
+    "category": "action",
+    "difficulty": 1
+  },
+  "repeat": {
+    "bn": "পুনরাবৃত্তি",
+    "phonetic": "/rɪˈpiːt/",
+    "audio": "repeat",
+    "category": "action",
+    "difficulty": 2
+  },
+  "reply": {
+    "bn": "উত্তর দেওয়া",
+    "phonetic": "/rɪˈplaɪ/",
+    "audio": "reply",
+    "category": "action",
+    "difficulty": 2
+  },
+  "represent": {
+    "bn": "উপস্থাপন করা",
+    "phonetic": "/ˌreprɪˈzent/",
+    "audio": "represent",
+    "category": "action",
+    "difficulty": 3
+  },
+  "require": {
+    "bn": "প্রয়োজন",
+    "phonetic": "/rɪˈkwaɪər/",
+    "audio": "require",
+    "category": "action",
+    "difficulty": 2
+  },
+  "rest": {
+    "bn": "বিশ্রাম",
+    "phonetic": "/rest/",
+    "audio": "rest",
+    "category": "abstract",
+    "difficulty": 1
+  },
+  "result": {
+    "bn": "ফলাফল",
+    "phonetic": "/rɪˈzʌlt/",
+    "audio": "result",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "return": {
+    "bn": "ফিরে আসা",
+    "phonetic": "/rɪˈtɜːrn/",
+    "audio": "return",
+    "category": "action",
+    "difficulty": 1
+  },
+  "rhythm": {
+    "bn": "ছন্দ",
+    "phonetic": "/ˈrɪðəm/",
+    "audio": "rhythm",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "rich": {
+    "bn": "ধনী",
+    "phonetic": "/rɪtʃ/",
+    "audio": "rich",
+    "category": "adjective",
+    "difficulty": 1
+  },
+  "ride": {
+    "bn": "চড়া",
+    "phonetic": "/raɪd/",
+    "audio": "ride",
+    "category": "action",
+    "difficulty": 1
+  },
+  "right": {
+    "bn": "সঠিক",
+    "phonetic": "/raɪt/",
+    "audio": "right",
+    "category": "adjective",
+    "difficulty": 1
+  },
+  "ring": {
+    "bn": "আংটি",
+    "phonetic": "/rɪŋ/",
+    "audio": "ring",
+    "category": "object",
+    "difficulty": 1
+  },
+  "rise": {
+    "bn": "বৃদ্ধি",
+    "phonetic": "/raɪz/",
+    "audio": "rise",
+    "category": "action",
+    "difficulty": 2
+  },
+  "river": {
+    "bn": "নদী",
+    "phonetic": "/ˈrɪvər/",
+    "audio": "river",
+    "category": "nature",
+    "difficulty": 1
+  },
+  "rock": {
+    "bn": "পাথর",
+    "phonetic": "/rɑːk/",
+    "audio": "rock",
+    "category": "nature",
+    "difficulty": 1
+  },
+  "roll": {
+    "bn": "রোল",
+    "phonetic": "/roʊl/",
+    "audio": "roll",
+    "category": "action",
+    "difficulty": 2
+  },
+  "roof": {
+    "bn": "ছাদ",
+    "phonetic": "/ruːf/",
+    "audio": "roof",
+    "category": "object",
+    "difficulty": 2
+  },
+  "room": {
+    "bn": "কক্ষ",
+    "phonetic": "/ruːm/",
+    "audio": "room",
+    "category": "place",
+    "difficulty": 1
+  },
+  "root": {
+    "bn": "মূল",
+    "phonetic": "/ruːt/",
+    "audio": "root",
+    "category": "nature",
+    "difficulty": 2
+  },
+  "rope": {
+    "bn": "দড়ি",
+    "phonetic": "/roʊp/",
+    "audio": "rope",
+    "category": "object",
+    "difficulty": 2
+  },
+  "rose": {
+    "bn": "গোলাপ",
+    "phonetic": "/roʊz/",
+    "audio": "rose",
+    "category": "nature",
+    "difficulty": 1
+  },
+  "round": {
+    "bn": "গোল",
+    "phonetic": "/raʊnd/",
+    "audio": "round",
+    "category": "adjective",
+    "difficulty": 1
+  },
+  "row": {
+    "bn": "সারি",
+    "phonetic": "/roʊ/",
+    "audio": "row",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "rule": {
+    "bn": "নিয়ম",
+    "phonetic": "/ruːl/",
+    "audio": "rule",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "run": {
+    "bn": "দৌড়ানো",
+    "phonetic": "/rʌn/",
+    "audio": "run",
+    "category": "action",
+    "difficulty": 1
+  },
+  "safe": {
+    "bn": "নিরাপদ",
+    "phonetic": "/seɪf/",
+    "audio": "safe",
+    "category": "adjective",
+    "difficulty": 1
+  },
+  "said": {
+    "bn": "বলেছে",
+    "phonetic": "/sed/",
+    "audio": "said",
+    "category": "action",
+    "difficulty": 1
+  },
+  "sail": {
+    "bn": "পাল",
+    "phonetic": "/seɪl/",
+    "audio": "sail",
+    "category": "action",
+    "difficulty": 2
+  },
+  "same": {
+    "bn": "একই",
+    "phonetic": "/seɪm/",
+    "audio": "same",
+    "category": "adjective",
+    "difficulty": 1
+  },
+  "sand": {
+    "bn": "বালু",
+    "phonetic": "/sænd/",
+    "audio": "sand",
+    "category": "nature",
+    "difficulty": 1
+  },
+  "sat": {
+    "bn": "বসেছিল",
+    "phonetic": "/sæt/",
+    "audio": "sat",
+    "category": "action",
+    "difficulty": 1
+  },
+  "save": {
+    "bn": "রক্ষা করা",
+    "phonetic": "/seɪv/",
+    "audio": "save",
+    "category": "action",
+    "difficulty": 1
+  },
+  "say": {
+    "bn": "বলা",
+    "phonetic": "/seɪ/",
+    "audio": "say",
+    "category": "action",
+    "difficulty": 1
+  },
+  "scale": {
+    "bn": "স্কেল",
+    "phonetic": "/skeɪl/",
+    "audio": "scale",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "school": {
+    "bn": "স্কুল",
+    "phonetic": "/skuːl/",
+    "audio": "school",
+    "category": "place",
+    "difficulty": 1
+  },
+  "science": {
+    "bn": "বিজ্ঞান",
+    "phonetic": "/ˈsaɪəns/",
+    "audio": "science",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "score": {
+    "bn": "স্কোর",
+    "phonetic": "/skɔːr/",
+    "audio": "score",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "sea": {
+    "bn": "সমুদ্র",
+    "phonetic": "/siː/",
+    "audio": "sea",
+    "category": "nature",
+    "difficulty": 1
+  },
+  "search": {
+    "bn": "অনুসন্ধান",
+    "phonetic": "/sɜːrtʃ/",
+    "audio": "search",
+    "category": "action",
+    "difficulty": 2
+  },
+  "season": {
+    "bn": "ঋতু",
+    "phonetic": "/ˈsiːzn/",
+    "audio": "season",
+    "category": "abstract",
+    "difficulty": 1
+  },
+  "seat": {
+    "bn": "আসন",
+    "phonetic": "/siːt/",
+    "audio": "seat",
+    "category": "object",
+    "difficulty": 1
+  },
+  "second": {
+    "bn": "দ্বিতীয়",
+    "phonetic": "/ˈsekənd/",
+    "audio": "second",
+    "category": "number",
+    "difficulty": 1
+  },
+  "section": {
+    "bn": "বিভাগ",
+    "phonetic": "/ˈsekʃn/",
+    "audio": "section",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "see": {
+    "bn": "দেখা",
+    "phonetic": "/siː/",
+    "audio": "see",
+    "category": "action",
+    "difficulty": 1
+  },
+  "seed": {
+    "bn": "বীজ",
+    "phonetic": "/siːd/",
+    "audio": "seed",
+    "category": "nature",
+    "difficulty": 2
+  },
+  "seem": {
+    "bn": "মনে হওয়া",
+    "phonetic": "/siːm/",
+    "audio": "seem",
+    "category": "action",
+    "difficulty": 2
+  },
+  "self": {
+    "bn": "নিজে",
+    "phonetic": "/self/",
+    "audio": "self",
+    "category": "abstract",
+    "difficulty": 1
+  },
+  "sell": {
+    "bn": "বিক্রি করা",
+    "phonetic": "/sel/",
+    "audio": "sell",
+    "category": "action",
+    "difficulty": 1
+  },
+  "send": {
+    "bn": "পাঠানো",
+    "phonetic": "/send/",
+    "audio": "send",
+    "category": "action",
+    "difficulty": 1
+  },
+  "sense": {
+    "bn": "জ্ঞান",
+    "phonetic": "/sens/",
+    "audio": "sense",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "sentence": {
+    "bn": "বাক্য",
+    "phonetic": "/ˈsentəns/",
+    "audio": "sentence",
+    "category": "abstract",
+    "difficulty": 1
+  },
+  "separate": {
+    "bn": "আলাদা",
+    "phonetic": "/ˈseprət/",
+    "audio": "separate",
+    "category": "adjective",
+    "difficulty": 2
+  },
+  "serve": {
+    "bn": "সেবা করা",
+    "phonetic": "/sɜːrv/",
+    "audio": "serve",
+    "category": "action",
+    "difficulty": 2
+  },
+  "set": {
+    "bn": "সেট",
+    "phonetic": "/set/",
+    "audio": "set",
+    "category": "action",
+    "difficulty": 1
+  },
+  "settle": {
+    "bn": "স্থায়ী হওয়া",
+    "phonetic": "/ˈsetl/",
+    "audio": "settle",
+    "category": "action",
+    "difficulty": 3
+  },
+  "seven": {
+    "bn": "সাত",
+    "phonetic": "/ˈsevn/",
+    "audio": "seven",
+    "category": "number",
+    "difficulty": 1
+  },
+  "several": {
+    "bn": "কয়েকটি",
+    "phonetic": "/ˈsevrəl/",
+    "audio": "several",
+    "category": "determiner",
+    "difficulty": 1
+  },
+  "shall": {
+    "bn": "হবে",
+    "phonetic": "/ʃæl/",
+    "audio": "shall",
+    "category": "action",
+    "difficulty": 1
+  },
+  "shape": {
+    "bn": "আকৃতি",
+    "phonetic": "/ʃeɪp/",
+    "audio": "shape",
+    "category": "abstract",
+    "difficulty": 1
+  },
+  "share": {
+    "bn": "ভাগ করা",
+    "phonetic": "/ʃer/",
+    "audio": "share",
+    "category": "action",
+    "difficulty": 2
+  },
+  "sharp": {
+    "bn": "ধারালো",
+    "phonetic": "/ʃɑːrp/",
+    "audio": "sharp",
+    "category": "adjective",
+    "difficulty": 1
+  },
+  "she": {
+    "bn": "সে",
+    "phonetic": "/ʃiː/",
+    "audio": "she",
+    "category": "pronoun",
+    "difficulty": 1
+  },
+  "sheet": {
+    "bn": "শীট",
+    "phonetic": "/ʃiːt/",
+    "audio": "sheet",
+    "category": "object",
+    "difficulty": 2
+  },
+  "shell": {
+    "bn": "শেল",
+    "phonetic": "/ʃel/",
+    "audio": "shell",
+    "category": "object",
+    "difficulty": 2
+  },
+  "shine": {
+    "bn": "উজ্জ্বল",
+    "phonetic": "/ʃaɪn/",
+    "audio": "shine",
+    "category": "action",
+    "difficulty": 2
+  },
+  "ship": {
+    "bn": "জাহাজ",
+    "phonetic": "/ʃɪp/",
+    "audio": "ship",
+    "category": "object",
+    "difficulty": 1
+  },
+  "shoe": {
+    "bn": "জুতো",
+    "phonetic": "/ʃuː/",
+    "audio": "shoe",
+    "category": "object",
+    "difficulty": 1
+  },
+  "shop": {
+    "bn": "দোকান",
+    "phonetic": "/ʃɑːp/",
+    "audio": "shop",
+    "category": "place",
+    "difficulty": 1
+  },
+  "shore": {
+    "bn": "তীর",
+    "phonetic": "/ʃɔːr/",
+    "audio": "shore",
+    "category": "place",
+    "difficulty": 2
+  },
+  "short": {
+    "bn": "ছোট",
+    "phonetic": "/ʃɔːrt/",
+    "audio": "short",
+    "category": "adjective",
+    "difficulty": 1
+  },
+  "should": {
+    "bn": "উচিত",
+    "phonetic": "/ʃʊd/",
+    "audio": "should",
+    "category": "action",
+    "difficulty": 1
+  },
+  "shoulder": {
+    "bn": "কাঁধ",
+    "phonetic": "/ˈʃoʊldər/",
+    "audio": "shoulder",
+    "category": "body",
+    "difficulty": 1
+  },
+  "shout": {
+    "bn": "চিৎকার করা",
+    "phonetic": "/ʃaʊt/",
+    "audio": "shout",
+    "category": "action",
+    "difficulty": 1
+  },
+  "show": {
+    "bn": "দেখানো",
+    "phonetic": "/ʃoʊ/",
+    "audio": "show",
+    "category": "action",
+    "difficulty": 1
+  },
+  "side": {
+    "bn": "পাশ",
+    "phonetic": "/saɪd/",
+    "audio": "side",
+    "category": "abstract",
+    "difficulty": 1
+  },
+  "sight": {
+    "bn": "দৃষ্টি",
+    "phonetic": "/saɪt/",
+    "audio": "sight",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "sign": {
+    "bn": "চিহ্ন",
+    "phonetic": "/saɪn/",
+    "audio": "sign",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "silent": {
+    "bn": "নীরব",
+    "phonetic": "/ˈsaɪlənt/",
+    "audio": "silent",
+    "category": "adjective",
+    "difficulty": 2
+  },
+  "silver": {
+    "bn": "রুপা",
+    "phonetic": "/ˈsɪlvər/",
+    "audio": "silver",
+    "category": "material",
+    "difficulty": 2
+  },
+  "similar": {
+    "bn": "অনুরূপ",
+    "phonetic": "/ˈsɪmələr/",
+    "audio": "similar",
+    "category": "adjective",
+    "difficulty": 2
+  },
+  "simple": {
+    "bn": "সহজ",
+    "phonetic": "/ˈsɪmpl/",
+    "audio": "simple",
+    "category": "adjective",
+    "difficulty": 1
+  },
+  "since": {
+    "bn": "যেহেতু",
+    "phonetic": "/sɪns/",
+    "audio": "since",
+    "category": "conjunction",
+    "difficulty": 1
+  },
+  "sing": {
+    "bn": "গান গাওয়া",
+    "phonetic": "/sɪŋ/",
+    "audio": "sing",
+    "category": "action",
+    "difficulty": 1
+  },
+  "single": {
+    "bn": "একক",
+    "phonetic": "/ˈsɪŋɡl/",
+    "audio": "single",
+    "category": "adjective",
+    "difficulty": 1
+  },
+  "sister": {
+    "bn": "বোন",
+    "phonetic": "/ˈsɪstər/",
+    "audio": "sister",
+    "category": "person",
+    "difficulty": 1
+  },
+  "sit": {
+    "bn": "বসা",
+    "phonetic": "/sɪt/",
+    "audio": "sit",
+    "category": "action",
+    "difficulty": 1
+  },
+  "six": {
+    "bn": "ছয়",
+    "phonetic": "/sɪks/",
+    "audio": "six",
+    "category": "number",
+    "difficulty": 1
+  },
+  "size": {
+    "bn": "আকার",
+    "phonetic": "/saɪz/",
+    "audio": "size",
+    "category": "abstract",
+    "difficulty": 1
+  },
+  "skill": {
+    "bn": "দক্ষতা",
+    "phonetic": "/skɪl/",
+    "audio": "skill",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "skin": {
+    "bn": "ত্বক",
+    "phonetic": "/skɪn/",
+    "audio": "skin",
+    "category": "body",
+    "difficulty": 1
+  },
+  "sky": {
+    "bn": "আকাশ",
+    "phonetic": "/skaɪ/",
+    "audio": "sky",
+    "category": "nature",
+    "difficulty": 1
+  },
+  "sleep": {
+    "bn": "ঘুমানো",
+    "phonetic": "/sliːp/",
+    "audio": "sleep",
+    "category": "action",
+    "difficulty": 1
+  },
+  "slow": {
+    "bn": "ধীর",
+    "phonetic": "/sloʊ/",
+    "audio": "slow",
+    "category": "adjective",
+    "difficulty": 1
+  },
+  "small": {
+    "bn": "ছোট",
+    "phonetic": "/smɔːl/",
+    "audio": "small",
+    "category": "adjective",
+    "difficulty": 1
+  },
+  "smell": {
+    "bn": "গন্ধ",
+    "phonetic": "/smel/",
+    "audio": "smell",
+    "category": "abstract",
+    "difficulty": 1
+  },
+  "smile": {
+    "bn": "হাসি",
+    "phonetic": "/smaɪl/",
+    "audio": "smile",
+    "category": "action",
+    "difficulty": 1
+  },
+  "snow": {
+    "bn": "তুষার",
+    "phonetic": "/snoʊ/",
+    "audio": "snow",
+    "category": "nature",
+    "difficulty": 1
+  },
+  "so": {
+    "bn": "তাই",
+    "phonetic": "/soʊ/",
+    "audio": "so",
+    "category": "conjunction",
+    "difficulty": 1
+  },
+  "soft": {
+    "bn": "নরম",
+    "phonetic": "/sɔːft/",
+    "audio": "soft",
+    "category": "adjective",
+    "difficulty": 1
+  },
+  "soil": {
+    "bn": "মাটি",
+    "phonetic": "/sɔɪl/",
+    "audio": "soil",
+    "category": "nature",
+    "difficulty": 2
+  },
+  "soldier": {
+    "bn": "সৈনিক",
+    "phonetic": "/ˈsoʊldʒər/",
+    "audio": "soldier",
+    "category": "person",
+    "difficulty": 2
+  },
+  "solution": {
+    "bn": "সমাধান",
+    "phonetic": "/səˈluːʃn/",
+    "audio": "solution",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "solve": {
+    "bn": "সমাধান করা",
+    "phonetic": "/sɔːlv/",
+    "audio": "solve",
+    "category": "action",
+    "difficulty": 2
+  },
+  "some": {
+    "bn": "কিছু",
+    "phonetic": "/sʌm/",
+    "audio": "some",
+    "category": "determiner",
+    "difficulty": 1
+  },
+  "someone": {
+    "bn": "কেউ একজন",
+    "phonetic": "/ˈsʌmwʌn/",
+    "audio": "someone",
+    "category": "pronoun",
+    "difficulty": 1
+  },
+  "something": {
+    "bn": "কিছু একটা",
+    "phonetic": "/ˈsʌmθɪŋ/",
+    "audio": "something",
+    "category": "pronoun",
+    "difficulty": 1
+  },
+  "sometimes": {
+    "bn": "মাঝে মাঝে",
+    "phonetic": "/ˈsʌmtaɪmz/",
+    "audio": "sometimes",
+    "category": "adverb",
+    "difficulty": 1
+  },
+  "son": {
+    "bn": "ছেলে",
+    "phonetic": "/sʌn/",
+    "audio": "son",
+    "category": "person",
+    "difficulty": 1
+  },
+  "song": {
+    "bn": "গান",
+    "phonetic": "/sɔːŋ/",
+    "audio": "song",
+    "category": "abstract",
+    "difficulty": 1
+  },
+  "soon": {
+    "bn": "শিগগিরই",
+    "phonetic": "/suːn/",
+    "audio": "soon",
+    "category": "adverb",
+    "difficulty": 1
+  },
+  "sound": {
+    "bn": "শব্দ",
+    "phonetic": "/saʊnd/",
+    "audio": "sound",
+    "category": "abstract",
+    "difficulty": 1
+  },
+  "south": {
+    "bn": "দক্ষিণ",
+    "phonetic": "/saʊθ/",
+    "audio": "south",
+    "category": "nature",
+    "difficulty": 1
+  },
+  "space": {
+    "bn": "মহাকাশ",
+    "phonetic": "/speɪs/",
+    "audio": "space",
+    "category": "place",
+    "difficulty": 1
+  },
+  "speak": {
+    "bn": "কথা বলা",
+    "phonetic": "/spiːk/",
+    "audio": "speak",
+    "category": "action",
+    "difficulty": 1
+  },
+  "special": {
+    "bn": "বিশেষ",
+    "phonetic": "/ˈspeʃl/",
+    "audio": "special",
+    "category": "adjective",
+    "difficulty": 1
+  },
+  "speech": {
+    "bn": "বক্তৃতা",
+    "phonetic": "/spiːtʃ/",
+    "audio": "speech",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "speed": {
+    "bn": "গতি",
+    "phonetic": "/spiːd/",
+    "audio": "speed",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "spell": {
+    "bn": "বানান",
+    "phonetic": "/spel/",
+    "audio": "spell",
+    "category": "action",
+    "difficulty": 2
+  },
+  "spend": {
+    "bn": "ব্যয় করা",
+    "phonetic": "/spend/",
+    "audio": "spend",
+    "category": "action",
+    "difficulty": 2
+  },
+  "sport": {
+    "bn": "খেলাধুলা",
+    "phonetic": "/spɔːrt/",
+    "audio": "sport",
+    "category": "abstract",
+    "difficulty": 1
+  },
+  "spring": {
+    "bn": "বসন্ত",
+    "phonetic": "/sprɪŋ/",
+    "audio": "spring",
+    "category": "abstract",
+    "difficulty": 1
+  },
+  "square": {
+    "bn": "বর্গক্ষেত্র",
+    "phonetic": "/skwer/",
+    "audio": "square",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "stand": {
+    "bn": "দাঁড়ানো",
+    "phonetic": "/stænd/",
+    "audio": "stand",
+    "category": "action",
+    "difficulty": 1
+  },
+  "star": {
+    "bn": "তারকা",
+    "phonetic": "/stɑːr/",
+    "audio": "star",
+    "category": "nature",
+    "difficulty": 1
+  },
+  "start": {
+    "bn": "শুরু",
+    "phonetic": "/stɑːrt/",
+    "audio": "start",
+    "category": "action",
+    "difficulty": 1
+  },
+  "state": {
+    "bn": "রাষ্ট্র",
+    "phonetic": "/steɪt/",
+    "audio": "state",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "station": {
+    "bn": "স্টেশন",
+    "phonetic": "/ˈsteɪʃn/",
+    "audio": "station",
+    "category": "place",
+    "difficulty": 1
+  },
+  "stay": {
+    "bn": "থাকা",
+    "phonetic": "/steɪ/",
+    "audio": "stay",
+    "category": "action",
+    "difficulty": 1
+  },
+  "stead": {
+    "bn": "পরিবর্তে",
+    "phonetic": "/sted/",
+    "audio": "stead",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "steam": {
+    "bn": "বাষ্প",
+    "phonetic": "/stiːm/",
+    "audio": "steam",
+    "category": "nature",
+    "difficulty": 2
+  },
+  "steel": {
+    "bn": "ইস্পাত",
+    "phonetic": "/stiːl/",
+    "audio": "steel",
+    "category": "material",
+    "difficulty": 2
+  },
+  "step": {
+    "bn": "ধাপ",
+    "phonetic": "/step/",
+    "audio": "step",
+    "category": "abstract",
+    "difficulty": 1
+  },
+  "stick": {
+    "bn": "লাঠি",
+    "phonetic": "/stɪk/",
+    "audio": "stick",
+    "category": "object",
+    "difficulty": 2
+  },
+  "still": {
+    "bn": "এখনও",
+    "phonetic": "/stɪl/",
+    "audio": "still",
+    "category": "adverb",
+    "difficulty": 1
+  },
+  "stone": {
+    "bn": "পাথর",
+    "phonetic": "/stoʊn/",
+    "audio": "stone",
+    "category": "nature",
+    "difficulty": 1
+  },
+  "stop": {
+    "bn": "থামা",
+    "phonetic": "/stɑːp/",
+    "audio": "stop",
+    "category": "action",
+    "difficulty": 1
+  },
+  "store": {
+    "bn": "দোকান",
+    "phonetic": "/stɔːr/",
+    "audio": "store",
+    "category": "place",
+    "difficulty": 1
+  },
+  "story": {
+    "bn": "গল্প",
+    "phonetic": "/ˈstɔːri/",
+    "audio": "story",
+    "category": "abstract",
+    "difficulty": 1
+  },
+  "straight": {
+    "bn": "সোজা",
+    "phonetic": "/streɪt/",
+    "audio": "straight",
+    "category": "adjective",
+    "difficulty": 1
+  },
+  "strange": {
+    "bn": "অদ্ভুত",
+    "phonetic": "/streɪndʒ/",
+    "audio": "strange",
+    "category": "adjective",
+    "difficulty": 2
+  },
+  "stream": {
+    "bn": "স্রোত",
+    "phonetic": "/striːm/",
+    "audio": "stream",
+    "category": "nature",
+    "difficulty": 3
+  },
+  "street": {
+    "bn": "রাস্তা",
+    "phonetic": "/striːt/",
+    "audio": "street",
+    "category": "place",
+    "difficulty": 1
+  },
+  "stretch": {
+    "bn": "প্রসারিত",
+    "phonetic": "/stretʃ/",
+    "audio": "stretch",
+    "category": "action",
+    "difficulty": 3
+  },
+  "string": {
+    "bn": "সুতা",
+    "phonetic": "/strɪŋ/",
+    "audio": "string",
+    "category": "object",
+    "difficulty": 2
+  },
+  "strong": {
+    "bn": "শক্তিশালী",
+    "phonetic": "/strɔːŋ/",
+    "audio": "strong",
+    "category": "adjective",
+    "difficulty": 1
+  },
+  "student": {
+    "bn": "ছাত্র",
+    "phonetic": "/ˈstuːdnt/",
+    "audio": "student",
+    "category": "person",
+    "difficulty": 1
+  },
+  "study": {
+    "bn": "অধ্যয়ন",
+    "phonetic": "/ˈstʌdi/",
+    "audio": "study",
+    "category": "action",
+    "difficulty": 1
+  },
+  "subject": {
+    "bn": "বিষয়",
+    "phonetic": "/ˈsʌbdʒɪkt/",
+    "audio": "subject",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "substance": {
+    "bn": "পদার্থ",
+    "phonetic": "/ˈsʌbstəns/",
+    "audio": "substance",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "subtract": {
+    "bn": "বিয়োগ করা",
+    "phonetic": "/səbˈtrækt/",
+    "audio": "subtract",
+    "category": "action",
+    "difficulty": 2
+  },
+  "success": {
+    "bn": "সাফল্য",
+    "phonetic": "/səkˈses/",
+    "audio": "success",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "sudden": {
+    "bn": "হঠাৎ",
+    "phonetic": "/ˈsʌdn/",
+    "audio": "sudden",
+    "category": "adjective",
+    "difficulty": 1
+  },
+  "suffix": {
+    "bn": "প্রত্যয়",
+    "phonetic": "/ˈsʌfɪks/",
+    "audio": "suffix",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "sugar": {
+    "bn": "চিনি",
+    "phonetic": "/ˈʃʊɡər/",
+    "audio": "sugar",
+    "category": "food",
+    "difficulty": 1
+  },
+  "suggest": {
+    "bn": "পরামর্শ দেওয়া",
+    "phonetic": "/səˈdʒest/",
+    "audio": "suggest",
+    "category": "action",
+    "difficulty": 2
+  },
+  "suit": {
+    "bn": "স্যুট",
+    "phonetic": "/suːt/",
+    "audio": "suit",
+    "category": "object",
+    "difficulty": 2
+  },
+  "summer": {
+    "bn": "গ্রীষ্ম",
+    "phonetic": "/ˈsʌmər/",
+    "audio": "summer",
+    "category": "abstract",
+    "difficulty": 1
+  },
+  "sun": {
+    "bn": "সূর্য",
+    "phonetic": "/sʌn/",
+    "audio": "sun",
+    "category": "nature",
+    "difficulty": 1
+  },
+  "supply": {
+    "bn": "সরবরাহ",
+    "phonetic": "/səˈplaɪ/",
+    "audio": "supply",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "support": {
+    "bn": "সমর্থন",
+    "phonetic": "/səˈpɔːrt/",
+    "audio": "support",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "sure": {
+    "bn": "নিশ্চিত",
+    "phonetic": "/ʃʊr/",
+    "audio": "sure",
+    "category": "adjective",
+    "difficulty": 1
+  },
+  "surface": {
+    "bn": "পৃষ্ঠ",
+    "phonetic": "/ˈsɜːrfɪs/",
+    "audio": "surface",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "surprise": {
+    "bn": "অবাক করা",
+    "phonetic": "/sərˈpraɪz/",
+    "audio": "surprise",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "swim": {
+    "bn": "সাঁতার কাটা",
+    "phonetic": "/swɪm/",
+    "audio": "swim",
+    "category": "action",
+    "difficulty": 1
+  },
+  "syllable": {
+    "bn": "শব্দাংশ",
+    "phonetic": "/ˈsɪləbl/",
+    "audio": "syllable",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "system": {
+    "bn": "পদ্ধতি",
+    "phonetic": "/ˈsɪstəm/",
+    "audio": "system",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "table": {
+    "bn": "টেবিল",
+    "phonetic": "/ˈteɪbl/",
+    "audio": "table",
+    "category": "object",
+    "difficulty": 1
+  },
+  "tail": {
+    "bn": "লেজ",
+    "phonetic": "/teɪl/",
+    "audio": "tail",
+    "category": "body",
+    "difficulty": 1
+  },
+  "take": {
+    "bn": "নেওয়া",
+    "phonetic": "/teɪk/",
+    "audio": "take",
+    "category": "action",
+    "difficulty": 1
+  },
+  "talk": {
+    "bn": "কথা বলা",
+    "phonetic": "/tɔːk/",
+    "audio": "talk",
+    "category": "action",
+    "difficulty": 1
+  },
+  "tall": {
+    "bn": "লম্বা",
+    "phonetic": "/tɔːl/",
+    "audio": "tall",
+    "category": "adjective",
+    "difficulty": 1
+  },
+  "taste": {
+    "bn": "স্বাদ",
+    "phonetic": "/teɪst/",
+    "audio": "taste",
+    "category": "abstract",
+    "difficulty": 1
+  },
+  "tax": {
+    "bn": "ট্যাক্স",
+    "phonetic": "/tæks/",
+    "audio": "tax",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "tea": {
+    "bn": "চা",
+    "phonetic": "/tiː/",
+    "audio": "tea",
+    "category": "food",
+    "difficulty": 1
+  },
+  "teach": {
+    "bn": "শেখানো",
+    "phonetic": "/tiːtʃ/",
+    "audio": "teach",
+    "category": "action",
+    "difficulty": 1
+  },
+  "team": {
+    "bn": "দল",
+    "phonetic": "/tiːm/",
+    "audio": "team",
+    "category": "group",
+    "difficulty": 1
+  },
+  "teeth": {
+    "bn": "দাঁত",
+    "phonetic": "/tiːθ/",
+    "audio": "teeth",
+    "category": "body",
+    "difficulty": 1
+  },
+  "tell": {
+    "bn": "বলা",
+    "phonetic": "/tel/",
+    "audio": "tell",
+    "category": "action",
+    "difficulty": 1
+  },
+  "temperature": {
+    "bn": "তাপমাত্রা",
+    "phonetic": "/ˈtemprətʃər/",
+    "audio": "temperature",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "ten": {
+    "bn": "দশ",
+    "phonetic": "/ten/",
+    "audio": "ten",
+    "category": "number",
+    "difficulty": 1
+  },
+  "term": {
+    "bn": "শব্দ",
+    "phonetic": "/tɜːrm/",
+    "audio": "term",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "test": {
+    "bn": "পরীক্ষা",
+    "phonetic": "/test/",
+    "audio": "test",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "than": {
+    "bn": "চেয়ে",
+    "phonetic": "/ðæn/",
+    "audio": "than",
+    "category": "preposition",
+    "difficulty": 1
+  },
+  "thank": {
+    "bn": "ধন্যবাদ",
+    "phonetic": "/θæŋk/",
+    "audio": "thank",
+    "category": "action",
+    "difficulty": 1
+  },
+  "that": {
+    "bn": "ওটি",
+    "phonetic": "/ðæt/",
+    "audio": "that",
+    "category": "pronoun",
+    "difficulty": 1
+  },
+  "the": {
+    "bn": "টি",
+    "phonetic": "/ðə/",
+    "audio": "the",
+    "category": "determiner",
+    "difficulty": 1
+  },
+  "their": {
+    "bn": "তাদের",
+    "phonetic": "/ðer/",
+    "audio": "their",
+    "category": "pronoun",
+    "difficulty": 1
+  },
+  "them": {
+    "bn": "তাদেরকে",
+    "phonetic": "/ðem/",
+    "audio": "them",
+    "category": "pronoun",
+    "difficulty": 1
+  },
+  "then": {
+    "bn": "তারপর",
+    "phonetic": "/ðen/",
+    "audio": "then",
+    "category": "adverb",
+    "difficulty": 1
+  },
+  "there": {
+    "bn": "সেখানে",
+    "phonetic": "/ðer/",
+    "audio": "there",
+    "category": "adverb",
+    "difficulty": 1
+  },
+  "these": {
+    "bn": "এগুলো",
+    "phonetic": "/ðiːz/",
+    "audio": "these",
+    "category": "pronoun",
+    "difficulty": 1
+  },
+  "they": {
+    "bn": "তারা",
+    "phonetic": "/ðeɪ/",
+    "audio": "they",
+    "category": "pronoun",
+    "difficulty": 1
+  },
+  "thick": {
+    "bn": "পুরু",
+    "phonetic": "/θɪk/",
+    "audio": "thick",
+    "category": "adjective",
+    "difficulty": 2
+  },
+  "thin": {
+    "bn": "পাতলা",
+    "phonetic": "/θɪn/",
+    "audio": "thin",
+    "category": "adjective",
+    "difficulty": 2
+  },
+  "thing": {
+    "bn": "জিনিস",
+    "phonetic": "/θɪŋ/",
+    "audio": "thing",
+    "category": "object",
+    "difficulty": 1
+  },
+  "think": {
+    "bn": "চিন্তা করা",
+    "phonetic": "/θɪŋk/",
+    "audio": "think",
+    "category": "action",
+    "difficulty": 1
+  },
+  "third": {
+    "bn": "তৃতীয়",
+    "phonetic": "/θɜːrd/",
+    "audio": "third",
+    "category": "number",
+    "difficulty": 1
+  },
+  "this": {
+    "bn": "এটি",
+    "phonetic": "/ðɪs/",
+    "audio": "this",
+    "category": "pronoun",
+    "difficulty": 1
+  },
+  "those": {
+    "bn": "সেগুলো",
+    "phonetic": "/ðoʊz/",
+    "audio": "those",
+    "category": "pronoun",
+    "difficulty": 1
+  },
+  "though": {
+    "bn": "যদিও",
+    "phonetic": "/ðoʊ/",
+    "audio": "though",
+    "category": "conjunction",
+    "difficulty": 1
+  },
+  "thought": {
+    "bn": "চিন্তা",
+    "phonetic": "/θɔːt/",
+    "audio": "thought",
+    "category": "abstract",
+    "difficulty": 1
+  },
+  "thousand": {
+    "bn": "হাজার",
+    "phonetic": "/ˈθaʊznd/",
+    "audio": "thousand",
+    "category": "number",
+    "difficulty": 1
+  },
+  "three": {
+    "bn": "তিন",
+    "phonetic": "/θriː/",
+    "audio": "three",
+    "category": "number",
+    "difficulty": 1
+  },
+  "through": {
+    "bn": "মাধ্যমে",
+    "phonetic": "/θruː/",
+    "audio": "through",
+    "category": "preposition",
+    "difficulty": 1
+  },
+  "throw": {
+    "bn": "নিক্ষেপ করা",
+    "phonetic": "/θroʊ/",
+    "audio": "throw",
+    "category": "action",
+    "difficulty": 1
+  },
+  "thus": {
+    "bn": "এভাবে",
+    "phonetic": "/ðʌs/",
+    "audio": "thus",
+    "category": "adverb",
+    "difficulty": 3
+  },
+  "tie": {
+    "bn": "টাই",
+    "phonetic": "/taɪ/",
+    "audio": "tie",
+    "category": "action",
+    "difficulty": 2
+  },
+  "time": {
+    "bn": "সময়",
+    "phonetic": "/taɪm/",
+    "audio": "time",
+    "category": "abstract",
+    "difficulty": 1
+  },
+  "tiny": {
+    "bn": "ক্ষুদ্র",
+    "phonetic": "/ˈtaɪni/",
+    "audio": "tiny",
+    "category": "adjective",
+    "difficulty": 2
+  },
+  "tire": {
+    "bn": "টায়ার",
+    "phonetic": "/ˈtaɪər/",
+    "audio": "tire",
+    "category": "object",
+    "difficulty": 2
+  },
+  "to": {
+    "bn": "প্রতি",
+    "phonetic": "/tu/",
+    "audio": "to",
+    "category": "preposition",
+    "difficulty": 1
+  },
+  "today": {
+    "bn": "আজ",
+    "phonetic": "/təˈdeɪ/",
+    "audio": "today",
+    "category": "abstract",
+    "difficulty": 1
+  },
+  "together": {
+    "bn": "একত্রে",
+    "phonetic": "/təˈɡeðər/",
+    "audio": "together",
+    "category": "adverb",
+    "difficulty": 1
+  },
+  "told": {
+    "bn": "বলেছে",
+    "phonetic": "/toʊld/",
+    "audio": "told",
+    "category": "action",
+    "difficulty": 1
+  },
+  "too": {
+    "bn": "অত্যধিক",
+    "phonetic": "/tuː/",
+    "audio": "too",
+    "category": "adverb",
+    "difficulty": 1
+  },
+  "took": {
+    "bn": "নিয়েছিল",
+    "phonetic": "/tʊk/",
+    "audio": "took",
+    "category": "action",
+    "difficulty": 1
+  },
+  "tool": {
+    "bn": "সরঞ্জাম",
+    "phonetic": "/tuːl/",
+    "audio": "tool",
+    "category": "object",
+    "difficulty": 1
+  },
+  "top": {
+    "bn": "শীর্ষ",
+    "phonetic": "/tɑːp/",
+    "audio": "top",
+    "category": "abstract",
+    "difficulty": 1
+  },
+  "total": {
+    "bn": "মোট",
+    "phonetic": "/ˈtoʊtl/",
+    "audio": "total",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "touch": {
+    "bn": "স্পর্শ",
+    "phonetic": "/tʌtʃ/",
+    "audio": "touch",
+    "category": "action",
+    "difficulty": 1
+  },
+  "toward": {
+    "bn": "দিকে",
+    "phonetic": "/təˈwɔːrd/",
+    "audio": "toward",
+    "category": "preposition",
+    "difficulty": 2
+  },
+  "town": {
+    "bn": "শহর",
+    "phonetic": "/taʊn/",
+    "audio": "town",
+    "category": "place",
+    "difficulty": 1
+  },
+  "track": {
+    "bn": "ট্র্যাক",
+    "phonetic": "/træk/",
+    "audio": "track",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "trade": {
+    "bn": "বাণিজ্য",
+    "phonetic": "/treɪd/",
+    "audio": "trade",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "train": {
+    "bn": "ট্রেন",
+    "phonetic": "/treɪn/",
+    "audio": "train",
+    "category": "object",
+    "difficulty": 1
+  },
+  "travel": {
+    "bn": "ভ্রমণ করা",
+    "phonetic": "/ˈtrævl/",
+    "audio": "travel",
+    "category": "action",
+    "difficulty": 1
+  },
+  "triangle": {
+    "bn": "ত্রিভুজ",
+    "phonetic": "/ˈtraɪæŋɡl/",
+    "audio": "triangle",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "trip": {
+    "bn": "ভ্রমণ",
+    "phonetic": "/trɪp/",
+    "audio": "trip",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "trouble": {
+    "bn": "অসুবিধা",
+    "phonetic": "/ˈtrʌbl/",
+    "audio": "trouble",
+    "category": "abstract",
+    "difficulty": 1
+  },
+  "truck": {
+    "bn": "ট্রাক",
+    "phonetic": "/trʌk/",
+    "audio": "truck",
+    "category": "object",
+    "difficulty": 1
+  },
+  "true": {
+    "bn": "সত্য",
+    "phonetic": "/truː/",
+    "audio": "true",
+    "category": "adjective",
+    "difficulty": 1
+  },
+  "try": {
+    "bn": "চেষ্টা করা",
+    "phonetic": "/traɪ/",
+    "audio": "try",
+    "category": "action",
+    "difficulty": 1
+  },
+  "tube": {
+    "bn": "টিউব",
+    "phonetic": "/tuːb/",
+    "audio": "tube",
+    "category": "object",
+    "difficulty": 3
+  },
+  "turn": {
+    "bn": "বাঁক",
+    "phonetic": "/tɜːrn/",
+    "audio": "turn",
+    "category": "action",
+    "difficulty": 1
+  },
+  "two": {
+    "bn": "দুই",
+    "phonetic": "/tuː/",
+    "audio": "two",
+    "category": "number",
+    "difficulty": 1
+  },
+  "type": {
+    "bn": "ধরন",
+    "phonetic": "/taɪp/",
+    "audio": "type",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "uncle": {
+    "bn": "চাচা",
+    "phonetic": "/ˈʌŋkl/",
+    "audio": "uncle",
+    "category": "person",
+    "difficulty": 1
+  },
+  "under": {
+    "bn": "নিচে",
+    "phonetic": "/ˈʌndər/",
+    "audio": "under",
+    "category": "preposition",
+    "difficulty": 1
+  },
+  "understand": {
+    "bn": "বোঝা",
+    "phonetic": "/ˌʌndərˈstænd/",
+    "audio": "understand",
+    "category": "action",
+    "difficulty": 1
+  },
+  "unit": {
+    "bn": "একক",
+    "phonetic": "/ˈjuːnɪt/",
+    "audio": "unit",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "until": {
+    "bn": "পর্যন্ত",
+    "phonetic": "/ənˈtɪl/",
+    "audio": "until",
+    "category": "preposition",
+    "difficulty": 1
+  },
+  "up": {
+    "bn": "উপরে",
+    "phonetic": "/ʌp/",
+    "audio": "up",
+    "category": "preposition",
+    "difficulty": 1
+  },
+  "upon": {
+    "bn": "উপরে",
+    "phonetic": "/əˈpɑːn/",
+    "audio": "upon",
+    "category": "preposition",
+    "difficulty": 2
+  },
+  "us": {
+    "bn": "আমাদের",
+    "phonetic": "/ʌs/",
+    "audio": "us",
+    "category": "pronoun",
+    "difficulty": 1
+  },
+  "use": {
+    "bn": "ব্যবহার",
+    "phonetic": "/juːs/",
+    "audio": "use",
+    "category": "action",
+    "difficulty": 1
+  },
+  "usual": {
+    "bn": "স্বাভাবিক",
+    "phonetic": "/ˈjuːʒuəl/",
+    "audio": "usual",
+    "category": "adjective",
+    "difficulty": 2
+  },
+  "valley": {
+    "bn": "উপত্যকা",
+    "phonetic": "/ˈvæli/",
+    "audio": "valley",
+    "category": "place",
+    "difficulty": 2
+  },
+  "value": {
+    "bn": "মূল্য",
+    "phonetic": "/ˈvæljuː/",
+    "audio": "value",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "verb": {
+    "bn": "ক্রিয়া",
+    "phonetic": "/vɜːrb/",
+    "audio": "verb",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "very": {
+    "bn": "খুব",
+    "phonetic": "/ˈveri/",
+    "audio": "very",
+    "category": "adverb",
+    "difficulty": 1
+  },
+  "view": {
+    "bn": "দৃশ্য",
+    "phonetic": "/vjuː/",
+    "audio": "view",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "village": {
+    "bn": "গ্রাম",
+    "phonetic": "/ˈvɪlɪdʒ/",
+    "audio": "village",
+    "category": "place",
+    "difficulty": 1
+  },
+  "visit": {
+    "bn": "ভ্রমণ",
+    "phonetic": "/ˈvɪzɪt/",
+    "audio": "visit",
+    "category": "action",
+    "difficulty": 1
+  },
+  "voice": {
+    "bn": "কণ্ঠস্বর",
+    "phonetic": "/vɔɪs/",
+    "audio": "voice",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "vowel": {
+    "bn": "স্বরবর্ণ",
+    "phonetic": "/ˈvaʊəl/",
+    "audio": "vowel",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "wait": {
+    "bn": "অপেক্ষা করা",
+    "phonetic": "/weɪt/",
+    "audio": "wait",
+    "category": "action",
+    "difficulty": 1
+  },
+  "walk": {
+    "bn": "হাঁটা",
+    "phonetic": "/wɔːk/",
+    "audio": "walk",
+    "category": "action",
+    "difficulty": 1
+  },
+  "wall": {
+    "bn": "দেয়াল",
+    "phonetic": "/wɔːl/",
+    "audio": "wall",
+    "category": "object",
+    "difficulty": 1
+  },
+  "want": {
+    "bn": "চাওয়া",
+    "phonetic": "/wɑːnt/",
+    "audio": "want",
+    "category": "action",
+    "difficulty": 1
+  },
+  "war": {
+    "bn": "যুদ্ধ",
+    "phonetic": "/wɔːr/",
+    "audio": "war",
+    "category": "abstract",
+    "difficulty": 1
+  },
+  "warm": {
+    "bn": "উষ্ণ",
+    "phonetic": "/wɔːrm/",
+    "audio": "warm",
+    "category": "adjective",
+    "difficulty": 1
+  },
+  "was": {
+    "bn": "ছিল",
+    "phonetic": "/wʌz/",
+    "audio": "was",
+    "category": "action",
+    "difficulty": 1
+  },
+  "wash": {
+    "bn": "ধোয়া",
+    "phonetic": "/wɑːʃ/",
+    "audio": "wash",
+    "category": "action",
+    "difficulty": 1
+  },
+  "watch": {
+    "bn": "ঘড়ি",
+    "phonetic": "/wɑːtʃ/",
+    "audio": "watch",
+    "category": "object",
+    "difficulty": 1
+  },
+  "water": {
+    "bn": "পানি",
+    "phonetic": "/ˈwɔːtər/",
+    "audio": "water",
+    "category": "nature",
+    "difficulty": 1
+  },
+  "wave": {
+    "bn": "ঢেউ",
+    "phonetic": "/weɪv/",
+    "audio": "wave",
+    "category": "nature",
+    "difficulty": 2
+  },
+  "way": {
+    "bn": "পথ",
+    "phonetic": "/weɪ/",
+    "audio": "way",
+    "category": "abstract",
+    "difficulty": 1
+  },
+  "we": {
+    "bn": "আমরা",
+    "phonetic": "/wiː/",
+    "audio": "we",
+    "category": "pronoun",
+    "difficulty": 1
+  },
+  "wear": {
+    "bn": "পরিধান করা",
+    "phonetic": "/wer/",
+    "audio": "wear",
+    "category": "action",
+    "difficulty": 1
+  },
+  "weather": {
+    "bn": "আবহাওয়া",
+    "phonetic": "/ˈweðər/",
+    "audio": "weather",
+    "category": "nature",
+    "difficulty": 1
+  },
+  "week": {
+    "bn": "সপ্তাহ",
+    "phonetic": "/wiːk/",
+    "audio": "week",
+    "category": "abstract",
+    "difficulty": 1
+  },
+  "weight": {
+    "bn": "ওজন",
+    "phonetic": "/weɪt/",
+    "audio": "weight",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "well": {
+    "bn": "ভালো",
+    "phonetic": "/wel/",
+    "audio": "well",
+    "category": "adjective",
+    "difficulty": 1
+  },
+  "went": {
+    "bn": "গিয়েছিল",
+    "phonetic": "/went/",
+    "audio": "went",
+    "category": "action",
+    "difficulty": 1
+  },
+  "were": {
+    "bn": "ছিল",
+    "phonetic": "/wɜːr/",
+    "audio": "were",
+    "category": "action",
+    "difficulty": 1
+  },
+  "west": {
+    "bn": "পশ্চিম",
+    "phonetic": "/west/",
+    "audio": "west",
+    "category": "nature",
+    "difficulty": 1
+  },
+  "whale": {
+    "bn": "তিমি",
+    "phonetic": "/weɪl/",
+    "audio": "whale",
+    "category": "animal",
+    "difficulty": 2
+  },
+  "what": {
+    "bn": "কি",
+    "phonetic": "/wʌt/",
+    "audio": "what",
+    "category": "pronoun",
+    "difficulty": 1
+  },
+  "wheel": {
+    "bn": "চাকা",
+    "phonetic": "/wiːl/",
+    "audio": "wheel",
+    "category": "object",
+    "difficulty": 2
+  },
+  "when": {
+    "bn": "যখন",
+    "phonetic": "/wen/",
+    "audio": "when",
+    "category": "adverb",
+    "difficulty": 1
+  },
+  "where": {
+    "bn": "কোথায়",
+    "phonetic": "/wer/",
+    "audio": "where",
+    "category": "adverb",
+    "difficulty": 1
+  },
+  "whether": {
+    "bn": "কিনা",
+    "phonetic": "/ˈweðər/",
+    "audio": "whether",
+    "category": "conjunction",
+    "difficulty": 2
+  },
+  "which": {
+    "bn": "কোনটি",
+    "phonetic": "/wɪtʃ/",
+    "audio": "which",
+    "category": "pronoun",
+    "difficulty": 1
+  },
+  "while": {
+    "bn": "যখন",
+    "phonetic": "/waɪl/",
+    "audio": "while",
+    "category": "conjunction",
+    "difficulty": 1
+  },
+  "white": {
+    "bn": "সাদা",
+    "phonetic": "/waɪt/",
+    "audio": "white",
+    "category": "color",
+    "difficulty": 1
+  },
+  "who": {
+    "bn": "কে",
+    "phonetic": "/huː/",
+    "audio": "who",
+    "category": "pronoun",
+    "difficulty": 1
+  },
+  "whole": {
+    "bn": "সম্পূর্ণ",
+    "phonetic": "/hoʊl/",
+    "audio": "whole",
+    "category": "adjective",
+    "difficulty": 1
+  },
+  "whose": {
+    "bn": "যার",
+    "phonetic": "/huːz/",
+    "audio": "whose",
+    "category": "pronoun",
+    "difficulty": 2
+  },
+  "why": {
+    "bn": "কেন",
+    "phonetic": "/waɪ/",
+    "audio": "why",
+    "category": "adverb",
+    "difficulty": 1
+  },
+  "wide": {
+    "bn": "প্রশস্ত",
+    "phonetic": "/waɪd/",
+    "audio": "wide",
+    "category": "adjective",
+    "difficulty": 1
+  },
+  "wife": {
+    "bn": "স্ত্রী",
+    "phonetic": "/waɪf/",
+    "audio": "wife",
+    "category": "person",
+    "difficulty": 1
+  },
+  "wild": {
+    "bn": "বন্য",
+    "phonetic": "/waɪld/",
+    "audio": "wild",
+    "category": "adjective",
+    "difficulty": 1
+  },
+  "will": {
+    "bn": "ইচ্ছা",
+    "phonetic": "/wɪl/",
+    "audio": "will",
+    "category": "abstract",
+    "difficulty": 1
+  },
+  "win": {
+    "bn": "জয়",
+    "phonetic": "/wɪn/",
+    "audio": "win",
+    "category": "action",
+    "difficulty": 1
+  },
+  "wind": {
+    "bn": "বাতাস",
+    "phonetic": "/wɪnd/",
+    "audio": "wind",
+    "category": "nature",
+    "difficulty": 1
+  },
+  "window": {
+    "bn": "জানালা",
+    "phonetic": "/ˈwɪndoʊ/",
+    "audio": "window",
+    "category": "object",
+    "difficulty": 1
+  },
+  "wing": {
+    "bn": "ডানা",
+    "phonetic": "/wɪŋ/",
+    "audio": "wing",
+    "category": "body",
+    "difficulty": 2
+  },
+  "winter": {
+    "bn": "শীতকাল",
+    "phonetic": "/ˈwɪntər/",
+    "audio": "winter",
+    "category": "abstract",
+    "difficulty": 1
+  },
+  "wire": {
+    "bn": "তার",
+    "phonetic": "/ˈwaɪər/",
+    "audio": "wire",
+    "category": "object",
+    "difficulty": 2
+  },
+  "wise": {
+    "bn": "বিজ্ঞ",
+    "phonetic": "/waɪz/",
+    "audio": "wise",
+    "category": "adjective",
+    "difficulty": 2
+  },
+  "wish": {
+    "bn": "ইচ্ছা",
+    "phonetic": "/wɪʃ/",
+    "audio": "wish",
+    "category": "abstract",
+    "difficulty": 1
+  },
+  "with": {
+    "bn": "সাথে",
+    "phonetic": "/wɪð/",
+    "audio": "with",
+    "category": "preposition",
+    "difficulty": 1
+  },
+  "within": {
+    "bn": "মধ্যে",
+    "phonetic": "/wɪˈðɪn/",
+    "audio": "within",
+    "category": "preposition",
+    "difficulty": 1
+  },
+  "without": {
+    "bn": "ব্যতীত",
+    "phonetic": "/wɪˈθaʊt/",
+    "audio": "without",
+    "category": "preposition",
+    "difficulty": 1
+  },
+  "woman": {
+    "bn": "মহিলা",
+    "phonetic": "/ˈwʊmən/",
+    "audio": "woman",
+    "category": "person",
+    "difficulty": 1
+  },
+  "women": {
+    "bn": "মহিলারা",
+    "phonetic": "/ˈwɪmɪn/",
+    "audio": "women",
+    "category": "person",
+    "difficulty": 1
+  },
+  "wonder": {
+    "bn": "বিস্ময়",
+    "phonetic": "/ˈwʌndər/",
+    "audio": "wonder",
+    "category": "abstract",
+    "difficulty": 1
+  },
+  "wood": {
+    "bn": "কাঠ",
+    "phonetic": "/wʊd/",
+    "audio": "wood",
+    "category": "nature",
+    "difficulty": 1
+  },
+  "word": {
+    "bn": "শব্দ",
+    "phonetic": "/wɜːrd/",
+    "audio": "word",
+    "category": "abstract",
+    "difficulty": 1
+  },
+  "work": {
+    "bn": "কাজ",
+    "phonetic": "/wɜːrk/",
+    "audio": "work",
+    "category": "action",
+    "difficulty": 1
+  },
+  "world": {
+    "bn": "পৃথিবী",
+    "phonetic": "/wɜːrld/",
+    "audio": "world",
+    "category": "place",
+    "difficulty": 1
+  },
+  "write": {
+    "bn": "লেখা",
+    "phonetic": "/raɪt/",
+    "audio": "write",
+    "category": "action",
+    "difficulty": 1
+  },
+  "wrong": {
+    "bn": "ভুল",
+    "phonetic": "/rɔːŋ/",
+    "audio": "wrong",
+    "category": "adjective",
+    "difficulty": 1
+  },
+  "yard": {
+    "bn": "উঠান",
+    "phonetic": "/jɑːrd/",
+    "audio": "yard",
+    "category": "place",
+    "difficulty": 1
+  },
+  "year": {
+    "bn": "বছর",
+    "phonetic": "/jɪr/",
+    "audio": "year",
+    "category": "abstract",
+    "difficulty": 1
+  },
+  "yellow": {
+    "bn": "হলুদ",
+    "phonetic": "/ˈjeloʊ/",
+    "audio": "yellow",
+    "category": "color",
+    "difficulty": 1
+  },
+  "yes": {
+    "bn": "হ্যাঁ",
+    "phonetic": "/jes/",
+    "audio": "yes",
+    "category": "adverb",
+    "difficulty": 1
+  },
+  "yet": {
+    "bn": "এখনও",
+    "phonetic": "/jet/",
+    "audio": "yet",
+    "category": "adverb",
+    "difficulty": 1
+  },
+  "you": {
+    "bn": "তুমি",
+    "phonetic": "/ju/",
+    "audio": "you",
+    "category": "pronoun",
+    "difficulty": 1
+  },
+  "young": {
+    "bn": "তরুণ",
+    "phonetic": "/jʌŋ/",
+    "audio": "young",
+    "category": "adjective",
+    "difficulty": 1
+  },
+  "your": {
+    "bn": "তোমার",
+    "phonetic": "/jʊr/",
+    "audio": "your",
+    "category": "pronoun",
+    "difficulty": 1
+  },
+  "zero": {
+    "bn": "শূন্য",
+    "phonetic": "/ˈzɪroʊ/",
+    "audio": "zero",
+    "category": "number",
+    "difficulty": 1
+  },
+  "zoo": {
+    "bn": "চিড়িয়াখানা",
+    "phonetic": "/zuː/",
+    "audio": "zoo",
+    "category": "place",
+    "difficulty": 1
+  },
+  "tiger": {
+    "bn": "বাঘ",
+    "phonetic": "/ˈtaɪɡər/",
+    "audio": "tiger",
+    "category": "animal",
+    "difficulty": 1
+  },
+  "elephant": {
+    "bn": "হাতি",
+    "phonetic": "/ˈelɪfənt/",
+    "audio": "elephant",
+    "category": "animal",
+    "difficulty": 1
+  },
+  "monkey": {
+    "bn": "বানর",
+    "phonetic": "/ˈmʌŋki/",
+    "audio": "monkey",
+    "category": "animal",
+    "difficulty": 1
+  },
+  "rabbit": {
+    "bn": "খরগোশ",
+    "phonetic": "/ˈræbɪt/",
+    "audio": "rabbit",
+    "category": "animal",
+    "difficulty": 1
+  },
+  "snake": {
+    "bn": "সাপ",
+    "phonetic": "/sneɪk/",
+    "audio": "snake",
+    "category": "animal",
+    "difficulty": 1
+  },
+  "mouse": {
+    "bn": "ইঁদুর",
+    "phonetic": "/maʊs/",
+    "audio": "mouse",
+    "category": "animal",
+    "difficulty": 1
+  },
+  "camel": {
+    "bn": "উট",
+    "phonetic": "/ˈkæml/",
+    "audio": "camel",
+    "category": "animal",
+    "difficulty": 2
+  },
+  "giraffe": {
+    "bn": "জিরাফ",
+    "phonetic": "/dʒəˈræf/",
+    "audio": "giraffe",
+    "category": "animal",
+    "difficulty": 2
+  },
+  "banana": {
+    "bn": "কলা",
+    "phonetic": "/bəˈnænə/",
+    "audio": "banana",
+    "category": "fruit",
+    "difficulty": 1
+  },
+  "mango": {
+    "bn": "আম",
+    "phonetic": "/ˈmæŋɡoʊ/",
+    "audio": "mango",
+    "category": "fruit",
+    "difficulty": 1
+  },
+  "guava": {
+    "bn": "পেয়ারা",
+    "phonetic": "/ˈɡwɑːvə/",
+    "audio": "guava",
+    "category": "fruit",
+    "difficulty": 2
+  },
+  "lemon": {
+    "bn": "লেবু",
+    "phonetic": "/ˈlemən/",
+    "audio": "lemon",
+    "category": "fruit",
+    "difficulty": 1
+  },
+  "grapes": {
+    "bn": "আঙ্গুর",
+    "phonetic": "/ɡreɪps/",
+    "audio": "grapes",
+    "category": "fruit",
+    "difficulty": 1
+  },
+  "rice": {
+    "bn": "ভাত",
+    "phonetic": "/raɪs/",
+    "audio": "rice",
+    "category": "food",
+    "difficulty": 1
+  },
+  "honey": {
+    "bn": "মধু",
+    "phonetic": "/ˈhʌni/",
+    "audio": "honey",
+    "category": "food",
+    "difficulty": 1
+  },
+  "grandfather": {
+    "bn": "দাদা",
+    "phonetic": "/ˈɡrænfɑːðər/",
+    "audio": "grandfather",
+    "category": "person",
+    "difficulty": 1
+  },
+  "grandmother": {
+    "bn": "দাদি",
+    "phonetic": "/ˈɡrænmʌðər/",
+    "audio": "grandmother",
+    "category": "person",
+    "difficulty": 1
+  },
+  "nephew": {
+    "bn": "ভাইপো",
+    "phonetic": "/ˈnefjuː/",
+    "audio": "nephew",
+    "category": "person",
+    "difficulty": 2
+  },
+  "niece": {
+    "bn": "ভাইঝি",
+    "phonetic": "/niːs/",
+    "audio": "niece",
+    "category": "person",
+    "difficulty": 2
+  },
+  "beauty": {
+    "bn": "সৌন্দর্য",
+    "phonetic": "/ˈbjuːti/",
+    "audio": "beauty",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "bravery": {
+    "bn": "বীরত্ব",
+    "phonetic": "/ˈbreɪvəri/",
+    "audio": "bravery",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "cleanliness": {
+    "bn": "পরিচ্ছন্নতা",
+    "phonetic": "/ˈklenlinəs/",
+    "audio": "cleanliness",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "courage": {
+    "bn": "সাহস",
+    "phonetic": "/ˈkɜːrɪdʒ/",
+    "audio": "courage",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "darkness": {
+    "bn": "অন্ধকার",
+    "phonetic": "/ˈdɑːrknəs/",
+    "audio": "darkness",
+    "category": "abstract",
+    "difficulty": 1
+  },
+  "freedom": {
+    "bn": "স্বাধীনতা",
+    "phonetic": "/ˈfriːdəm/",
+    "audio": "freedom",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "friendship": {
+    "bn": "বন্ধুত্ব",
+    "phonetic": "/ˈfrendʃɪp/",
+    "audio": "friendship",
+    "category": "abstract",
+    "difficulty": 1
+  },
+  "happiness": {
+    "bn": "সুখ",
+    "phonetic": "/ˈhæpinəs/",
+    "audio": "happiness",
+    "category": "abstract",
+    "difficulty": 1
+  },
+  "honesty": {
+    "bn": "সততা",
+    "phonetic": "/ˈɑːnəsti/",
+    "audio": "honesty",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "knowledge": {
+    "bn": "জ্ঞান",
+    "phonetic": "/ˈnɑːlɪdʒ/",
+    "audio": "knowledge",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "laughter": {
+    "bn": "হাসি",
+    "phonetic": "/ˈlæftər/",
+    "audio": "laughter",
+    "category": "abstract",
+    "difficulty": 1
+  },
+  "patience": {
+    "bn": "ধৈর্য",
+    "phonetic": "/ˈpeɪʃns/",
+    "audio": "patience",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "respect": {
+    "bn": "সম্মান",
+    "phonetic": "/rɪˈspekt/",
+    "audio": "respect",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "truth": {
+    "bn": "সত্য",
+    "phonetic": "/truːθ/",
+    "audio": "truth",
+    "category": "abstract",
+    "difficulty": 1
+  },
+  "wealth": {
+    "bn": "সম্পদ",
+    "phonetic": "/welθ/",
+    "audio": "wealth",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "youth": {
+    "bn": "যৌবন",
+    "phonetic": "/juːθ/",
+    "audio": "youth",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "talent": {
+    "bn": "প্রতিভা",
+    "phonetic": "/ˈtælənt/",
+    "audio": "talent",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "spirit": {
+    "bn": "আত্মা",
+    "phonetic": "/ˈspɪrɪt/",
+    "audio": "spirit",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "shame": {
+    "bn": "লজ্জা",
+    "phonetic": "/ʃeɪm/",
+    "audio": "shame",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "safety": {
+    "bn": "নিরাপত্তা",
+    "phonetic": "/ˈseɪfti/",
+    "audio": "safety",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "pride": {
+    "bn": "গর্ব",
+    "phonetic": "/praɪd/",
+    "audio": "pride",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "poverty": {
+    "bn": "দারিদ্র্য",
+    "phonetic": "/ˈpɑːvərti/",
+    "audio": "poverty",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "justice": {
+    "bn": "বিচার",
+    "phonetic": "/ˈdʒʌstɪs/",
+    "audio": "justice",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "judgment": {
+    "bn": "বিচার",
+    "phonetic": "/ˈdʒʌdʒmənt/",
+    "audio": "judgment",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "health": {
+    "bn": "স্বাস্থ্য",
+    "phonetic": "/helθ/",
+    "audio": "health",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "growth": {
+    "bn": "বৃদ্ধি",
+    "phonetic": "/ɡroʊθ/",
+    "audio": "growth",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "fame": {
+    "bn": "খ্যাতি",
+    "phonetic": "/feɪm/",
+    "audio": "fame",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "duty": {
+    "bn": "কর্তব্য",
+    "phonetic": "/ˈduːti/",
+    "audio": "duty",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "desire": {
+    "bn": "আকাঙ্ক্ষা",
+    "phonetic": "/dɪˈzaɪər/",
+    "audio": "desire",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "culture": {
+    "bn": "সংস্কৃতি",
+    "phonetic": "/ˈkʌltʃər/",
+    "audio": "culture",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "credit": {
+    "bn": "ক্রেডিট",
+    "phonetic": "/ˈkredɪt/",
+    "audio": "credit",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "charity": {
+    "bn": "দান",
+    "phonetic": "/ˈtʃærəti/",
+    "audio": "charity",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "belief": {
+    "bn": "বিশ্বাস",
+    "phonetic": "/bɪˈliːf/",
+    "audio": "belief",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "anger": {
+    "bn": "রাগ",
+    "phonetic": "/ˈæŋɡər/",
+    "audio": "anger",
+    "category": "abstract",
+    "difficulty": 1
+  },
+  "accountant": {
+    "bn": "হিসাবরক্ষক",
+    "phonetic": "/əˈkaʊntənt/",
+    "audio": "accountant",
+    "category": "person",
+    "difficulty": 3
+  },
+  "adventure": {
+    "bn": "দুঃসাহসিক অভিযান",
+    "phonetic": "/ədˈventʃər/",
+    "audio": "adventure",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "affection": {
+    "bn": "স্নেহ",
+    "phonetic": "/əˈfekʃn/",
+    "audio": "affection",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "agreement": {
+    "bn": "চুক্তি",
+    "phonetic": "/əˈɡriːmənt/",
+    "audio": "agreement",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "agriculture": {
+    "bn": "কৃষি",
+    "phonetic": "/ˈæɡrɪkʌltʃər/",
+    "audio": "agriculture",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "ambition": {
+    "bn": "উচ্চাকাঙ্ক্ষা",
+    "phonetic": "/æmˈbɪʃn/",
+    "audio": "ambition",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "ancestor": {
+    "bn": "পূর্বপুরুষ",
+    "phonetic": "/ˈænsestər/",
+    "audio": "ancestor",
+    "category": "person",
+    "difficulty": 3
+  },
+  "apartment": {
+    "bn": "অ্যাপার্টমেন্ট",
+    "phonetic": "/əˈpɑːrtmənt/",
+    "audio": "apartment",
+    "category": "place",
+    "difficulty": 2
+  },
+  "apology": {
+    "bn": "ক্ষমা প্রার্থনা",
+    "phonetic": "/əˈpɑːlədʒi/",
+    "audio": "apology",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "appointment": {
+    "bn": "নিয়োগ",
+    "phonetic": "/əˈpɔɪntmənt/",
+    "audio": "appointment",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "architect": {
+    "bn": "স্থপতি",
+    "phonetic": "/ˈɑːrkɪtekt/",
+    "audio": "architect",
+    "category": "person",
+    "difficulty": 3
+  },
+  "argument": {
+    "bn": "যুক্তি",
+    "phonetic": "/ˈɑːrɡjumənt/",
+    "audio": "argument",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "assistant": {
+    "bn": "সহকারী",
+    "phonetic": "/əˈsɪstənt/",
+    "audio": "assistant",
+    "category": "person",
+    "difficulty": 2
+  },
+  "atmosphere": {
+    "bn": "বায়ুমণ্ডল",
+    "phonetic": "/ˈætməsfɪr/",
+    "audio": "atmosphere",
+    "category": "nature",
+    "difficulty": 3
+  },
+  "attention": {
+    "bn": "মনোযোগ",
+    "phonetic": "/əˈtenʃn/",
+    "audio": "attention",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "attraction": {
+    "bn": "আকর্ষণ",
+    "phonetic": "/əˈtrækʃn/",
+    "audio": "attraction",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "audience": {
+    "bn": "দর্শক",
+    "phonetic": "/ˈɔːdiəns/",
+    "audio": "audience",
+    "category": "group",
+    "difficulty": 3
+  },
+  "authority": {
+    "bn": "কর্তৃপক্ষ",
+    "phonetic": "/əˈθɔːrəti/",
+    "audio": "authority",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "background": {
+    "bn": "পটভূমি",
+    "phonetic": "/ˈbækɡraʊnd/",
+    "audio": "background",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "baggage": {
+    "bn": "মালামাল",
+    "phonetic": "/ˈbæɡɪdʒ/",
+    "audio": "baggage",
+    "category": "object",
+    "difficulty": 2
+  },
+  "balance": {
+    "bn": "ভারসাম্য",
+    "phonetic": "/ˈbæləns/",
+    "audio": "balance",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "balloon": {
+    "bn": "বেলুন",
+    "phonetic": "/bəˈluːn/",
+    "audio": "balloon",
+    "category": "object",
+    "difficulty": 1
+  },
+  "barrier": {
+    "bn": "প্রতিবন্ধকতা",
+    "phonetic": "/ˈbæriər/",
+    "audio": "barrier",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "battery": {
+    "bn": "ব্যাটারি",
+    "phonetic": "/ˈbætəri/",
+    "audio": "battery",
+    "category": "object",
+    "difficulty": 2
+  },
+  "behavior": {
+    "bn": "আচরণ",
+    "phonetic": "/bɪˈheɪvjər/",
+    "audio": "behavior",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "benefit": {
+    "bn": "সুবিধা",
+    "phonetic": "/ˈbenɪfɪt/",
+    "audio": "benefit",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "bicycle": {
+    "bn": "সাইকেল",
+    "phonetic": "/ˈbaɪsɪkl/",
+    "audio": "bicycle",
+    "category": "object",
+    "difficulty": 1
+  },
+  "birthday": {
+    "bn": "জন্মদিন",
+    "phonetic": "/ˈbɜːrθdeɪ/",
+    "audio": "birthday",
+    "category": "abstract",
+    "difficulty": 1
+  },
+  "blanket": {
+    "bn": "কম্বল",
+    "phonetic": "/ˈblæŋkɪt/",
+    "audio": "blanket",
+    "category": "object",
+    "difficulty": 1
+  },
+  "boundary": {
+    "bn": "সীমানা",
+    "phonetic": "/ˈbaʊndri/",
+    "audio": "boundary",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "broadcast": {
+    "bn": "সম্প্রচার",
+    "phonetic": "/ˈbrɔːdkæst/",
+    "audio": "broadcast",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "calendar": {
+    "bn": "ক্যালেন্ডার",
+    "phonetic": "/ˈkælɪndər/",
+    "audio": "calendar",
+    "category": "object",
+    "difficulty": 2
+  },
+  "campaign": {
+    "bn": "অভিযান",
+    "phonetic": "/kæmˈpeɪn/",
+    "audio": "campaign",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "capacity": {
+    "bn": "ক্ষমতা",
+    "phonetic": "/kəˈpæsəti/",
+    "audio": "capacity",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "capital": {
+    "bn": "রাজধানী",
+    "phonetic": "/ˈkæpɪtl/",
+    "audio": "capital",
+    "category": "place",
+    "difficulty": 2
+  },
+  "captain": {
+    "bn": "অধিনায়ক",
+    "phonetic": "/ˈkæptɪn/",
+    "audio": "captain",
+    "category": "person",
+    "difficulty": 2
+  },
+  "capture": {
+    "bn": "বন্দী করা",
+    "phonetic": "/ˈkæptʃər/",
+    "audio": "capture",
+    "category": "action",
+    "difficulty": 3
+  },
+  "careful": {
+    "bn": "সতর্ক",
+    "phonetic": "/ˈkerfl/",
+    "audio": "careful",
+    "category": "adjective",
+    "difficulty": 1
+  },
+  "celebrate": {
+    "bn": "উদযাপন করা",
+    "phonetic": "/ˈselɪbreɪt/",
+    "audio": "celebrate",
+    "category": "action",
+    "difficulty": 2
+  },
+  "century": {
+    "bn": "শতাব্দী",
+    "phonetic": "/ˈsentʃəri/",
+    "audio": "century",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "ceremony": {
+    "bn": "অনুষ্ঠান",
+    "phonetic": "/ˈserəmoʊni/",
+    "audio": "ceremony",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "challenge": {
+    "bn": "চ্যালেঞ্জ",
+    "phonetic": "/ˈtʃælɪndʒ/",
+    "audio": "challenge",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "champion": {
+    "bn": "চ্যাম্পিয়ন",
+    "phonetic": "/ˈtʃæmpiən/",
+    "audio": "champion",
+    "category": "person",
+    "difficulty": 2
+  },
+  "channel": {
+    "bn": "চ্যানেল",
+    "phonetic": "/ˈtʃænl/",
+    "audio": "channel",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "chapter": {
+    "bn": "অধ্যায়",
+    "phonetic": "/ˈtʃæptər/",
+    "audio": "chapter",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "chemical": {
+    "bn": "রাসায়নিক",
+    "phonetic": "/ˈkemɪkl/",
+    "audio": "chemical",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "chicken": {
+    "bn": "মুরগি",
+    "phonetic": "/ˈtʃɪkɪn/",
+    "audio": "chicken",
+    "category": "animal",
+    "difficulty": 1
+  },
+  "chimney": {
+    "bn": "চিমনি",
+    "phonetic": "/ˈtʃɪmni/",
+    "audio": "chimney",
+    "category": "object",
+    "difficulty": 3
+  },
+  "chocolate": {
+    "bn": "চকলেট",
+    "phonetic": "/ˈtʃɑːklət/",
+    "audio": "chocolate",
+    "category": "food",
+    "difficulty": 1
+  },
+  "cigarette": {
+    "bn": "সিগারেট",
+    "phonetic": "/ˌsɪɡəˈret/",
+    "audio": "cigarette",
+    "category": "object",
+    "difficulty": 3
+  },
+  "circular": {
+    "bn": "বৃত্তাকার",
+    "phonetic": "/ˈsɜːrkjələr/",
+    "audio": "circular",
+    "category": "adjective",
+    "difficulty": 3
+  },
+  "citizen": {
+    "bn": "নাগরিক",
+    "phonetic": "/ˈsɪtɪzn/",
+    "audio": "citizen",
+    "category": "person",
+    "difficulty": 3
+  },
+  "classic": {
+    "bn": "ক্লাসিক",
+    "phonetic": "/ˈklæsɪk/",
+    "audio": "classic",
+    "category": "adjective",
+    "difficulty": 3
+  },
+  "climate": {
+    "bn": "জলবায়ু",
+    "phonetic": "/ˈklaɪmət/",
+    "audio": "climate",
+    "category": "nature",
+    "difficulty": 3
+  },
+  "clothing": {
+    "bn": "পোশাক",
+    "phonetic": "/ˈkloʊðɪŋ/",
+    "audio": "clothing",
+    "category": "object",
+    "difficulty": 1
+  },
+  "cocktail": {
+    "bn": "ককটেল",
+    "phonetic": "/ˈkɑːkteɪl/",
+    "audio": "cocktail",
+    "category": "food",
+    "difficulty": 3
+  },
+  "collapse": {
+    "bn": "ভেঙে পড়া",
+    "phonetic": "/kəˈlæps/",
+    "audio": "collapse",
+    "category": "action",
+    "difficulty": 3
+  },
+  "collection": {
+    "bn": "সংগ্রহ",
+    "phonetic": "/kəˈlekʃn/",
+    "audio": "collection",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "college": {
+    "bn": "কলেজ",
+    "phonetic": "/ˈkɑːlɪdʒ/",
+    "audio": "college",
+    "category": "place",
+    "difficulty": 2
+  },
+  "combination": {
+    "bn": "সমন্বয়",
+    "phonetic": "/ˌkɑːmbɪˈneɪʃn/",
+    "audio": "combination",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "comfort": {
+    "bn": "আরাম",
+    "phonetic": "/ˈkʌmfərt/",
+    "audio": "comfort",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "command": {
+    "bn": "আদেশ",
+    "phonetic": "/kəˈmænd/",
+    "audio": "command",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "comment": {
+    "bn": "মন্তব্য",
+    "phonetic": "/ˈkɑːment/",
+    "audio": "comment",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "commerce": {
+    "bn": "বাণিজ্য",
+    "phonetic": "/ˈkɑːmɜːrs/",
+    "audio": "commerce",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "committee": {
+    "bn": "কমিটি",
+    "phonetic": "/kəˈmɪti/",
+    "audio": "committee",
+    "category": "group",
+    "difficulty": 3
+  },
+  "communication": {
+    "bn": "যোগাযোগ",
+    "phonetic": "/kəˌmjuːnɪˈkeɪʃn/",
+    "audio": "communication",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "community": {
+    "bn": "সম্প্রদায়",
+    "phonetic": "/kəˈmjuːnəti/",
+    "audio": "community",
+    "category": "group",
+    "difficulty": 3
+  },
+  "companion": {
+    "bn": "সঙ্গী",
+    "phonetic": "/kəmˈpæniən/",
+    "audio": "companion",
+    "category": "person",
+    "difficulty": 3
+  },
+  "competition": {
+    "bn": "প্রতিযোগিতা",
+    "phonetic": "/ˌkɑːmpəˈtɪʃn/",
+    "audio": "competition",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "complaint": {
+    "bn": "অভিযোগ",
+    "phonetic": "/kəmˈpleɪnt/",
+    "audio": "complaint",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "complex": {
+    "bn": "জটিল",
+    "phonetic": "/kəmˈpleks/",
+    "audio": "complex",
+    "category": "adjective",
+    "difficulty": 3
+  },
+  "component": {
+    "bn": "উপাদান",
+    "phonetic": "/kəmˈpoʊnənt/",
+    "audio": "component",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "composition": {
+    "bn": "রচনা",
+    "phonetic": "/ˌkɑːmpəˈzɪʃn/",
+    "audio": "composition",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "compound": {
+    "bn": "যৌগিক",
+    "phonetic": "/ˈkɑːmpaʊnd/",
+    "audio": "compound",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "computer": {
+    "bn": "কম্পিউটার",
+    "phonetic": "/kəmˈpjuːtər/",
+    "audio": "computer",
+    "category": "object",
+    "difficulty": 2
+  },
+  "concentration": {
+    "bn": "একাগ্রতা",
+    "phonetic": "/ˌkɑːnsnˈtreɪʃn/",
+    "audio": "concentration",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "concept": {
+    "bn": "ধারণা",
+    "phonetic": "/ˈkɑːnsept/",
+    "audio": "concept",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "conclusion": {
+    "bn": "উপসংহার",
+    "phonetic": "/kənˈkluːʒn/",
+    "audio": "conclusion",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "confidence": {
+    "bn": "আত্মবিশ্বাস",
+    "phonetic": "/ˈkɑːnfɪdəns/",
+    "audio": "confidence",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "conflict": {
+    "bn": "দ্বন্দ্ব",
+    "phonetic": "/ˈkɑːnflɪkt/",
+    "audio": "conflict",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "confusion": {
+    "bn": "বিস্ময়",
+    "phonetic": "/kənˈfjuːʒn/",
+    "audio": "confusion",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "congress": {
+    "bn": "কংগ্রেস",
+    "phonetic": "/ˈkɑːŋɡrəs/",
+    "audio": "congress",
+    "category": "group",
+    "difficulty": 3
+  },
+  "connection": {
+    "bn": "সংযোগ",
+    "phonetic": "/kəˈnekʃn/",
+    "audio": "connection",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "conscience": {
+    "bn": "বিবেক",
+    "phonetic": "/ˈkɑːnʃəns/",
+    "audio": "conscience",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "conscious": {
+    "bn": "সচেতন",
+    "phonetic": "/ˈkɑːnʃəs/",
+    "audio": "conscious",
+    "category": "adjective",
+    "difficulty": 3
+  },
+  "consequence": {
+    "bn": "পরিণতি",
+    "phonetic": "/ˈkɑːnsəkwens/",
+    "audio": "consequence",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "consider": {
+    "bn": "বিবেচনা করা",
+    "phonetic": "/kənˈsɪdər/",
+    "audio": "consider",
+    "category": "action",
+    "difficulty": 3
+  },
+  "constant": {
+    "bn": "ধ্রুবক",
+    "phonetic": "/ˈkɑːnstənt/",
+    "audio": "constant",
+    "category": "adjective",
+    "difficulty": 3
+  },
+  "construction": {
+    "bn": "নির্মাণ",
+    "phonetic": "/kənˈstrʌkʃn/",
+    "audio": "construction",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "consult": {
+    "bn": "পরামর্শ করা",
+    "phonetic": "/kənˈsʌlt/",
+    "audio": "consult",
+    "category": "action",
+    "difficulty": 3
+  },
+  "consumer": {
+    "bn": "ভোক্তা",
+    "phonetic": "/kənˈsuːmər/",
+    "audio": "consumer",
+    "category": "person",
+    "difficulty": 3
+  },
+  "contact": {
+    "bn": "যোগাযোগ",
+    "phonetic": "/ˈkɑːntækt/",
+    "audio": "contact",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "contain": {
+    "bn": "ধারণ করা",
+    "phonetic": "/kənˈteɪn/",
+    "audio": "contain",
+    "category": "action",
+    "difficulty": 3
+  },
+  "content": {
+    "bn": "বিষয়বস্তু",
+    "phonetic": "/ˈkɑːntent/",
+    "audio": "content",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "contest": {
+    "bn": "প্রতিযোগিতা",
+    "phonetic": "/ˈkɑːntest/",
+    "audio": "contest",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "context": {
+    "bn": "প্রেক্ষাপট",
+    "phonetic": "/ˈkɑːntekst/",
+    "audio": "context",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "continent": {
+    "bn": "মহাদেশ",
+    "phonetic": "/ˈkɑːntɪnənt/",
+    "audio": "continent",
+    "category": "place",
+    "difficulty": 3
+  },
+  "contract": {
+    "bn": "চুক্তি",
+    "phonetic": "/ˈkɑːntrækt/",
+    "audio": "contract",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "contrast": {
+    "bn": "বৈসাদৃশ্য",
+    "phonetic": "/ˈkɑːntræst/",
+    "audio": "contrast",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "contribution": {
+    "bn": "অবদান",
+    "phonetic": "/ˌkɑːntrɪˈbjuːʃn/",
+    "audio": "contribution",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "convenient": {
+    "bn": "সুবিধাজনক",
+    "phonetic": "/kənˈviːniənt/",
+    "audio": "convenient",
+    "category": "adjective",
+    "difficulty": 3
+  },
+  "conversation": {
+    "bn": "কথোপকথন",
+    "phonetic": "/ˌkɑːnvərˈseɪʃn/",
+    "audio": "conversation",
+    "category": "abstract",
+    "difficulty": 2
+  },
+  "convert": {
+    "bn": "রূপান্তর করা",
+    "phonetic": "/kənˈvɜːrt/",
+    "audio": "convert",
+    "category": "action",
+    "difficulty": 3
+  },
+  "convinced": {
+    "bn": "নিশ্চিত",
+    "phonetic": "/kənˈvɪnst/",
+    "audio": "convinced",
+    "category": "adjective",
+    "difficulty": 3
+  },
+  "cooperation": {
+    "bn": "সহযোগিতা",
+    "phonetic": "/koʊˌɑːpəˈreɪʃn/",
+    "audio": "cooperation",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "corporation": {
+    "bn": "কর্পোরেশন",
+    "phonetic": "/ˌkɔːrpəˈreɪʃn/",
+    "audio": "corporation",
+    "category": "group",
+    "difficulty": 3
+  },
+  "correspond": {
+    "bn": "অনুরূপ হওয়া",
+    "phonetic": "/ˌkɔːrəˈspɑːnd/",
+    "audio": "correspond",
+    "category": "action",
+    "difficulty": 3
+  },
+  "cottage": {
+    "bn": "কুটির",
+    "phonetic": "/ˈkɑːtɪdʒ/",
+    "audio": "cottage",
+    "category": "place",
+    "difficulty": 2
+  },
+  "council": {
+    "bn": "পরিষদ",
+    "phonetic": "/ˈkaʊnsl/",
+    "audio": "council",
+    "category": "group",
+    "difficulty": 3
+  },
+  "counter": {
+    "bn": "কাউন্টার",
+    "phonetic": "/ˈkaʊntər/",
+    "audio": "counter",
+    "category": "object",
+    "difficulty": 2
+  },
+  "couple": {
+    "bn": "দম্পতি",
+    "phonetic": "/ˈkʌpl/",
+    "audio": "couple",
+    "category": "group",
+    "difficulty": 2
+  },
+  "court": {
+    "bn": "আদালত",
+    "phonetic": "/kɔːrt/",
+    "audio": "court",
+    "category": "place",
+    "difficulty": 2
+  },
+  "cousin": {
+    "bn": "চাচাতো ভাই/বোন",
+    "phonetic": "/ˈkʌzn/",
+    "audio": "cousin",
+    "category": "person",
+    "difficulty": 1
+  },
+  "crack": {
+    "bn": "ফাটল",
+    "phonetic": "/kræk/",
+    "audio": "crack",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "craft": {
+    "bn": "শিল্প",
+    "phonetic": "/kræft/",
+    "audio": "craft",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "crash": {
+    "bn": "দুর্ঘটনা",
+    "phonetic": "/kræʃ/",
+    "audio": "crash",
+    "category": "action",
+    "difficulty": 3
+  },
+  "crazy": {
+    "bn": "পাগল",
+    "phonetic": "/ˈkreɪzi/",
+    "audio": "crazy",
+    "category": "adjective",
+    "difficulty": 1
+  },
+  "cream": {
+    "bn": "ক্রিম",
+    "phonetic": "/kriːm/",
+    "audio": "cream",
+    "category": "food",
+    "difficulty": 2
+  },
+  "creative": {
+    "bn": "সৃজনশীল",
+    "phonetic": "/kriˈeɪtɪv/",
+    "audio": "creative",
+    "category": "adjective",
+    "difficulty": 3
+  },
+  "creature": {
+    "bn": "প্রাণী",
+    "phonetic": "/ˈkriːtʃər/",
+    "audio": "creature",
+    "category": "nature",
+    "difficulty": 2
+  },
+  "crew": {
+    "bn": "কর্মীদল",
+    "phonetic": "/kruː/",
+    "audio": "crew",
+    "category": "group",
+    "difficulty": 3
+  },
+  "crime": {
+    "bn": "অপরাধ",
+    "phonetic": "/kraɪm/",
+    "audio": "crime",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "crisis": {
+    "bn": "সংকট",
+    "phonetic": "/ˈkraɪsɪs/",
+    "audio": "crisis",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "critic": {
+    "bn": "সমালোচক",
+    "phonetic": "/ˈkrɪtɪk/",
+    "audio": "critic",
+    "category": "person",
+    "difficulty": 3
+  },
+  "critical": {
+    "bn": "সংকটজনক",
+    "phonetic": "/ˈkrɪtɪkl/",
+    "audio": "critical",
+    "category": "adjective",
+    "difficulty": 3
+  },
+  "criticism": {
+    "bn": "সমালোচনা",
+    "phonetic": "/ˈkrɪtɪsɪzəm/",
+    "audio": "criticism",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "crop": {
+    "bn": "ফসল",
+    "phonetic": "/krɑːp/",
+    "audio": "crop",
+    "category": "nature",
+    "difficulty": 2
+  },
+  "crowd": {
+    "bn": "ভিড়",
+    "phonetic": "/kraʊd/",
+    "audio": "crowd",
+    "category": "group",
+    "difficulty": 2
+  },
+  "crucial": {
+    "bn": "অত্যন্ত গুরুত্বপূর্ণ",
+    "phonetic": "/ˈkruːʃl/",
+    "audio": "crucial",
+    "category": "adjective",
+    "difficulty": 3
+  },
+  "cruel": {
+    "bn": "নিষ্ঠুর",
+    "phonetic": "/ˈkruːəl/",
+    "audio": "cruel",
+    "category": "adjective",
+    "difficulty": 2
+  },
+  "crush": {
+    "bn": "পিষে ফেলা",
+    "phonetic": "/krʌʃ/",
+    "audio": "crush",
+    "category": "action",
+    "difficulty": 3
+  },
+  "crystal": {
+    "bn": "স্ফটিক",
+    "phonetic": "/ˈkrɪstl/",
+    "audio": "crystal",
+    "category": "material",
+    "difficulty": 3
+  },
+  "curious": {
+    "bn": "কৌতূহলী",
+    "phonetic": "/ˈkjʊriəs/",
+    "audio": "curious",
+    "category": "adjective",
+    "difficulty": 2
+  },
+  "curtain": {
+    "bn": "পর্দা",
+    "phonetic": "/ˈkɜːrtn/",
+    "audio": "curtain",
+    "category": "object",
+    "difficulty": 2
+  },
+  "curve": {
+    "bn": "বক্ররেখা",
+    "phonetic": "/kɜːrv/",
+    "audio": "curve",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "custom": {
+    "bn": "প্রথা",
+    "phonetic": "/ˈkʌstəm/",
+    "audio": "custom",
+    "category": "abstract",
+    "difficulty": 3
+  },
+  "customer": {
+    "bn": "ক্রেতা",
+    "phonetic": "/ˈkʌstəmər/",
+    "audio": "customer",
+    "category": "person",
+    "difficulty": 2
+  },
+  "cycle": {
+    "bn": "চক্র",
+    "phonetic": "/ˈsaɪkl/",
+    "audio": "cycle",
+    "category": "abstract",
+    "difficulty": 3
+  }
+}

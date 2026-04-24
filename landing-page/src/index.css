@@ -1,0 +1,27 @@
+@import "tailwindcss";
+
+@theme {
+  --font-bengali: "Hind Siliguri", sans-serif;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  body {
+    @apply bg-slate-950 text-slate-100 antialiased;
+    font-family: "Inter", sans-serif;
+  }
+}
+
+.glass {
+  @apply bg-white/5 backdrop-blur-xl border border-white/10 shadow-2xl;
+}
+
+.neon-text-cyan {
+  text-shadow: 0 0 10px rgba(34, 211, 238, 0.5), 0 0 20px rgba(34, 211, 238, 0.3);
+}
+
+.neon-border-cyan {
+  box-shadow: 0 0 15px rgba(34, 211, 238, 0.2);
+}

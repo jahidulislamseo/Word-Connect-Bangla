@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">WordConnect Bangla</string>
+    <string name="title_activity_main">WordConnect Bangla</string>
+    <string name="package_name">com.jahidul.wordconnect</string>
+    <string name="custom_url_scheme">com.jahidul.wordconnect</string>
+</resources>
