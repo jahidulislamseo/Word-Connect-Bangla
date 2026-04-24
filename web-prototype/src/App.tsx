@@ -1,8 +1,9 @@
-import React, { useState, useEffect, useMemo } from 'react';
+import { useState, useEffect, useMemo } from 'react';
+
 
 import { motion, AnimatePresence } from 'framer-motion';
 import confetti from 'canvas-confetti';
-import { Trophy, Star, RefreshCw, HelpCircle, Volume2, ChevronRight, Zap, Book, Mic, Settings, VolumeX } from 'lucide-react';
+import { Trophy, Star, RefreshCw, HelpCircle, Volume2, ChevronRight, Zap, Book, Mic, Settings } from 'lucide-react';
 
 
 import dictionaryData from './data/dictionary.json';

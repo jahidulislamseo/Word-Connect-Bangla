@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { X, Volume2, VolumeX, Smartphone, RefreshCw, LogOut } from 'lucide-react';
+import { X, Volume2, VolumeX, Smartphone, RefreshCw } from 'lucide-react';
 
 interface SettingsModalProps {
   show: boolean;
