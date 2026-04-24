@@ -36,18 +36,19 @@ const dictionary = dictionaryData as Dictionary;
 
 // --- Constants ---
 const CATEGORY_BGS: Record<string, string> = {
-  nature: '/images/nature_bg.png',
-  animal: '/images/animal_bg.png',
-  fruit: '/images/fruit_bg.png',
-  place: '/images/place_bg.png',
-  abstract: '/images/abstract_bg.png',
-  food: '/images/fruit_bg.png',
-  object: '/images/abstract_bg.png',
-  action: '/images/abstract_bg.png',
-  person: '/images/place_bg.png',
+  nature: '/play/images/nature_bg.png',
+  animal: '/play/images/animal_bg.png',
+  fruit: '/play/images/fruit_bg.png',
+  place: '/play/images/place_bg.png',
+  abstract: '/play/images/abstract_bg.png',
+  food: '/play/images/fruit_bg.png',
+  object: '/play/images/abstract_bg.png',
+  action: '/play/images/abstract_bg.png',
+  person: '/play/images/place_bg.png',
 };
 
-const DEFAULT_BG = '/images/abstract_bg.png';
+const DEFAULT_BG = '/play/images/abstract_bg.png';
+
 
 // --- Utils ---
 const playSound = (type: 'select' | 'success' | 'error' | 'click') => {
