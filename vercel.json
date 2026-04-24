@@ -1,16 +1,9 @@
 {
+  "cleanUrls": true,
   "rewrites": [
     {
-      "source": "/play",
+      "source": "/play/(.*)",
       "destination": "/play/index.html"
-    },
-    {
-      "source": "/play/",
-      "destination": "/play/index.html"
-    },
-    {
-      "source": "/play/:path*",
-      "destination": "/play/:path*"
     },
     {
       "source": "/privacy",

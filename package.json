@@ -2,6 +2,7 @@
   "name": "word-connect-bangla-monorepo",
   "private": true,
   "scripts": {
-    "build": "npm run build --prefix landing-page && npm run build --prefix web-prototype && rm -rf dist && mkdir -p dist/play && cp -r landing-page/dist/* dist/ && cp -r web-prototype/dist/* dist/play/"
+    "build": "cd landing-page && npm install && npm run build && cd ../web-prototype && npm install && npm run build && cd .. && rm -rf dist && mkdir -p dist/play && cp -r landing-page/dist/* dist/ && cp -r web-prototype/dist/* dist/play/"
+
   }
 }
