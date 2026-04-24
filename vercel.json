@@ -1,8 +1,12 @@
 {
   "rewrites": [
     {
+      "source": "/play/(.*)",
+      "destination": "/play/$1"
+    },
+    {
       "source": "/(.*)",
-      "destination": "/landing-page/$1"
+      "destination": "/$1"
     }
   ]
 }

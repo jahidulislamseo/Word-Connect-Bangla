@@ -35,13 +35,13 @@ export default function App() {
             <a href="#how-to-play" className="hover:text-white transition-colors">How to Play</a>
             <Link to="/help" className="hover:text-white transition-colors">Help</Link>
             <a 
-              href={import.meta.env.VITE_GAME_URL || "#"} 
-              target="_blank"
-              rel="noopener noreferrer"
+              href="/play/" 
               className="px-6 py-2 bg-cyan-500 text-slate-950 rounded-full hover:bg-cyan-400 transition-all font-black text-center"
             >
               PLAY WEB
             </a>
+
+
 
 
           </div>
@@ -204,13 +204,13 @@ export default function App() {
             />
             <div className="absolute inset-0 flex items-center justify-center">
               <a 
-                href={import.meta.env.VITE_GAME_URL || "#"} 
-                target="_blank"
-                rel="noopener noreferrer"
+                href="/play/" 
                 className="w-20 h-20 bg-white text-slate-950 rounded-full flex items-center justify-center shadow-2xl scale-0 group-hover:scale-100 transition-transform duration-500"
               >
                 <Play className="w-8 h-8 fill-current translate-x-1" />
               </a>
+
+
 
             </div>
           </div>
