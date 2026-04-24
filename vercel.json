@@ -1,12 +1,32 @@
 {
   "rewrites": [
     {
+      "source": "/play",
+      "destination": "/play/index.html"
+    },
+    {
+      "source": "/play/",
+      "destination": "/play/index.html"
+    },
+    {
       "source": "/play/:path*",
       "destination": "/play/:path*"
     },
     {
-      "source": "/((?!play).*)/",
-      "destination": "/$1"
+      "source": "/privacy",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/terms",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/help",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/contact",
+      "destination": "/index.html"
     }
   ]
 }
