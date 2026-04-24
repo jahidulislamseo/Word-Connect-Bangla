@@ -1,12 +1,8 @@
 {
   "rewrites": [
     {
-      "source": "/play/(.*)",
-      "destination": "/play/$1"
-    },
-    {
-      "source": "/play",
-      "destination": "/play/index.html"
+      "source": "/play/:path*",
+      "destination": "/play/:path*"
     },
     {
       "source": "/((?!play).*)/",
