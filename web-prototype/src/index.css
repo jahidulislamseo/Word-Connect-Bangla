@@ -18,6 +18,8 @@
   padding: 0;
   box-sizing: border-box;
   -webkit-tap-highlight-color: transparent;
+  user-select: none;
+  -webkit-user-select: none;
 }
 
 body {
@@ -27,6 +29,8 @@ body {
   overflow: hidden;
   height: 100vh;
   width: 100vw;
+  position: fixed;
+  touch-action: none;
   background: radial-gradient(circle at top left, #1e293b 0%, #0f172a 100%);
 }
 

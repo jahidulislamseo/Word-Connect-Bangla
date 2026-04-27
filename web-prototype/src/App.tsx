@@ -268,6 +268,16 @@ export default function App() {
     localStorage.setItem('gameSettings', JSON.stringify(newSettings));
   };
 
+  const triggerHaptic = (type: "light" | "medium" | "heavy" = "light") => {
+    if (!settings.haptics || !window.navigator.vibrate) return;
+    const patterns = {
+      light: 10,
+      medium: 30,
+      heavy: 60
+    };
+    window.navigator.vibrate(patterns[type]);
+  };
+
 
 
   const handleStart = (index: number) => {
@@ -297,6 +307,7 @@ export default function App() {
       setShowPopup(true);
       setScore(s => s + 100 + (combo * 20));
       setCombo(c => c + 1);
+      triggerHaptic('medium');
       
       // Update Collection
       if (!collectedWords.includes(lowerWord)) {
@@ -619,7 +630,7 @@ export default function App() {
         <motion.div 
           ref={containerRef}
           className="relative"
-          style={{ width: boardSize, height: boardSize }}
+          style={{ width: boardSize, height: boardSize, touchAction: 'none' }}
           animate={foundWords.length > 0 ? { scale: [1, 1.05, 1], rotate: [0, 1, -1, 0] } : {}}
           transition={{ duration: 0.4 }}
         >
