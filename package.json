@@ -2,7 +2,8 @@
   "name": "word-connect-bangla-monorepo",
   "private": true,
   "scripts": {
-    "build": "cd landing-page && npm install && npm run build && cd ../web-prototype && npm install && npm run build && cd .. && rm -rf dist && mkdir -p dist/play && cp -r landing-page/dist/* dist/ && cp -r web-prototype/dist/* dist/play/"
-
+    "build": "cd landing-page && npm install && npm run build && cd ../web-prototype && npm install && npm run build && cd .. && rm -rf dist && mkdir -p dist/play && cp -r landing-page/dist/* dist/ && cp -r web-prototype/dist/* dist/play/",
+    "mobile:android": "cd web-prototype && npm run mobile:android",
+    "mobile:apk": "cd web-prototype && npm run build && npx cap sync android && cd android && ./gradlew assembleDebug"
   }
 }

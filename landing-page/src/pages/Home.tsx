@@ -1,4 +1,4 @@
-import { motion } from 'framer-motion';
+import { motion, AnimatePresence } from 'framer-motion';
 import { 
   Download, 
   Smartphone, 
@@ -12,13 +12,25 @@ import {
   Camera,
   Send,
   Share2,
-  Volume2
+  Volume2,
+  Menu,
+  X
 } from 'lucide-react';
 import { Link } from 'react-router-dom';
-import { useState } from 'react';
+import { useState, useRef } from 'react';
 
 
 export default function App() {
+  const [isGameLoading, setIsGameLoading] = useState(false);
+  const [showGame, setShowGame] = useState(false);
+  const [isMenuOpen, setIsMenuOpen] = useState(false);
+  const gameRef = useRef<HTMLDivElement>(null);
+
+  const startQuickPlay = () => {
+    setShowGame(true);
+    setIsGameLoading(true);
+  };
+
   return (
     <div className="min-h-screen bg-slate-950 text-slate-100 selection:bg-cyan-500/30">
       {/* Navbar */}
@@ -34,18 +46,49 @@ export default function App() {
             <a href="#features" className="hover:text-white transition-colors">Features</a>
             <a href="#how-to-play" className="hover:text-white transition-colors">How to Play</a>
             <Link to="/help" className="hover:text-white transition-colors">Help</Link>
-            <a 
-              href="/play/" 
+            <button 
+              onClick={() => document.getElementById("live-game")?.scrollIntoView({ behavior: "smooth" })}
               className="px-6 py-2 bg-cyan-500 text-slate-950 rounded-full hover:bg-cyan-400 transition-all font-black text-center"
             >
-              PLAY WEB
-            </a>
-
-
-
-
+              PLAY NOW
+            </button>
           </div>
+
+          {/* Mobile Menu Button */}
+          <button 
+            onClick={() => setIsMenuOpen(!isMenuOpen)}
+            className="md:hidden p-2 text-slate-400 hover:text-white"
+          >
+            {isMenuOpen ? <X className="w-6 h-6" /> : <Menu className="w-6 h-6" />}
+          </button>
         </div>
+
+        {/* Mobile Menu */}
+        <AnimatePresence>
+          {isMenuOpen && (
+            <motion.div
+              initial={{ opacity: 0, height: 0 }}
+              animate={{ opacity: 1, height: "auto" }}
+              exit={{ opacity: 0, height: 0 }}
+              className="md:hidden glass border-t border-white/5 overflow-hidden"
+            >
+              <div className="flex flex-col gap-4 p-6 text-sm font-bold text-slate-400">
+                <a href="#features" onClick={() => setIsMenuOpen(false)} className="hover:text-white transition-colors">Features</a>
+                <a href="#how-to-play" onClick={() => setIsMenuOpen(false)} className="hover:text-white transition-colors">How to Play</a>
+                <Link to="/help" onClick={() => setIsMenuOpen(false)} className="hover:text-white transition-colors">Help</Link>
+                <button 
+                  onClick={() => {
+                    setIsMenuOpen(false);
+                    document.getElementById("live-game")?.scrollIntoView({ behavior: "smooth" });
+                  }}
+                  className="px-6 py-3 bg-cyan-500 text-slate-950 rounded-full hover:bg-cyan-400 transition-all font-black text-center"
+                >
+                  PLAY NOW
+                </button>
+              </div>
+            </motion.div>
+          )}
+        </AnimatePresence>
       </nav>
 
       {/* Hero Section */}
@@ -71,13 +114,16 @@ export default function App() {
               Learn 1,000+ words, sharpen your brain, and enjoy stunning premium visuals.
             </p>
             <div className="flex flex-wrap gap-4">
-              <button className="flex items-center gap-3 px-8 py-4 bg-white text-slate-950 rounded-2xl font-black hover:scale-105 transition-all shadow-xl">
+              <button 
+                onClick={() => document.getElementById('live-game')?.scrollIntoView({ behavior: 'smooth' })}
+                className="flex items-center gap-3 px-8 py-4 bg-white text-slate-950 rounded-2xl font-black hover:scale-105 transition-all shadow-xl"
+              >
                 <Play className="w-5 h-5 fill-slate-950" />
-                GET ON PLAY STORE
+                PLAY LIVE NOW
               </button>
               <button className="flex items-center gap-3 px-8 py-4 glass rounded-2xl font-black hover:bg-white/10 transition-all">
-                <Smartphone className="w-5 h-5" />
-                APP STORE
+                <Download className="w-5 h-5" />
+                GET APP
               </button>
             </div>
             
@@ -170,6 +216,83 @@ export default function App() {
         </div>
       </section>
 
+      {/* Live Game Section */}
+      <section id="live-game" ref={gameRef} className="py-24 px-6 relative overflow-hidden">
+        <div className="absolute inset-0 bg-gradient-to-b from-slate-950 via-cyan-950/20 to-slate-950 pointer-events-none" />
+        
+        <div className="max-w-7xl mx-auto relative z-10">
+          <div className="text-center mb-16">
+            <motion.div
+              initial={{ opacity: 0, y: 20 }}
+              whileInView={{ opacity: 1, y: 0 }}
+              viewport={{ once: true }}
+            >
+              <h2 className="text-5xl md:text-7xl font-black mb-6 tracking-tighter uppercase">
+                PLAY <span className="text-cyan-400">RIGHT HERE</span>
+              </h2>
+              <p className="text-xl text-slate-400 max-w-2xl mx-auto">
+                No downloads, no waiting. Experience the full game directly in your browser. 
+                Perfect for a quick brain workout!
+              </p>
+            </motion.div>
+          </div>
+
+          <div className="relative max-w-5xl mx-auto">
+            {/* Device Mockup Frame */}
+            <div className="relative aspect-[9/16] md:aspect-video w-full rounded-[2.5rem] md:rounded-[3.5rem] overflow-hidden border-8 border-slate-800 bg-slate-900 shadow-[0_50px_100px_rgba(0,0,0,0.6)]">
+              
+              {!showGame ? (
+                <div className="absolute inset-0 flex flex-col items-center justify-center bg-slate-900 group">
+                  <div className="absolute inset-0 opacity-40">
+                    <img 
+                      src="/images/game_preview.png" 
+                      alt="Game Preview" 
+                      className="w-full h-full object-cover blur-sm group-hover:scale-105 transition-transform duration-700"
+                    />
+                  </div>
+                  <div className="absolute inset-0 bg-slate-900/60" />
+                  
+                  <motion.button
+                    whileHover={{ scale: 1.05 }}
+                    whileTap={{ scale: 0.95 }}
+                    onClick={startQuickPlay}
+                    className="relative z-10 flex flex-col items-center gap-6"
+                  >
+                    <div className="w-24 h-24 bg-cyan-500 rounded-full flex items-center justify-center shadow-[0_0_50px_rgba(34,211,238,0.4)] group-hover:shadow-[0_0_80px_rgba(34,211,238,0.6)] transition-all">
+                      <Play className="w-10 h-10 fill-slate-950 translate-x-1" />
+                    </div>
+                    <span className="text-2xl font-black uppercase tracking-widest text-white group-hover:text-cyan-400 transition-colors">
+                      Start Quick Play
+                    </span>
+                  </motion.button>
+                </div>
+              ) : (
+                <div className="w-full h-full relative">
+                  {isGameLoading && (
+                    <div className="absolute inset-0 flex items-center justify-center bg-slate-900 z-20">
+                      <div className="flex flex-col items-center gap-4">
+                        <div className="w-12 h-12 border-4 border-cyan-500/20 border-t-cyan-500 rounded-full animate-spin" />
+                        <p className="text-cyan-400 font-black uppercase tracking-widest text-sm">Loading Experience...</p>
+                      </div>
+                    </div>
+                  )}
+                  <iframe 
+                    src={window.location.hostname === "localhost" ? "http://localhost:5174/play/" : "/play/"} 
+                    className="w-full h-full border-none"
+                    onLoad={() => setIsGameLoading(false)}
+                    title="WordConnect Bangla Game"
+                  />
+                </div>
+              )}
+            </div>
+
+            {/* Decorative Elements */}
+            <div className="absolute -top-10 -left-10 w-40 h-40 bg-cyan-500/20 rounded-full blur-3xl" />
+            <div className="absolute -bottom-10 -right-10 w-40 h-40 bg-purple-500/20 rounded-full blur-3xl" />
+          </div>
+        </div>
+      </section>
+
       {/* How to Play Section */}
       <section id="how-to-play" className="py-24 px-6">
         <div className="max-w-7xl mx-auto grid md:grid-cols-2 gap-16 items-center">
@@ -227,7 +350,7 @@ export default function App() {
             </div>
           </div>
           
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+          <div className="grid grid-cols-2 lg:grid-cols-4 gap-4">
             {[
               { name: 'Nature', img: '/images/nature_bg.png', color: 'from-green-500' },
               { name: 'Animals', img: '/images/animal_bg.png', color: 'from-orange-500' },
@@ -359,7 +482,7 @@ export default function App() {
         <div className="max-w-7xl mx-auto pt-8 border-t border-white/5 flex flex-col md:flex-row justify-between items-center gap-4 text-slate-500 text-xs font-bold uppercase tracking-widest">
           <p>© 2026 WORDCONNECT BANGLA. ALL RIGHTS RESERVED.</p>
           <div className="flex gap-8">
-            <span>Designed with ❤️ by Antigravity</span>
+            <span>Designed with ❤️ by Jahidul Islam</span>
           </div>
         </div>
       </footer>

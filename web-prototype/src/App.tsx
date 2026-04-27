@@ -1,4 +1,4 @@
-import { useState, useEffect, useMemo } from 'react';
+import { useState, useEffect, useMemo, useRef } from 'react';
 
 
 import { motion, AnimatePresence } from 'framer-motion';
@@ -438,18 +438,34 @@ export default function App() {
   const currentCategory = lastFoundEntry?.category || dictionary[targetWord.toLowerCase()]?.category || 'abstract';
   const bgImage = CATEGORY_BGS[currentCategory] || DEFAULT_BG;
 
-  // Calculate positions for circular tiles
-  const radius = 100;
+  // Calculate positions for circular tiles dynamically based on screen size
+  const [boardSize, setBoardSize] = useState(300);
+  const containerRef = useRef<HTMLDivElement>(null);
+
+  useEffect(() => {
+    const updateSize = () => {
+      if (containerRef.current) {
+        const width = containerRef.current.offsetWidth;
+        setBoardSize(Math.min(width, 300));
+      }
+    };
+    updateSize();
+    window.addEventListener('resize', updateSize);
+    return () => window.removeEventListener('resize', updateSize);
+  }, []);
+
+  const radius = boardSize * 0.35;
   const tilePositions = letters.map((_, i) => {
     const angle = (i * (360 / letters.length) - 90) * (Math.PI / 180);
+    const center = boardSize / 2;
     return {
-      x: Math.cos(angle) * radius + 150 - 32,
-      y: Math.sin(angle) * radius + 150 - 32
+      x: Math.cos(angle) * radius + center - 32,
+      y: Math.sin(angle) * radius + center - 32
     };
   });
 
   return (
-    <div className="relative flex flex-col items-center justify-between h-full p-6 text-white overflow-hidden transition-all duration-1000"
+    <div className="relative flex flex-col items-center justify-between h-full p-4 md:p-6 text-white overflow-hidden transition-all duration-1000"
          onMouseUp={handleEnd}
          onTouchEnd={handleEnd}>
       
@@ -601,7 +617,9 @@ export default function App() {
 
         {/* Interaction Board */}
         <motion.div 
-          className="relative w-[300px] h-[300px]"
+          ref={containerRef}
+          className="relative"
+          style={{ width: boardSize, height: boardSize }}
           animate={foundWords.length > 0 ? { scale: [1, 1.05, 1], rotate: [0, 1, -1, 0] } : {}}
           transition={{ duration: 0.4 }}
         >
